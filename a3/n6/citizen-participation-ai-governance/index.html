@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Citizen participation and the use of AI to improve governance guidelines | GESPYE Gestión Pública y Empresarial</title>
+  <meta name="description" content="The objective of this research is to describe the digital evolution of governments through the implementation of various technologies, such as artificial intelligence (AI), and to examine how this has contributed to enhancing citizen participation.">
+  <link rel="canonical" href="https://articulos.gespye.mx/a3/n6/art2/citizen-participation-ai-governance/">
+
+  <!-- Google Scholar / Highwire Press -->
+  <meta name="citation_title" content="Citizen participation and the use of AI to improve governance guidelines">
+  <meta name="citation_author" content="Camacho-Sotelo, Cinthya Karina">
+  <meta name="citation_author_institution" content="University of Guadalajara">
+  <meta name="citation_author" content="Vázquez Yáñez, Adriana">
+  <meta name="citation_author_institution" content="University of Guadalajara">
+  <meta name="citation_author" content="Lugo Valdez, César">
+  <meta name="citation_author_institution" content="University of Guadalajara">
+  <meta name="citation_publication_date" content="2026/06/20">
+  <meta name="citation_online_date" content="2026/06/20">
+  <meta name="citation_journal_title" content="GESPYE Gestión Pública y Empresarial">
+  <meta name="citation_journal_abbrev" content="GESPYE">
+  <meta name="citation_publisher" content="Universidad de Guadalajara">
+  <meta name="citation_issn" content="3061-8630">
+  <meta name="citation_volume" content="3">
+  <meta name="citation_issue" content="6">
+  <meta name="citation_firstpage" content="19">
+  <meta name="citation_lastpage" content="39">
+  <meta name="citation_doi" content="10.32870/gespye.vi6.2">
+  <meta name="citation_abstract_html_url" content="https://articulos.gespye.mx/a3/n6/art2/citizen-participation-ai-governance/">
+  <meta name="citation_pdf_url" content="https://articulos.gespye.mx/a3/n6/art2/citizen-participation-ai-governance/citizen-participation-ai-governance.pdf">
+  <meta name="citation_language" content="en">
+  <meta name="citation_keywords" content="Artificial intelligence; Citizen participation; Governance">
+
+  <!-- Dublin Core -->
+  <meta name="DC.title" content="Citizen participation and the use of AI to improve governance guidelines">
+  <meta name="DC.creator" content="Camacho-Sotelo, Cinthya Karina">
+  <meta name="DC.creator" content="Vázquez Yáñez, Adriana">
+  <meta name="DC.creator" content="Lugo Valdez, César">
+  <meta name="DC.publisher" content="Universidad de Guadalajara">
+  <meta name="DC.date" content="2026-06-20">
+  <meta name="DC.type" content="Text.Serial.Journal">
+  <meta name="DC.format" content="text/html">
+  <meta name="DC.identifier" content="https://articulos.gespye.mx/a3/n6/art2/citizen-participation-ai-governance/">
+  <meta name="DC.identifier.DOI" content="10.32870/gespye.vi6.2">
+  <meta name="DC.source" content="GESPYE Gestión Pública y Empresarial">
+  <meta name="DC.source.ISSN" content="3061-8630">
+  <meta name="DC.source.Volume" content="3">
+  <meta name="DC.source.Issue" content="6">
+  <meta name="DC.language" content="en">
+  <meta name="DC.rights" content="CC BY-SA 4.0">
+  <meta name="DC.description" content="The objective of this research is to describe the digital evolution of governments through the implementation of various technologies, such as artificial intelligence (AI), and to examine how this has contributed to enhancing citizen participation.">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="GESPYE Gestión Pública y Empresarial">
+  <meta property="og:title" content="Citizen participation and the use of AI to improve governance guidelines">
+  <meta property="og:description" content="The objective of this research is to describe the digital evolution of governments through the implementation of various technologies, such as artificial intelligence (AI), and to examine how this has contributed to enhancing citizen participation.">
+  <meta property="og:url" content="https://articulos.gespye.mx/a3/n6/art2/citizen-participation-ai-governance/">
+  <meta property="og:locale" content="es_MX">
+  <meta property="article:published_time" content="2026-06-20">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Citizen participation and the use of AI to improve governance guidelines">
+  <meta name="twitter:description" content="The objective of this research is to describe the digital evolution of governments through the implementation of various technologies, such as artificial intelligence (AI), and to examine how this has contributed to enhancing citizen participation.">
+
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
+  .gespye-article{font-family:'Montserrat',Arial,sans-serif;color:#1f2937;font-size:9pt;line-height:1.65;max-width:1120px;margin:0 auto;padding:14px 18px;background:#fff;}
+  .gespye-article *{box-sizing:border-box;}
+  .gespye-article p{font-size:9pt;line-height:1.65;margin:0 0 12px 0;text-align:justify;}
+  .gespye-article a{color:#2563c3;text-decoration:underline;overflow-wrap:anywhere;}
+  .gespye-category{font-size:10pt;text-align:left;color:#666;margin:0 0 8px 0;}
+  .gespye-title{font-size:24pt;line-height:1.18;font-weight:800;color:#202124;margin:4px 0 14px 0;text-align:left;letter-spacing:-.02em;}
+  .gespye-subtitle{font-size:13pt;line-height:1.4;color:#666;font-weight:500;margin:0 0 16px 0;text-align:left;}
+  .gespye-orange-line{height:3px;background:#f05a28;margin:12px 0 22px 0;width:100%;}
+  .gespye-meta-card{background:#f4f4f4;border-left:4px solid #f05a28;border-radius:8px;padding:18px 24px;margin:0 0 24px 0;color:#747474;}
+  .gespye-meta-card p{margin:0 0 8px 0;text-align:left;color:#747474;font-size:9pt;line-height:1.6;}
+  .gespye-meta-card p:last-child{margin-bottom:0;}
+  .gespye-authors{background:#f7f9fc;border-left:4px solid #1f3f77;padding:18px 24px;margin:22px 0 26px 0;}
+  .author-item{margin:0 0 14px 0;}
+  .author-item:last-child{margin-bottom:0;}
+  .author-name{font-size:10pt!important;font-weight:700!important;color:#1f2937;margin:0 0 2px 0!important;text-align:left!important;}
+  .author-meta{font-size:9pt!important;color:#1f2937;margin:0!important;text-align:left!important;line-height:1.55!important;}
+  .gespye-article h2{font-size:10pt;line-height:1.4;font-weight:700;color:#0f2e5f;margin:24px 0 10px 0;padding-bottom:5px;border-bottom:1px solid #dfe3ea;}
+  .gespye-article h3{font-size:10pt;line-height:1.4;font-weight:700;font-style:italic;color:#1f2937;margin:18px 0 8px 0;}
+  .gespye-article .label{margin:16px 0 4px 0!important;text-align:left!important;}
+  .gespye-article ul,.gespye-article ol{font-size:9pt;margin:8px 0 14px 22px;padding:0;line-height:1.6;}
+  .gespye-article li{margin-bottom:8px;text-align:justify;}
+  .gespye-article .reference{padding-left:1.8em;text-indent:-1.8em;text-align:left;overflow-wrap:anywhere;}
+  .gespye-license{border-top:1px solid #dfe3ea;margin-top:28px;padding-top:14px;color:#555;text-align:left!important;}
+  @media(max-width:700px){.gespye-title{font-size:20pt}.gespye-subtitle{font-size:11pt}.gespye-meta-card,.gespye-authors{padding:14px 16px}}
+  </style>
+</head>
+<body>
+<div class="gespye-article">
+  <div class="gespye-category">Artículos</div>
+  <h1 class="gespye-title">Citizen participation and the use of AI to improve governance guidelines</h1>
+  <div class="gespye-orange-line"></div>
+  <div class="gespye-subtitle">Participación ciudadana y el uso de la IA para mejorar las
+directrices de gobernanza</div>
+  <div class="gespye-meta-card">
+    <p><strong>GESPYE
+GESTIÓN PÚBLICA Y EMPRESARIAL (e-ISSN: 3061-8630)</strong></p>
+    <p>Año 3, Núm. 6 (jul-dic 2026) • Págs. 19-39 • DOI https://doi.org/10.32870/gespye.vi6.2</p>
+    <p>Recibido: 16/01/2026 • Aprobado: 15/05/2026 • Publicado:
+20/06/2026</p>
+    <p>Artículos</p>
+  </div>
+  <div class="gespye-authors">
+    <div class="author-item"><p class="author-name">Cinthya Karina Camacho-Sotelo</p><p class="author-meta">University of Guadalajara, email: <a href="mailto:cinthya.camacho@cucea.udg.mx">cinthya.camacho@cucea.udg.mx</a>,
+Orcid: <a href="https://orcid.org/0009-0008-3369-4287">https://orcid.org/0009-0008-3369-4287</a></p></div><div class="author-item"><p class="author-name">Adriana Vázquez Yáñez</p><p class="author-meta">University of Guadalajara, email: <a href="mailto:adriana.vazquez0217@alumnos.udg.mx">adriana.vazquez0217@alumnos.udg.mx</a>
+Orcid: <a href="https://orcid.org/0009-0002-3151-391X">https://orcid.org/0009-0002-3151-391X</a></p></div><div class="author-item"><p class="author-name">César Lugo Valdez</p><p class="author-meta">University of Guadalajara, email: <a href="mailto:cesar.lugo2225@alumnos.udg.mx">cesar.lugo2225@alumnos.udg.mx</a>
+Orcid: <a href="https://orcid.org/0009-0006-9878-6989">https://orcid.org/0009-0006-9878-6989</a></p></div>
+  </div>
+  <p class="label"><strong>Abstract.</strong></p><p>The objective of this research is to
+describe the digital evolution of governments through the implementation
+of various technologies, such as artificial intelligence (AI), and to
+examine how this has contributed to enhancing citizen participation.
+Governments face two primary challenges: the first is to improve trust
+with citizens and encourage their participation in government decisions,
+and the second is to utilize technologies that facilitate this
+interaction. Currently, countries have made progress on AI issues,
+primarily in regulating it. However, the use of AI in citizen
+participation is still in its early stages, as it is mainly employed for
+citizen consultations regarding government information, procedures, and
+government outreach to citizens on specific issues. Still, it has not
+advanced to the point where governments encourage citizens to be more
+involved in collaborating on all stages of a consultation, even after it
+is implemented.</p><p class="label"><strong>Keywords:</strong></p><p>Artificial intelligence, Citizen
+participation, Governance</p><p class="label"><strong>Resumen.</strong></p><p>El objetivo de esta investigación es
+describir la evolución digital de los gobiernos mediante la
+implementación de diversas tecnologías, como la inteligencia artificial
+(IA), y examinar cómo esto ha contribuido a mejorar la participación
+ciudadana. Los gobiernos se enfrentan a dos desafíos principales: el
+primero es mejorar la confianza con los ciudadanos y fomentar su
+participación en las decisiones gubernamentales, y el segundo es
+utilizar tecnologías que faciliten esta interacción. Actualmente, los
+países han avanzado en materia de IA, principalmente en su regulación.
+Sin embargo, el uso de la IA en la participación ciudadana aún se
+encuentra en sus primeras etapas, ya que se emplea principalmente para
+consultas ciudadanas sobre información, procedimientos y comunicación
+gubernamental con los ciudadanos sobre temas específicos. Todavía no ha
+avanzado lo suficiente como para que los gobiernos fomenten una mayor
+participación ciudadana en todas las etapas de una consulta, incluso
+después de su implementación.</p><p class="label"><strong>Palabras clave:</strong></p><p>Inteligencia artificial,
+Participación ciudadana, Gobernanza</p><h2><strong>Introduction</strong></h2><p>Governments today depend, more
+than ever, on the participation of their citizens, so that their voices
+and opinions can help shape public policies that are better aligned with
+real needs. Through citizen participation, governments seek to analyze
+those needs from the perspective of the people who experience them
+daily, supporting more informed decision-making. This participation has
+limitations, however, as it has been used primarily as a consultative
+measure. Consulting citizens—despite its value—poses the challenge of
+evaluating the contributions received, with implications for the use of
+resources, including human resources (Romberg & Escher, 2024).</p><p>Criado (2016) notes that public management is undergoing
+transformations similar to those occurring in other political, social,
+and economic dimensions, and that this change is closely tied to
+technological advances and their repercussions across society. One of
+the tools driving the evolution toward digital governments is artificial
+intelligence (AI), increasingly used and ever more present in public
+discourse (Palak Dev & Sainger, 2025). In the public sector it is
+used to provide better services (Sharma & Padashetty, 2025) and to
+transform internal processes (Mellouli et al., 2024).</p><p>Governments have historically sought greater efficiency, including in
+citizen participation, and have undergone several digitalization-focused
+transformations (Puerta et al., 2023). After electronic government and
+e-government 2.0—which incorporated social networks into public
+operations—we are entering e-government 3.0, where tools such as
+artificial intelligence, blockchain, and virtual and augmented reality
+are already transforming the delivery of public services and governance
+(Vrabie, 2023). Within this process of public innovation, digitalization
+and digital transformation generate value for governments and citizens,
+with digital government and open data as central axes (Ospina &
+Zambrano, 2023).</p><p>Artificial intelligence is changing how governments interact with
+citizens, manage information for decision-making, and address social
+challenges in what is termed interactive governance, allowing citizens
+to be involved more effectively in policy formulation and service
+delivery. AI can process the large volumes of information generated
+through participation, improving both the quality of decisions and
+citizen engagement (Pislaru et al., 2024, citing Zuiderwijk et al.,
+2021). As Pislaru et al. (2024) observe, AI's capacity to optimize
+administrative processes reduces inefficiencies and allows public
+officials to focus on strategic, citizen-centered decisions.</p><p>The purpose of this research is to analyze how citizen participation,
+supported by artificial intelligence, has been implemented in various
+governments that have adopted it. Being a relatively new and evolving
+phenomenon, it requires constant analysis. We therefore seek to identify
+the main success factors of certain countries in applying AI in their
+governments, as well as the limitations of AI implementation in citizen
+participation in the context of specific countries and cities.</p><h2><strong>What is citizen participation?</strong></h2><p>Participation is a flexible term whose definition varies according to
+context, and it can be categorized by the sense in which it is
+interpreted—sharing or exchanging information, inclusion in
+decision-making, and the exercise of influence and control. From the
+perspective of sharing or exchanging, it implies the active involvement
+of stakeholders in discussing ideas, dedicating time and resources,
+making decisions, and taking joint action to achieve a development
+objective (Mohammed, 2013). From a citizenship approach, participation
+is a form of self-expression: beyond being contributors or customers,
+citizens act as critics and shapers of the policies that affect their
+lives, a role made more relevant by the growth of the third sector and
+increasing public–private collaboration (Lahdili & Nyadera,
+2024).</p><p>Citizen participation can also be defined as the actions and
+initiatives of citizens and organizations aimed at influencing policies
+and governance at various levels (Citizen Participation Forum, 2021).
+From a practical standpoint, Nabatchi and Amsler (2014) define it as the
+use of face-to-face and online methods to bring people together to
+address significant issues. The OECD (2017) points out that
+participation can involve several actors, understanding citizenship
+broadly as all inhabitants of a given place—regardless of age, gender,
+religion, or political affiliation—as well as other interested or
+affected parties, whether governmental institutions, civil society,
+academia, media, or the private sector.</p><p>Several agencies distinguish participation by levels. The OECD (2022)
+identifies three: (a) information, a unilateral relationship where
+government provides data to citizens; (b) consultation, a bilateral
+interaction where citizens and stakeholders provide feedback on specific
+problems; and (c) active participation, which involves collaboration
+throughout the policy cycle, allowing citizens to influence the agenda
+and proposals, although the final decision remains with government.
+Similarly, the International Association for Public Participation (IAP2,
+2024) defines five levels: inform, consult, involve, collaborate, and
+empower—the last delegating the final decision to citizens.</p><p>Jäntti and Kurkela (2021) distinguish two forms of participation:
+institutional, where municipalities act as spaces that facilitate
+participation, and non-institutional, such as protests or autonomous
+civil-society actions, where municipal influence is limited. Jäntti et
+al. (2023) identify three trends explaining how participation has been
+integrated into public-sector organizations: as part of government
+openness to strengthen transparency and democracy; as a reaction to the
+crisis of representative democracy; and as a strategy to address complex
+social problems through collaboration. They add three levels of
+governance for embedding participation: the strategic level (vision and
+policy objectives), the executive level (management practices requiring
+human, financial, technological, and knowledge resources), and the
+citizen-interface level (where participatory instruments connect
+citizens with government).</p><p>Citizen participation can take many forms—councils, forums, surveys,
+collaborative workshops, and participatory budgets—which are part of a
+more complex network of processes that also influence local government
+decisions (Nabatchi & Amsler, 2014; Jäntti & Kurkela, 2021). The
+dialogue between citizens and the state is sustained by democracy, so it
+is useful to recall the classifications found in democratic theory:
+representative, participatory, deliberative, and radical. In practice,
+no democracy is confined exclusively to one model (Contreras &
+Montecinos, 2019).</p><p>Giffinger et al. (2007) consider citizen participation an element of
+good governance, increasingly central to debates on democracy and
+development. Bingöl (2022) argues that participation enables citizens to
+influence how information is disseminated, how goals and policies are
+defined, and how economic resources are allocated, while Lukensmeyer
+(2013) describes a process through which citizens learn, express
+opinions, find common ground, and influence state decision-making.
+Common approaches include the electoral, the exchange of legislative and
+administrative information (such as public hearings), civil-society
+participation through volunteering and associations, and deliberative
+approaches based on consensus (Lindgren et al., 2019). Collaborative
+models require technological infrastructure—platforms, applications, and
+tools—not only to share information but to improve participation in
+debates on critical public issues, policy implementation, and service
+delivery (Zheng et al., 2014; Giffinger et al., 2007). Technology
+facilitates communication across levels while reducing the costs of
+participation, especially time and distance (Castells, 2011); yet, if
+participation processes are not carefully analyzed, they can easily
+become a technocracy—a government of experts in which participation is
+superficial and one-way (Lan et al., 2021; Fischer, 1990).</p><h3><strong>The evolution of citizen participation toward the
+digital</strong></h3><p>Realist democratic theory underpins participatory democracy, which
+emphasizes citizen participation in decision-making at all levels of
+government, complementing both representative institutions and
+direct-democracy mechanisms such as referendums (Balduzzi & Siclari,
+2024). Democratic theorists have proposed democratic
+innovations—processes or institutions designed to enhance the role of
+citizens in governance and expand opportunities for participation,
+deliberation, and influence (Elstub & Escobar, 2019). To foster a
+positive perception of smart policies, governments must integrate smart
+technologies into their communication and participation strategies
+through accessible, clear, and high-quality media (Hartley, 2023).</p><p>The use of digital tools to foster participation—known as
+e-participation or digital participation—has expanded globally
+(Steinbach et al., 2019). Many large cities already drive participation
+through information and communication technologies (ICTs) and new media
+such as social networks and virtual platforms (Bonsón et al., 2015;
+Gilman & Peixoto, 2019). Digital tools can facilitate citizen
+interaction and self-organization, reduce the costs of consulting the
+population, lower barriers to participation, promote inclusion and
+equity, and enable direct links between citizens, politicians, and
+policymakers (Hovik et al., 2022; Ruano & Reichborn-Kjennerud,
+2022). Technologies such as AI, blockchain, and virtual reality can
+reduce barriers, increase government capabilities, and empower citizens
+through more intelligible and accountable participatory processes (OECD,
+2025a).</p><p>Digital transformation seeks to integrate information technologies to
+enhance government services—including communication and
+participation—while considering factors such as residential environment,
+employment, income, and education that influence the impact of AI on
+citizen–government communication (Pislaru et al., 2024). The first
+global initiatives implemented simple online services: providing
+information to promote transparency, enabling fee payments, and offering
+access to public information through web portals (Brown, 2005).
+E-government continues to evolve with technological advances, making
+services more efficient through AI, blockchain, and other innovations
+(Lykidis et al., 2021).</p><p>Within public administration, the limits of approaches such as New
+Public Management have prompted a turn toward collaborative governance,
+in which values such as innovation, transparency, and participation are
+promoted, with citizen participation as a key component (Mariñez, 2022).
+Participation is thus increasingly relevant to policymaking, driven by
+information technologies and AI, which facilitates dialogue with
+administrators, optimizes decision-making, and processes large volumes
+of data to identify problems and forecast policy impacts (Lahdili &
+Nyadera, 2024). AI can revolutionize public management, enabling
+authorities to respond better to citizens' needs and strengthening trust
+in public services (Vrabie, 2023); by fostering collaboration and
+responsiveness, it enhances engagement through platforms that allow
+citizens to express concerns, provide feedback, and contribute to policy
+formulation (Pislaru et al., 2024).</p><p>AI's relationship with democracy is complex: it can threaten
+democratic legitimacy (Danaher, 2016) and erode access to truthful
+knowledge (Coeckelbergh, 2022), but it can also improve the policy cycle
+and facilitate mass deliberation (Landemore, 2022). States must address
+difficulties such as economic crises, poverty, and emerging diseases;
+during the COVID-19 pandemic, many governments developed applications to
+monitor the spread of the virus and inform containment strategies
+(Ospina & Zambrano, 2023). In recent years, countries have advanced
+on digital government and AI, monitored internationally through indices
+on digital government, open data, and AI readiness, generating public
+value through more efficient services aimed at improving citizens'
+quality of life (Ospina & Zambrano, 2023).</p><h3><strong>Citizen participation and the use of artificial
+intelligence</strong></h3><p>The increasing adoption of AI in government is creating numerous
+opportunities for public administrations, with the potential to
+accelerate the transformation of service delivery and policy design
+within public-sector ecosystems (Zuiderwijk et al., 2021). Its
+incorporation has been welcomed as a way to strengthen governments'
+operational capacity; AI now supports decision-making, predictions, and
+the handling of complex challenges. In low- and middle-income countries,
+these technologies help optimize service delivery, facilitate
+interaction with citizens, strengthen democracy, and overcome language
+barriers that limit the exercise of participation rights (Zidouemba,
+2025).</p><p>The use of AI-driven tools in decision-making, policy implementation,
+and government interaction—known as algorithmic governance—is already
+integral to the contemporary administrative state (Engstrom et al.,
+2020). Algorithms, the centerpiece of AI, allow public administrations
+to access more efficient, economical, or apparently neutral solutions by
+analyzing large volumes of data (Li et al., 2023). Applications extend
+to sectors such as transportation (Kouziokas, 2017), mental health
+services (Zhu et al., 2022), the criminal justice system (Whitford et
+al., 2020), and policing (Meijer et al., 2021).</p><p>Zuiderwijk et al. (2021) group the benefits of applying AI in
+government into nine areas: improvements in efficiency and performance;
+capabilities to identify and monitor risks; economic advantages;
+optimization of data and information processing; improvements in service
+delivery; benefits for society; support for decision-making;
+strengthening of citizen engagement; and contributions to
+sustainability. Adoption varies by context, ranging from data analytics
+for complex decisions to fraud detection, risk management, mobility
+planning, health services, environmental protection, and the automation
+of administrative functions (Mellouli et al., 2024). AI is also applied
+to public-health challenges, such as controlling Zika and dengue, to
+help governments monitor their spread and act in a timely manner
+(Zidouemba, 2025).</p><p>Studies by Engstrom et al. (2020), Tangi et al. (2022), and van
+Noordt and Misuraca (2022) classify government uses of AI in areas such
+as policy formulation, service provision, internal human-resource
+management, and citizen engagement. The European Commission's Adopt AI
+Study (2024) found AI prominently implemented in general public
+services, economic affairs such as transportation, security and public
+order, and health. AI can improve processes and procedures, help meet
+strategic objectives, reduce costs and environmental impacts, combat
+fraud and abuse by enhancing oversight of public funds, increase
+efficiency, and support informed decision-making (Fernández, 2023).</p><p>Artificial intelligence has transformed how governments serve
+citizens, requiring changes in the design and delivery of public
+services (OECD, 2025b). The COVID-19 pandemic marked a watershed,
+compelling governments to keep operating under difficult circumstances
+and improving the responsiveness and reliability of the public sector
+(OECD, 2023b). For these changes to be sustainable, governments must
+improve their digital public infrastructure and focus on emerging
+technologies—AI, automation, and modular code—to expand their innovative
+and digital capabilities (OECD, 2023b; OECD, 2024). One application of
+this digital transformation is citizen participation, where AI plays a
+crucial role in promoting effective, transparent governance and helping
+citizens propose innovative ideas to solve complex problems.</p><h2><strong>Challenges for governments in the use of AI</strong></h2><p>Despite its benefits for informed decision-making, irresponsible use
+of AI can lead to discriminatory practices and violations of
+data-protection regulations. Insufficient digital literacy, cyber-attack
+risks, threats to privacy and civil liberties, high implementation
+costs, and shortages of trained personnel are significant risks that may
+hinder the effective use of AI in participation mechanisms (Lahdili
+& Nyadera, 2024). Data protection and privacy raise concerns about
+how AI systems collect, store, and manage personal information, so
+transparency and responsible data use are critical to strengthening
+public trust (Gesk & Leyer, 2022). Citizens also fear that
+algorithms may reinforce existing inequalities if adequate regulation
+and oversight are lacking, making transparency and fairness essential
+for public acceptance (Madan & Ashok, 2022; Chen et al., 2021).</p><p>Zuiderwijk et al. (2021) group the challenges of applying AI in
+government into eight categories: data-related problems; organizational
+and managerial difficulties; skills and technical-capacity gaps;
+difficulties in interpreting AI-generated results; ethical and
+legitimacy issues; political, legal, and regulatory obstacles; social
+and community impacts; and economic implications. Lahdili and Nyadera
+(2024) warn that over-reliance on AI poses risks to political, social,
+economic, and cultural domains, including the inability to replace human
+attributes such as creativity and empathy, the danger of elites using AI
+to control or repress society, and the commercialization of personal
+data. In low- and middle-income countries, where digital literacy is low
+and skilled personnel scarce, AI could worsen job losses (Zidouemba,
+2025). Engstrom et al. (2020) identify six implications of public-sector
+AI: difficulties in developing institutional capabilities; challenges in
+ensuring transparency and accountability; unintended biases; risks to
+citizens' procedural rights; threats from adversarial learning; and the
+need to complement technical expertise through specialized
+recruitment.</p><p>Mellouli et al. (2024) classify these challenges into two levels. At
+the macro level (political and economic), threats include unemployment
+from job replacement, high energy consumption, the spread of
+misinformation, high implementation costs, and the loss of human
+knowledge. At the micro level (policy formulation and decision-making),
+risks include biases in training data, replication of human error,
+systemic discrimination, the inability to detect bias or exclusion,
+unfair decisions, reduced inclusiveness, privacy violations, lack of
+transparency, and declining public trust. Effective governance of data
+and technologies is therefore essential to mitigate these risks.</p><p>Through research with European Union countries, the OECD (2025a)
+identified the most urgent participation challenges: a lack of trust, as
+citizens perceive that their participation has no impact and doubt that
+they have the skills to make informed decisions; the difficulty of
+evaluating participation, given low accountability after a process,
+unclear feedback, and difficulty interpreting contributions;
+institutional problems such as limited awareness within public
+administration and a lack of incentives; the exclusion of marginalized
+groups, since methods are often inaccessible and use overly technical
+language; and a gap between process and results that leaves the public
+feeling outside the process. The use of AI in democratic processes also
+poses risks—privacy issues, potential surveillance, data distortion, and
+a deepening digital divide that relegates illiterate and
+techno-skeptical groups—so governments must regulate AI and invest in
+secure tools that genuinely enhance participation and deliberation.</p><h3><strong>Global context of artificial intelligence in
+governments</strong></h3><p>Multiple reports assess governments' progress toward becoming more
+digital and innovative. Oxford Insights' Government AI Readiness Index
+2024 ranks, among 188 countries, the ten best prepared for government
+AI: the United States, Singapore, Korea, France, the United Kingdom,
+Canada, the Netherlands, Germany, Finland, and Australia. Both the World
+Economic Forum (2024) and the World Bank (2022) agree that the regions
+most advanced in AI policy and governance are the United States, China,
+and the European Union, followed by Latin America, and lastly Africa,
+East Asia, and the Pacific.</p><p>By region, the 2024 index identifies North America (the United States
+and Canada) as the strongest, owing to the consolidation of the United
+States in the technology sector and its global leadership in AI. Western
+Europe ranks second, dominated by France—the region's highest
+scorer—followed by the United Kingdom, the Netherlands, Germany, and
+Finland, and standing out for its data infrastructure and consolidated
+governance frameworks. East Asia ranks third, with Singapore and the
+Republic of Korea among the top performers; China, despite its
+prominence in some areas, ranks lower owing to limited availability and
+accessibility of public information (Oxford Insights, 2024).</p><p>According to the OECD (2025b), in recent years the countries
+investing the most venture capital in AI have been the United States—the
+clear leader since 2018, peaking in 2021—followed by China, with the
+European Union, the United Kingdom, Korea, Germany, India, Israel, and
+Canada participating to a lesser extent. Measured by the share of
+scientific publications on AI, the leaders are China (22% of global
+publications), the European Union (14%), and the United States (11%),
+reflecting sustained investment in research and development. Not all
+countries, however, have the financial, political, and technical
+resources to develop effective AI governance (WEF, 2024): of 193
+countries, 114—most in the global south—lack national AI strategies,
+which can give rise to privacy violations and improper uses of AI.</p><p>The World Bank's GovTech Maturity Index 2022 shows that, while
+countries improved online public services, digital citizen participation
+scored low, indicating a focus on government systems and
+service-delivery platforms at the expense of digital citizen feedback;
+the report recommends developing multifunctional platforms that deepen
+the citizen–government relationship and build public trust (World Bank,
+2022). One area that can be strengthened through this connection is
+electoral participation, which has declined in many countries due to
+falling confidence and growing disaffection with democratic processes.
+In an OECD survey on perceptions of opportunity to influence local
+decisions, the countries scoring above the OECD average (0.41) were the
+Netherlands (0.53), Ireland (0.52), Canada (0.51), Mexico (0.51), the
+United Kingdom (0.50), New Zealand (0.48), Estonia (0.46), Denmark
+(0.45), Luxembourg (0.45), and Austria (0.44), confirming that active
+participation is more effective at the local level (OECD, 2021b).</p><p>Even so, citizens do not generally see themselves as active
+participants in policymaking: only 38% expect the government to act on a
+deficient service or implement innovative ideas, and only 30% believe
+their opinions on government actions are taken into account (OECD,
+2021b). Technology can serve as a medium to strengthen participation and
+accountability: in 2021, online deliberation was the medium most used to
+evaluate and design public policies, and online consultations were
+active in 85% of OECD member countries. Civic technology helps citizens
+feel considered and able to express their needs, and governments should
+leverage emerging technologies such as AI to strengthen democracy (OECD,
+2021a).</p><h2><strong>Methodology</strong></h2><p>This research used a documentary method, based on a review of the
+literature to better understand citizen participation, its types, its
+relationship with artificial intelligence, and how it has helped
+governments formulate citizen-centered public policies. On that basis, a
+search was conducted for cases of countries that have used AI as a tool
+for better citizen participation, in order to analyze the factors, they
+share and that have supported the correct implementation of AI, and to
+identify the differences between countries according to their contexts.
+To analyze countries that apply AI in their governments, reports from
+international organizations were reviewed, including the Government AI
+Readiness Index, the OECD Digital Government Index, the World Bank's
+Global Program on GovTech and Public Sector Innovation, Global Trends in
+Government Innovation, scientific articles, and official government
+sites.</p><h2><strong>Sample</strong></h2><p>To delimit the countries analyzed, the results of the Government AI
+Readiness Index 2024 were used, since they indicate which countries are
+most prepared for AI implementation in government. The ten
+highest-scoring countries are, in order, the United States, Singapore,
+Korea, France, the United Kingdom, Canada, the Netherlands, Germany,
+Finland, and Australia. As the index also groups countries by region,
+the three top-ranked regions were selected: North America (United States
+and Canada), Western Europe (France and United Kingdom), and East Asia
+(Singapore and Korea).</p><h2><strong>Results</strong></h2><p>The following analysis examines the leading countries that have used
+AI in their governments and how they have implemented it, including
+cases that show how AI has helped them improve citizen participation,
+together with the contrasting panorama of Latin America.</p><h2><em><strong>Leading countries in North America</strong></em></h2><p>North America ranks first in government AI readiness. The 2024 index
+indicates that the United States is the leader, with solid foundations
+in governance and ethics, innovation capacity, and a mature technology
+sector that position it as an advanced AI ecosystem. Canada, though not
+yet at the same technological level, stands out for effective governance
+and ethics and for data availability, reflecting a focus on responsible
+AI governance and robust frameworks (Oxford Insights, 2024).</p><h2><em><strong>United States</strong></em></h2><p>The United States is the leading country in technology and among the
+most advanced in AI, which it uses to drive industry, empower workers,
+and strengthen national security through investment in programs that
+yield high-impact results; it aims to remain the global leader given
+AI's significant effect on its economy and security (White House, 2025).
+Its trajectory includes the 2017 G7 outcome document on AI, the 2018
+Statement on Artificial Intelligence, and, in 2019, joining other OECD
+countries in the Recommendation on AI, whose principles the G20 adopted.
+In 2020 it signed the United States–United Kingdom Declaration on
+Cooperation in AI R&D and helped launch the Global Partnership on AI
+(White House, 2025).</p><p>By 2021 the White House had established the Office of the National
+Artificial Intelligence Initiative under the National AI Initiative Act
+of 2020, creating a focal point for federal coordination on AI research
+and policy. In October 2023, President Biden issued an executive order
+to regulate AI in a safe and reliable manner, and many state governments
+followed with similar regulations (McKinsey & Company, 2024). In
+2024 the first National Security Memorandum on AI was issued (Oxford
+Insights, 2024), and the White House Office of Management and Budget
+advanced the first government-wide policy to leverage AI and mitigate
+risks (Downie & O'Brien, 2024). Taking Biden's order as a reference,
+governors in California, Oklahoma, and Virginia issued guidelines for
+generative AI addressing operational, informatics, labor, and risk areas
+(McKinsey & Company, 2024).</p><p>A notable application is the launch of ChatGPT Gov, a
+government-tailored version that lets U.S. agencies use the latest
+OpenAI models while managing information in a commercial Microsoft Azure
+cloud, easing data handling with greater security, privacy, and
+regulatory compliance (OpenAI, 2025). Since its 2024 implementation,
+more than 3,500 federal, state, and local agencies have sent 18 million
+messages. For example, the State of Minnesota's Office of Business
+Translations used AI to deliver faster, more accurate translations at
+lower cost, while the Commonwealth of Pennsylvania piloted ChatGPT
+Enterprise to reduce the time required for routine tasks such as
+analyzing project requirements (OpenAI, 2025). The United States is also
+applying AI in transportation, healthcare, manufacturing, and financial
+services (White House, 2025), and conducts digital voter registration
+through the Vote.gov portal (Vote.gov, 2025).</p><h2><em><strong>Canada</strong></em></h2><p>Canada, while not matching U.S. leadership, stands out globally and
+has worked to strengthen its AI governance framework. Through its
+official portal, it offers several consultation initiatives: the
+"Connect with government" and "Consulting with Canadians" options let
+citizens take part in government consultations and express their views,
+with 860 open consultations reported (Government of Canada, 2024). One
+example is the public consultation held from November 2023 to January
+2024 on Canada's participation in Council of Europe treaty negotiations
+on AI, which sought citizens' opinions to help develop an inclusive
+negotiation strategy (Government of Canada, 2025).</p><p>Canada also uses chatbots to guide citizens through government
+services—such as the Passport Chatbot, tested for a limited period to
+answer questions about the national passport service, and the My Service
+Canada (MSCA) chatbot, which helps citizens register an account to
+access government services and benefits; both were trials for which the
+government disclaimed responsibility, and any personal information
+entered was deleted (Government of Canada, 2021; Government of Canada,
+2024). AI is used mainly for the analysis of opinions: in 2019 the
+government created the Directive on Automated Decision-Making to improve
+service delivery, ensuring that automated systems reduce risks, make
+decisions more efficient and compliant with Canadian law, assess the
+impact of the algorithms used, and make the resulting data accessible to
+the public (Government of Canada, 2023).</p><p>Canada has worked on AI in government since 2016, with milestones
+including a technical report (2016–2017), an AI Day event in 2018, a
+judicial-AI working group, the 2019 Directive on Automated
+Decision-Making, 2023 guidance on generative AI, the creation of the
+Canadian Artificial Intelligence Safety Institute (2024) and an
+Artificial Intelligence Advisory Council (2025), and the publication of
+the AI Strategy for the Federal Public Service 2025–2027 (Government of
+Canada, 2025). These efforts reflect a commitment to automating services
+and decision-making in line with the principles of administrative law:
+transparency, accountability, legality, and procedural fairness.</p><h2><em><strong>Leading countries in Western Europe</strong></em></h2><p>Western Europe ranks second in government AI readiness, with several
+countries—the Netherlands, Germany, and Finland—in the top ten, though
+France and the United Kingdom give the region its strongest presence.
+The region stands out for effective data management and infrastructure,
+consolidated governance, and a solid foundation for AI innovation
+(Oxford Insights, 2024).</p><h2><em><strong>France</strong></em></h2><p>In France, interest in smart urban governance has grown in
+administrative, organizational, and political circles, driven by
+sustainability demands and the need for greater citizen participation in
+urban policy. Gourgues et al. (2021) note that participation is inherent
+to a process of professionalization in France, through the creation of
+administrative services dedicated to managing participation. France
+belongs to the Weimar Triangle—alongside Germany and Poland—through
+which the three countries seek a political alliance to develop national
+AI investment plans and expand collaboration with the European community
+(Oxford Insights, 2024).</p><p>France has used participation to improve public services, involving
+civil society in their development (OECD, 2024). For instance, the
+Ministry of Finance organizes hackathons on tax and policy issues so
+that participating citizens help improve the government's algorithms and
+applications; with the information obtained, developers create new
+services—a solution that has worked well enough to be extended to other
+ministries to process the large volumes of information received through
+online platforms (OECD, 2023a).</p><h2><em><strong>United Kingdom</strong></em></h2><p>The United Kingdom is advancing AI development, having invested £300
+million in a computing cluster for research and development and, in
+2025, developed the AI Opportunity Action Plan to boost adoption (Oxford
+Insights, 2024). The UK has used AI to involve citizens in government
+decisions, as in the European Union panel on virtual worlds, where
+randomly selected citizens from the 27 member states proposed measures
+to create attractive and fair European virtual worlds (OECD, 2025a).
+Some European municipalities have used AI to optimize online citizen
+input: Cambridge, in the UK, uses the GoVocal platform—developed by a
+civic-technology startup—for resident consultation, helping officials
+process thousands of contributions and classify them by location,
+demographic traits, or emerging issues; its use cut the time required to
+process citizen requests by 50% (OECD, 2025a).</p><h2><em><strong>Leading countries in East Asia</strong></em></h2><p>In 2024, East Asia ranked third as a region, with Singapore and Korea
+among the top performers. These countries stand out for strong
+governance frameworks, a strategic vision for AI, and solid data
+availability and infrastructure, though they need more investment in
+innovation and AI maturity. China, despite its global prominence, does
+not appear among the top places because of limited data availability and
+reduced accessibility of public information (Oxford Insights, 2024).</p><h2><em><strong>Singapore</strong></em></h2><p>Singapore, a highly developed city-state, is distinguished by a
+national AI strategy that prioritizes scalable, high-impact solutions to
+increase productivity and encourage citizen participation. The
+nationwide Pair suite platform, designed to automate administrative
+tasks, reflects its leadership in improving employee experience and
+modular government management, while the customization of AI models to
+local needs shows an approach that balances personal-data protection
+with efficient execution (Aldemir & Uçma Uysal, 2025). As it
+consolidated economic stability and social cohesion, Singapore adopted
+digital mechanisms to foster participation through platforms such as the
+National Conversation initiative, the Reaching Everyone for Active
+Citizenry @ Home (REACH) portal, and the Smart Nation program (Soon
+& Soh, 2014; Shamsuzzoha et al., 2021; Ataman et al., 2025).</p><p>The Moments of Life initiative, integrated within Smart Nation,
+leverages AI and digital technologies to simplify access to public
+services at key life stages—such as the birth of a child—allowing
+parents to register a birth, manage financial aid, and schedule
+vaccinations, strengthening the link between citizens and state
+institutions (Huiling & Goh, 2017; Aldemir & Uçma Uysal, 2025).
+Launched in 2014 and continually expanding, Smart Nation integrates
+technological and data-driven solutions to enhance competitiveness,
+sustainability, and quality of life, supported by significant investment
+in digital infrastructure such as the Government Commercial Cloud
+(Hartley & Aldag, 2024). According to Lee (2024), the pilot AI-Based
+Citizen Question-Answer Recommender System (ACQAR) advanced the quality
+of citizen services by raising satisfaction and helping staff respond
+more promptly and accurately to inquiries.</p><p>Other initiatives where AI is already applied include Pulse of the
+Economy, which merges data sources to monitor economic activity and
+mobility in real time and identify growth opportunities; Ask Jamie, a
+virtual assistant integrated into agency portals that uses
+natural-language processing to answer questions across agencies and can
+scale to live chat; and KeyReply, the first government chatbot
+integrated into Facebook Messenger, which routes citizens' queries to
+the appropriate department (Susar & Aquaro, 2019). The Analytics and
+Artificial Intelligence Lab, affiliated with the Defence Science and
+Technology Agency, develops tools using real-time data from the Internet
+of Things, cameras, and sensors to detect security threats. In this way,
+Singapore positions itself as a global benchmark in advanced urban
+management.</p><h2><em><strong>South Korea</strong></em></h2><p>South Korea is recognized as a global leader in information
+technology and digital government, having achieved one of the most
+significant advances in digital government over the past five decades
+(Chung et al., 2022). It has one of the fastest Internet speeds in the
+world and was the first OECD member to reach 100% wireless broadband
+coverage, with a growing impact on political dynamics and participation
+(Hu & Odei, 2023). According to Member States' responses to the
+United Nations E-Government Survey (2018), more than 40 countries
+reported using emerging technologies such as AI, the Internet of Things,
+and blockchain; in 2017, Korea's National Human Resources Development
+Institute offered 28 courses to more than 2,000 public servants to
+strengthen ICT competencies, including content on big data, AI, and the
+application of emerging technologies in public administration (Susar
+& Aquaro, 2019).</p><p>In 2017, South Korea launched the Gwanghwamun 1st Street platform to
+foster direct democracy by allowing citizens to propose public-policy
+ideas, inspiring the Gwanak-gu district's own online office built on
+active user participation. In 2020 it introduced a specific impact
+assessment for AI, becoming the first country to establish one in
+national legislation (Jeong, 2022). To address COVID-19, it implemented
+a contact-tracing program combining traditional epidemiological methods
+with GPS data, credit-card transactions, and surveillance records,
+enabling more efficient detection of contagions (Park et al., 2020). In
+May 2023 it published guidelines for the use of ChatGPT in government,
+establishing a framework for incorporating generative AI into public
+operations across functions such as information retrieval, translation,
+analysis, text generation, and summarization (Beltran et al., 2024).
+Korea has also implemented Metaverse Seoul, which lets citizens access
+administrative services through avatars in a three-dimensional virtual
+space covering culture, economy, education, and tourism (OECD, 2025a).
+These initiatives reflect a commitment to the safe integration of
+emerging technologies, supported by strong digital legislation and
+efforts to reduce the digital divide.</p><h3><em><strong>Countries in Latin America and the
+Caribbean</strong></em></h3><p>Although certain countries lead the world in government AI, others
+are working on implementation, with Colombia and Uruguay standing out as
+regional leaders thanks to well-designed strategies already under way
+(OECD/CAF, 2022). Uruguay is considered a leader for its e-government
+initiatives, sound data-protection regulation, and good Internet access,
+while Argentina, Brazil, and Peru show strong commitment and execution
+but lack the digital maturity of the leading countries. Mexico, the
+first country in the region to publish a national AI strategy, lost its
+early leadership for want of clear priorities, while Mexico and Costa
+Rica still show high commitment. The countries with the least adoption
+capacity are Barbados and Panama; the Dominican Republic, Ecuador,
+Jamaica, and Paraguay have advanced indirectly through data-protection
+laws; and Bolivia, Trinidad and Tobago, and Venezuela lag the furthest
+behind (OECD/CAF, 2022).</p><p>Compared with more developed countries, Latin America faces prior
+concerns—being one of the most unequal regions in the world, marked by
+economic and social crises, corruption, impunity, and a weak rule of
+law—that complicate the adoption of emerging technologies. In these
+contexts, technology companies have approached governments with a
+discourse of innovation and progress, promising greater efficiency and
+security; where regulation is absent or lax, companies that develop AI
+gain entry with the promise of improving citizens' lives, sometimes at
+no cost (Ricaurte et al., 2024). The following cases show how AI
+developed by private companies and implemented in specific contexts has
+not always succeeded, sometimes deepening the exclusion of vulnerable
+groups.</p><h3><em><strong>Chile</strong></em></h3><p>With Microsoft, Chile implemented the social program Alerta Niñez to
+predict which low-income adolescents had a higher propensity to commit
+crimes, in order to design supportive public policies. Using such
+predictive technologies deepened exclusion and discrimination against
+this group, as it can generate inaccurate predictions, lacks
+transparency in how it works, uses data without consent, risks leaking
+personal data, and stigmatizes a vulnerable sector of society (Ricaurte
+et al., 2024).</p><h3><em><strong>Brazil</strong></em></h3><p>Brazil worked with Microsoft to develop a system, through the
+National Employment System (SINE), to relocate unemployed people in the
+labor market by generating worker profiles and offering personalized job
+and training opportunities. One problem was that accessing the platform
+required Internet, which nearly a quarter of Brazil's population lacks
+(Velasco & Venturini, 2021).</p><h2><strong>Conclusions</strong></h2><p>Citizen participation is a key element of government: it helps
+formulate public policies and enables citizens to regain trust and feel
+part of the governance developed in their territory. To facilitate it,
+governments must invest in innovation and infrastructure that bring them
+closer to the population—something that emerging technologies such as AI
+can enable by making collaboration between governments and citizens
+easier.</p><p>Despite the much-discussed benefits of AI in government, many
+challenges remain. The analysis shows that applying AI is a difficult
+path: governments must first understand how it works and, above all,
+regulate it. The world's leading countries and regions are still working
+to understand it and face significant challenges even with adequate
+infrastructure and budgets, while economically disadvantaged countries
+lag in this technological change. According to the literature, the
+application of AI in citizen participation appears to be in its infancy,
+since governments use it in a one-directional way—mainly to inform or
+consult—and rarely reach the point where citizens participate in all
+stages of formulating the policies that benefit them.</p><p>Among the countries analyzed, North America and Western Europe have
+done the most to build legal frameworks responding to technological
+change; yet their use of AI in participation is largely confined to
+information and consultation, without deeper integration of society into
+government decisions. East Asia is no exception, though it uses AI in
+friendlier ways—as in Seoul's metaverse avatars—while lagging behind in
+technological infrastructure and AI-related legal frameworks.</p><p>Although the United States leads in technology and AI, in the 2021
+OECD study its inhabitants did not feel they had a say in government
+decisions, so it must continue to strengthen participation alongside AI.
+Canada, despite lacking the same infrastructure, scored above the OECD
+average in citizens feeling considered in decision-making, as did the
+United Kingdom, suggesting that these two countries maintain a good
+relationship with citizen participation. In Latin America and the
+Caribbean, leaders such as Colombia and Uruguay have taken firm steps
+and advanced toward data-protection policies; yet AI, while easing some
+processes, has also widened the gap of inequality and exclusion.</p><p>Emerging technologies such as AI have helped governments reduce
+bureaucratic processes, encourage participation, and follow up on
+procedures in a more automated way, but they have also highlighted
+inequalities, since participation platforms often do not consider the
+context of the people affected by public-policy decisions—leaving
+decisions for the most vulnerable in the hands of those with better
+contexts. Although economic, geographic, and educational differences
+have always existed, AI has made them more visible, as governments
+assume that these technologies will bring them closer to people without
+providing the conditions for vulnerable groups to access them.</p><p>Therefore, citizen-participation processes should adopt a perspective
+that offers equal conditions for all participants, focusing not only on
+results but on making the entire process accessible regardless of
+context. Rather than addressing every government problem through a
+technological lens, unresolved social and economic issues should also be
+tackled. Governments should provide the tools to make these processes
+easy and natural, using colloquial, understandable language so that
+participation is well received and valued.</p><h2><strong>References</strong></h2><p class="reference">Aldemir, C., & Uçma Uysal, T. (2025). Artificial Intelligence for
+Financial Accountability and Governance in the Public Sector: Strategic
+Opportunities and Challenges. Administrative Sciences, 15(2), 58.</p><p class="reference">Ataman, C., Herthogs, P., Tunçer, B., & Perrault, S. (2025). From
+insight to action: An integrated assessment framework for digital
+citizen participation in data-centric urban practices. Cities, 156,
+105545.</p><p class="reference">Balduzzi, T., & Siclari, L. (2024). Participative and
+Deliberative Democracy Facing Technology: A Study on Digital Democratic
+Innovations. Rivista italiana di informatica e diritto, 6(1),
+87-118.</p><p class="reference">Beltran, M. A., Ruiz Mondragon, M. I., & Han, S. H. (2024, June).
+Comparative analysis of generative AI risks in the public sector. In
+Proceedings of the 25th Annual International Conference on Digital
+Government Research (pp. 610-617).</p><p class="reference">Bingöl, E. (2022). Citizen Participation in Smart Sustainable Cities.
+In I. Management Association (Ed.), Research Anthology on Citizen
+Engagement and Activism for Social Change. pp. 967-987. IGI Global
+Scientific Publishing. <a href="https://doi.org/10.4018/978-1-6684-3706-3.ch052" rel="noopener noreferrer" target="_blank">https://doi.org/10.4018/978-1-6684-3706-3.ch052</a></p><p class="reference">Bonsón, E., Royo, S., & Ratkai, M. (2015). Citizens’ engagement
+on local governments’ Facebook sites. An empirical analysis: The impact
+of different media and content types in Western Europe. Government
+Information Quarterly, 32, 52–62.</p><p class="reference">Brown, D. (2005). Electronic government and public administration,
+International Review of administrative science. Int. Rev. Adm. Sci.
+71.241-254.</p><p class="reference">Castells, M. (2011). The rise of the network society. Hoboken, NJ:
+John Wiley.</p><p class="reference">Chen, T., Guo, W., Gao, X., & Liang, Z. (2021). AI-based
+self-service technology in public service delivery: User experience and
+influencing factors. Government Information Quarterly, 38(4),
+101-520.</p><p class="reference">Chung, C. S., Choi, H., & Cho, Y. (2022). Analysis of digital
+governance transition in South Korea: Focusing on the leadership of the
+president for government Innovation. Journal of Open Innovation:
+Technology, Market, and Complexity, 8(1), 2.</p><p class="reference">Citizen Participation Forum. (2021). Citizen Participation Index:
+Methodology. Link: https://index.fgu.bg/en/methodology.html</p><p class="reference">Coeckelbergh, M. (2022). Democracy, epistemic agency, and AI:
+Political epistemology in times of artificial intelligence. AI and
+Ethics, 1–10. <a href="https://doi.org/10.1007/s43681-022-00239-4" rel="noopener noreferrer" target="_blank">https://doi.org/10.1007/s43681-022-00239-4</a></p><p class="reference">Contreras, P., & Montecinos, E. (2019). Democracia y
+participación ciudadana: Tipología y mecanismos para la implementación.
+Revista de Ciencias Sociales. 25 (2). 178-191.</p><p class="reference">Criado, J. I. (2016). Las administraciones públicas en la era del
+gobierno abierto. Gobernanza inteligente para un cambio de paradigma en
+la gestión pública. Revista de Estudios Políticos. 173, 245-275. <a href="https://doi.org/10.18042/cepc/rep.173.07" rel="noopener noreferrer" target="_blank">https://doi.org/10.18042/cepc/rep.173.07</a></p><p class="reference">Danaher, J. (2016). The threat of algocracy: Reality, resistance and
+accommodation. Philosophy & Technology, 29(3), 245–268. DOI: <a href="https://doi.org/10.1007/s13347-015-0211-1" rel="noopener noreferrer" target="_blank">https://doi.org/10.1007/s13347-015-0211-1</a></p><p class="reference">Downie, S., & O’Brien. K. (December 20, 2024). IA en el gobierno.
+IBM Link: <a href="https://www.ibm.com/mx-es/think/topics/ai-in-government" rel="noopener noreferrer" target="_blank">https://www.ibm.com/mx-es/think/topics/ai-in-government</a></p><p class="reference">Elstub, S. & Escobar, O. (2019). Handbook of democratic
+innovation and governance. Edward Elgar Publishing</p><p class="reference">Engstrom, D. F., Ho, D. E., Sharkey, C. M., & Cuéllar, M. F.
+(2020). Government by algorithm: Artificial intelligence in federal
+administrative agencies. NYU School of Law, Public Law Research Paper,
+(20-54).</p><p class="reference">European Commission. (2024). Adopt AI Study. Final study report.
+Directorate General for Communications Networks, Content and Technology
+(CNECT). European Commission. <a href="https://doi.org/10.2759/22251" rel="noopener noreferrer" target="_blank">https://doi.org/10.2759/22251</a></p><p class="reference">Fernández, J. V. (2023). Artificial intelligence in government: Risks
+and challenges of algorithmic governance in the administrative state.
+Ind. J. Global Legal Stud., 30, 65.</p><p class="reference">Fischer F (1990) Technocracy and the Politics of Expertise. Newbury
+Park, CA: Sage Publishing.</p><p class="reference">Gesk, T. S., & Leyer, M. (2022). Artificial intelligence in
+public services: When and why citizens accept its usage. Government
+Information Quarterly. 39(3), 101-704.</p><p class="reference">Giffinger, R., Fertner, C., Kramar, H., Kalasek, R., & Pichler,
+N. (2007). Smart cities: Ranking of European medium-sized cities. Vienna
+University of Technology.</p><p class="reference">Gilman, H. R. & Peixoto, T. C. (2019). Digital participation. In
+S. Elstub & O. Escobar (Eds.), Handbook of Democratic Innovation and
+Governance.Edward Elgar Publishing</p><p class="reference">Gourgues, G., Mazeaud, A., & Norjon, M. (2021). From the
+participatory turn of administrations to the bureaucratisation of
+participatory democracy: study based on the French case. International
+Review of Administrative Sciences. 88(4). 1141-1158. <a href="https://doi.org/10.1177/00208523211003" rel="noopener noreferrer" target="_blank">https://doi.org/10.1177/00208523211003</a></p><p class="reference">Government of Canada. (April 25, 2023). Directive on Automated
+Decision-Making Government of Canada. Link: <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592" rel="noopener noreferrer" target="_blank">https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592</a></p><p class="reference">Government of Canada. (April 25, 2024). Terms of use for MSCA
+chatbot. Government of Canada. Link: <a href="https://www.canada.ca/en/employment-social-development/services/my-account/terms-use-chatbot.html" rel="noopener noreferrer" target="_blank">https://www.canada.ca/en/employment-social-development/services/my-account/terms-use-chatbot.html</a></p><p class="reference">Government of Canada. (April 3, 2025). Share your views: Canada’s
+participation in treaty negotiations on artificial intelligence at the
+Council of Europe. Government of Canada.</p><p class="reference">Government of Canada. (July 31, 2024). Connect with government.
+Government of Canada. Link: <a href="https://www.canada.ca/en/government/system/consultations.html" rel="noopener noreferrer" target="_blank">https://www.canada.ca/en/government/system/consultations.html</a></p><p class="reference">Government of Canada. (March 04, 2025). Progress on AI in government.
+Government of Canada. Link: <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/progress.html" rel="noopener noreferrer" target="_blank">https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/progress.html</a></p><p class="reference">Government of Canada. (March 07, 2025). Advisory Council on
+Artificial Intelligence. Government of Canada. Link: <a href="https://ised-isde.canada.ca/site/advisory-council-artificial-intelligence/en" rel="noopener noreferrer" target="_blank">https://ised-isde.canada.ca/site/advisory-council-artificial-intelligence/en</a></p><p class="reference">Government of Canada. (May 22, 2021). Terms of Use for Passport
+Chatbot. Government of Canada. Link: <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592" rel="noopener noreferrer" target="_blank">https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592</a></p><p class="reference">Hartley, K. (2023). Public perceptions about smart cities: governance
+and quality-of-life in Hong Kong. Soc Indic Res. 166. 731–753.</p><p class="reference">Hartley, K., & Aldag, A. (2024). Public trust and support for
+government technology: Survey insights about Singapore's smart city
+policies. Cities, 154, 105-368.</p><p class="reference">Hovik, S., Legard, S., McShane, I., Middha, B., Reichborn-Kjennerud,
+K., & Ruano, J. M. (2022). Participation and Influence in Urban
+Development: Does City E-Participation Strategy Matter? In Citizen
+Participation in the Information Society (No. 2, pp. 25-47). Palgrave
+Macmillan.</p><p class="reference">Hu, H., & Odei, S. A. (2023). Enlightenment of foreign citizens’
+online political participation on China—Based on the case study of
+America, Singapore, South Korea, and Japan. Development, 7(3),
+26-80.</p><p class="reference">Huiling, E., & Goh, B. (2017). AI, robotics and mobility as a
+service: The case of Singapore. Field Actions Science Reports. The
+Journal of Field Actions, (Special Issue, 17), 26-29.</p><p class="reference">International Association for Public Participation (IAP2). (2024).
+IAP2 Spectrum of Public Participation. IAP2. <a href="https://www.iap2.org/page/SpectrumEvolution" rel="noopener noreferrer" target="_blank">https://www.iap2.org/page/SpectrumEvolution</a></p><p class="reference">Jäntti, A., & Kurkela, K. (2021). How municipalities can enhance
+citizen participation? –Exploring the views of participants and
+non-participants. Scandinavian Journal of Public Administration, 25(1),
+23-42.</p><p class="reference">Jäntti, A., Paananen, H., Kork, A. A., & Kurkela, K. (2023).
+Towards interactive governance: embedding citizen participation in local
+government. Administration & society. 55(8).1529-1554.</p><p class="reference">Jeong, J. (2022). Introduction of the first AI impact assessment and
+future tasks: South Korea discussion. Laws. 11(5), 73.</p><p class="reference">Kouziokas, G. N. (2017). The application of artificial intelligence
+in public administration for forecasting high crime risk transportation
+areas in urban environment. Transportation research procedia, 24,
+467-473.</p><p class="reference">Lahdili, N., & Nyadera, I. N. (2024). Artificial Intelligence and
+Citizen Participation in Governance: Opportunities and Threats. Amme
+Idaresi Dergisi, 57(3).</p><p class="reference">Lan, L., Zhu, Q., & Liu, Y. (2021). The rule of virtue: a
+Confucian response to the ethical challenges of technocracy. Science and
+Engineering Ethics, 27(5), 64. The rule of virtue: a Confucian response
+to the ethical challenges of</p><p class="reference">Landemore, H. (2022). Can AI bring deliberative democracy to the
+masses. In Human Centered Artificial Intelligence Seminar, Stanford
+University.Can AI bring deliberation to the masses. Retrieved from <a href="https://www.law.nyu.edu/sites/default/files/Helen%20Landemore%20Can%20AI%20bring%20deliberative%20democracy%20to%20the%20masses.pdf" rel="noopener noreferrer" target="_blank">https://www.law.nyu.edu/sites/default/files/Helen%20Landemore%20Can%20AI%20bring%20deliberative%20democracy%20to%20the%20masses.pdf</a></p><p class="reference">Lee, H. S. (2024). Implementation and evaluation of AI-based Citizen
+Question-Answer Recommender (ACQAR) to enhance citizen service delivery
+in Singapore public sector: A case study.</p><p class="reference">Li, Y., Fan, Y., & Nie, L. (2023). Making governance agile:
+Exploring the role of artificial intelligence in China’s local
+governance. Public Policy and Administration, 09520767231188229.</p><p class="reference">Lindgren, I., Janssen, M., Lee, H., Polini, A., Rodríguez, M.,
+Jochen, H. & Tambouris, E. (2019). Electronic Government. 18th IFIP
+WG 8.5 International Conference, EGOV San Benedetto Del Tronto, Italy.
+Sprinter. <a href="https://doi.org/10.1007/978-3-030-27325-5" rel="noopener noreferrer" target="_blank">http://doi.org/10.1007/978-3-030-27325-5</a>.</p><p class="reference">Lykidis, I., Drosatos, G. & Rantos, K. (2021). The Use of
+Blockchain Technology in e-Government Services. Computer. 10. 168.</p><p class="reference">Madan, R., & Ashok, M. (2022). A public values perspective on the
+application of Artificial Intelligence in government practices: A
+Synthesis of case studies. In Handbook of research on artificial
+intelligence in government practices and processes. IGI Global
+Scientific Publishing.</p><p class="reference">Mariñez, F. (2022). Participación ciudadana colaborativa y los
+valores de la administración pública. Revista de Gestión Pública. 11(2),
+185–203. <a href="https://doi.org/10.22370/rgp.2022.11.2.3715" rel="noopener noreferrer" target="_blank">https://doi.org/10.22370/rgp.2022.11.2.3715</a></p><p class="reference">McKinsey and Company. (21 de febrero de 2024). El despliegue de IA
+generativa en los gobiernos estatales de EE.UU.: Poner a prueba, escalar
+y adoptar. McKinsey and Company. Link: <a href="https://www.mckinsey.com/featured-insights/destacados/el-despliegue-de-" rel="noopener noreferrer" target="_blank">https://www.mckinsey.com/featured-insights/destacados/el-despliegue-de-</a></p><p class="reference">Meijer A, Lorenz L, & Wessels M (2021) Algorithmization of
+bureaucratic organizations: using a practice lens to study how context
+shapes predictive policing systems. Public Administration Review. 81(5):
+837–846.</p><p class="reference">Mellouli, S., Janssen, M., & Ojo, A. (2024). Introduction to the
+Issue on Artificial Intelligence in the Public Sector: Risks and
+Benefits of AI for Governments. Digital Government: Research and
+Practice, 5(1), 1-6. <a href="https://doi.org/10.1145/3636550" rel="noopener noreferrer" target="_blank">https://doi.org/10.1145/3636550</a></p><p class="reference">Mohammed, A. K. (2013). Civic Engagement in Public Policy Making: Fad
+or Reality in G hana?. Politics & Policy, 41(1), 117-152.</p><p class="reference">Nabatchi, T. & Amsler, L. B. (2014). Direct public engagement in
+local government. The American Review of Public Administration, 44(4),
+63-88.</p><p class="reference">OECD. (2017). Recomendación del Consejo sobre Gobierno Abierto. OECD.
+Link: <a href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0438" rel="noopener noreferrer" target="_blank">https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0438</a></p><p class="reference">OECD. (2021a). Innovative public participation. OECD. <a href="https://www.oecd.org/en/topics/sub-issues/open-government-and-citizen-participation/innovative-public-participation.html" rel="noopener noreferrer" target="_blank">https://www.oecd.org/en/topics/sub-issues/open-government-and-citizen-participation/innovative-public-participation.html</a>.</p><p class="reference">OECD. (2021b). Open government and citizen participation. OECD. <a href="https://www.oecd.org/en/topics/open-government-and-citizen-participation.html" rel="noopener noreferrer" target="_blank">https://www.oecd.org/en/topics/open-government-and-citizen-participation.html</a></p><p class="reference">OECD. (2022). Directrices de la OCDE sobre Procesos de Participación
+Ciudadana. Recuperado deOECD. Link: <a href="https://www.oecd.org/content/dam/oecd/es/publications/reports/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541/f1b22902-es.pdf" rel="noopener noreferrer" target="_blank">https://www.oecd.org/content/dam/oecd/es/publications/reports/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541/f1b22902-es.pdf</a></p><p class="reference">OECD (2023a), Directrices de la OCDE sobre Procesos de Participación
+Ciudadana, Estudios de la OCDE sobre Gobernanza Pública, OECD
+Publishing, Paris, <a href="https://doi.org/10.1787/f1b22902-es" rel="noopener noreferrer" target="_blank">https://doi.org/10.1787/f1b22902-es</a>.</p><p class="reference">OECD. (2023b). 2023 OECD Digital Government Index. OECD. Link: <a href="https://www.oecd.org/en/publications/2023-oecd-digital-government-index_1a89ed5e-en.html" rel="noopener noreferrer" target="_blank">https://www.oecd.org/en/publications/2023-oecd-digital-government-index_1a89ed5e-en.html</a></p><p class="reference">OECD. (2024). Global Trends in Government Innovation 2024. OECD.
+Link: <a href="https://www.oecd.org/en/publications/global-trends-in-government-innovation-2024_c1bc19c3-en.html" rel="noopener noreferrer" target="_blank">https://www.oecd.org/en/publications/global-trends-in-government-innovation-2024_c1bc19c3-en.html</a></p><p class="reference">OECD: (2025a), Tackling civic participation challenges with emerging
+technologies: Beyond the hype. Paris: OECD. <a href="https://doi.org/10.1787/ec2ca9a2-en" rel="noopener noreferrer" target="_blank">https://doi.org/10.1787/ec2ca9a2-en</a></p><p class="reference">OECD. (2025b). Artificial intelligence. <a href="https://www.oecd.org/en/topics/artificial-intelligence.html" rel="noopener noreferrer" target="_blank">https://www.oecd.org/en/topics/artificial-intelligence.html</a></p><p class="reference">OECD/CAF. (2022). Uso estratégico y responsable de la inteligencia
+artificial en el sector público de América Latina y el Caribe, Estudios
+de la OCDE sobre Gobernanza Pública, OECD. <a href="https://doi.org/10.1787/5b189cb4-es" rel="noopener noreferrer" target="_blank">https://doi.org/10.1787/5b189cb4-es</a>
+(https://doi.org/10.1787/5b189cb4-es).</p><p class="reference">OpenAI. (January 28, 2025). Introducing ChatGPT Gov. OpenAI. Link: <a href="https://openai.com/global-affairs/introducing-chatgpt-gov/" rel="noopener noreferrer" target="_blank">https://openai.com/global-affairs/introducing-chatgpt-gov/</a></p><p class="reference">Ospina, D., M, R. & Zambrano, O., K, J. (2023). Gobierno digital
+e inteligencia artificial, una mirada al caso colombiano. Administración
+& Desarrollo, 53(1), 1-34. <a href="https://doi.org/10.22431/25005227" rel="noopener noreferrer" target="_blank">https://doi.org/10.22431/25005227</a></p><p class="reference">Oxford Insights. (2024). Government AI Readiness Index 2024. Oxford
+Insights. Link: <a href="https://oxfordinsights.com/ai-readiness/ai-readiness-index/" rel="noopener noreferrer" target="_blank">https://oxfordinsights.com/ai-readiness/ai-readiness-index/</a></p><p class="reference">Palak Dev, & Sainger, G. (2025). Benefits of Digital Training
+Approaches on Non-Banking Economic Divisions in India. Mercados y
+Negocios, (55), 3–32. <a href="https://doi.org/10.32870/myn.vi55.7771" rel="noopener noreferrer" target="_blank">https://doi.org/10.32870/myn.vi55.7771</a></p><p class="reference">Park, Y. J., Choe, Y. J., Park, O., Park, S. Y., Kim, Y. M., Kim, J.,
+& Jeong, E. K. (2020). Contact tracing during coronavirus disease
+outbreak, South Korea, 2020. Emerging infectious diseases, 26(10),
+2465.</p><p class="reference">Pislaru, M., Vlad, C. S., Ivascu, L., & Mircea, I. I. (2024).
+Citizen-Centric Governance: Enhancing Citizen Engagement through
+Artificial Intelligence Tools. Sustainability, 16(7), 2686.</p><p class="reference">Puerta, M., Pindado, J., & González, E. (2023). The resilience of
+corporate tourism: bleisure, digitalization, and sustainability.
+Mercados y Negocios, (48), 53–74. <a href="https://doi.org/10.32870/myn.vi48.7679" rel="noopener noreferrer" target="_blank">https://doi.org/10.32870/myn.vi48.7679</a></p><p class="reference">Ricaurte, P., Gómez-Cruz, E., & Siles, I. (2024).
+Gubernamentalidad algorítmica en América Latina: Imaginarios
+sociotécnicos, poder blando neocolonial y autoritarismo. Big Data &
+Society, 11 (1). <a href="https://doi.org/10.1177/20539517241229697" rel="noopener noreferrer" target="_blank">https://doi.org/10.1177/20539517241229697</a></p><p class="reference">Romberg, J., & Escher, T. (2024). Making Sense of Citizens’ Input
+through Artificial Intelligence: A Review of Methods for Computational
+Text Analysis to Support the Evaluation of Contributions in Public
+Participation. Digital Government: Research and Practice, 5(1), 1-30. <a href="https://doi.org/10.1145/3603254" rel="noopener noreferrer" target="_blank">https://doi.org/10.1145/3603254</a></p><p class="reference">Ruano, J. M., & Reichborn-Kjennerud, K. (2022). Inside the black
+box: Perspectives and attitudes of civil servants on citizen
+participation. In Citizen participation in the information society:
+Comparing participatory channels in urban development. Cham: Springer
+International Publishing.</p><p class="reference">Shamsuzzoha, A., Nieminen, J., Piya, S., & Rutledge, K. (2021).
+Smart city for sustainable environment: A comparison of participatory
+strategies from Helsinki, Singapore and London. Cities, 114, 103194.</p><p class="reference">Sharma, & Padashetty, S. (2025). Impact of E-Service Quality of
+Mobile Application on Customer Perceived Value. Mercados y Negocios,
+(55), 33–62. <a href="https://doi.org/10.32870/myn.vi55.7818" rel="noopener noreferrer" target="_blank">https://doi.org/10.32870/myn.vi55.7818</a></p><p class="reference">Soon, C., & Soh, Y. D. (2014). Engagement@ web 2.0 between the
+government and citizens in Singapore: dialogic communication on
+Facebook? Asian Journal of Communication, 24(1), 42-59.</p><p class="reference">Steinbach, M., Sieweke, J., & Süß, S. (2019). The diffusion of
+e-participation in public administrations: A systematic literature
+review. Journal of Organizational Computing and Electronic Commerce,
+29(2), 61–95.</p><p class="reference">Susar, D., & Aquaro, V. (2019). Artificial intelligence:
+Opportunities and challenges for the public sector. In Proceedings of
+the 12th International Conference on Theory and Practice of Electronic
+Governance (pp. 418-426).</p><p class="reference">Tangi, L., Noordt, C. van., Combetto Marco., Gattwinkel, D., &
+Pignatelli, F. (2022). AI watch. European Landscape on the Use of
+Artificial Intelligence by the Public Sector. Luxembourg: Publications
+Office of the European Union.</p><p class="reference">United Nations Department of Economic and Social Affairs. (2018).
+United Nations. E-Government Survey 2018. Uescap. Link: <a href="https://www.unescap.org/sites/default/files/E-Government%20Survey%202018_FINAL.pdf" rel="noopener noreferrer" target="_blank">https://www.unescap.org/sites/default/files/E-Government%20Survey%202018_FINAL.pdf</a></p><p class="reference">Van Noordt, C., & Misuraca, G. (2022). Artificial intelligence
+for the public sector: results of landscaping the use of AI in
+government across the European Union. Government information quarterly,
+39(3), 101714.</p><p class="reference">Vote.gov. (2025). Register for voting. U.S. General Services
+Administration. Link: https://vote.gov/es (<a href="https://vote.gov/es" rel="noopener noreferrer" target="_blank">https://vote.gov/es</a>)</p><p class="reference">Vrabie, C. (2023). E-Government 3.0: An AI Model to Use for Enhanced
+Local Democracies. Sustainability, 15(12), 9572.
+https://doi.org/10.3390/su15129572 (<a href="https://doi.org/10.3390/su15129572" rel="noopener noreferrer" target="_blank">https://doi.org/10.3390/su15129572</a>)</p><p class="reference">WEF. (2024). Generative AI Governance: Shaping a Collective Global
+Future. WEF. Link: <a href="https://www3.weforum.org/docs/WEF_Generative_AI_Governance_2024.pdf" rel="noopener noreferrer" target="_blank">https://www3.weforum.org/docs/WEF_Generative_AI_Governance_2024.pdf</a></p><p class="reference">White House. (2025). Artificial for the American People. White House.
+Link: <a href="https://trumpwhitehouse.archives.gov/ai/ai-american-innovation/" rel="noopener noreferrer" target="_blank">https://trumpwhitehouse.archives.gov/ai/ai-american-innovation/</a></p><p class="reference">Whitford, A. B., Yates, J., Burchfield, A., Anastasopoulos, J. L.,
+& Anderson, D. M. (2020). The adoption of robotics by government
+agencies: evidence from crime labs. Public Administration Review, 80(6),
+976-988.</p><p class="reference">World Bank. (2022). The GovTech Maturity Index (GTMI). World Bank.
+Link: <a href="https://openknowledge.worldbank.org/server/api/core/bitstreams/5e157ee3-e97a-5e42-bfc0-f1416f3de4de/content" rel="noopener noreferrer" target="_blank">https://openknowledge.worldbank.org/server/api/core/bitstreams/5e157ee3-e97a-5e42-bfc0-f1416f3de4de/content</a></p><p class="reference">Zheng, Y., Schachter, H. & Holzer, M. (2014). The impact of
+government form on e-participation: A study of New Jersey
+municipalities. Government Information Quarterly, 31. 653-659.</p><p class="reference">Zhu, Y., Janssen, M., Wang, R., & Liu, Y. (2022). It is me,
+chatbot: working to address the COVID-19 outbreak-related mental health
+issues in China. User experience, satisfaction, and influencing factors.
+International Journal of Human–Computer Interaction, 38(12),
+1182-1194.</p><p class="reference">Zidouemba, M. T. (2025). Governance and artificial intelligence: the
+use of artificial intelligence in democracy and its impacts on the
+rights to participation. Discover Artificial Intelligence, 5(1),
+1-11.</p><p class="reference">Zuiderwijk, A., Chen, Y. C., & Salem, F. (2021). Implications of
+the use of artificial intelligence in public governance: A systematic
+literature review and a research agenda. Government information
+quarterly, 38(3), 101-577.</p>
+  <p class="gespye-license"><strong>Licencia:</strong> Esta obra está protegida bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.</p>
+</div>
+</body>
+</html>
