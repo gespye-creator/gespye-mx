@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>La influencia de las políticas públicas en las industrias culturales y creativas: exploración de mapas bibliométricos | GESPYE</title>
+<meta name="description" content="Análisis bibliométrico con VOSviewer y datos de Scopus sobre cómo se han estudiado las industrias culturales y creativas en relación con las políticas públicas.">
+<link rel="canonical" href="https://articulos.gespye.mx/a1/n1/art5/politicas-publicas-industrias-culturales/">
+
+<!-- Google Scholar / Highwire Press -->
+<meta name="citation_title" content="La influencia de las políticas públicas en las industrias culturales y creativas: exploración de mapas bibliométricos">
+<meta name="citation_author" content="Camacho Sotelo, Cinthya Karina">
+<meta name="citation_author_institution" content="Departamento de Mercadotecnia y Negocios Internacionales, CUCEA, Universidad de Guadalajara">
+<meta name="citation_author_orcid" content="https://orcid.org/0009-0008-3369-4287">
+<meta name="citation_publication_date" content="2024/04/30">
+<meta name="citation_online_date" content="2024/04/30">
+<meta name="citation_journal_title" content="GESPYE Gestión Pública y Empresarial">
+<meta name="citation_journal_abbrev" content="GESPYE">
+<meta name="citation_issn" content="3061-8630">
+<meta name="citation_volume" content="1">
+<meta name="citation_issue" content="1">
+<meta name="citation_firstpage" content="57">
+<meta name="citation_lastpage" content="66">
+<meta name="citation_doi" content="10.32870/gespye.vi1.5">
+<meta name="citation_abstract_html_url" content="https://articulos.gespye.mx/a1/n1/art5/politicas-publicas-industrias-culturales/">
+<meta name="citation_pdf_url" content="https://articulos.gespye.mx/a1/n1/art5/politicas-publicas-industrias-culturales/politicas-publicas-industrias-culturales.pdf">
+<meta name="citation_language" content="es">
+<meta name="citation_publisher" content="Universidad de Guadalajara, CUCEA">
+<meta name="citation_keywords" content="Industrias culturales y creativas; Gobierno; Políticas culturales; Políticas públicas">
+
+<!-- Dublin Core -->
+<meta name="DC.title" content="La influencia de las políticas públicas en las industrias culturales y creativas: exploración de mapas bibliométricos">
+<meta name="DC.creator" content="Cinthya Karina Camacho Sotelo">
+<meta name="DC.date" content="2024-04-30">
+<meta name="DC.type" content="Text.Serial.Journal">
+<meta name="DC.format" content="text/html">
+<meta name="DC.identifier" content="https://articulos.gespye.mx/a1/n1/art5/politicas-publicas-industrias-culturales/">
+<meta name="DC.identifier.DOI" content="10.32870/gespye.vi1.5">
+<meta name="DC.identifier.ISSN" content="3061-8630">
+<meta name="DC.source" content="GESPYE Gestión Pública y Empresarial">
+<meta name="DC.source.volume" content="1">
+<meta name="DC.source.issue" content="1">
+<meta name="DC.language" content="es">
+<meta name="DC.publisher" content="Universidad de Guadalajara, CUCEA">
+<meta name="DC.rights" content="CC BY-NC 4.0">
+<meta name="DC.description" content="Análisis bibliométrico con VOSviewer y datos de Scopus sobre cómo se han estudiado las industrias culturales y creativas en relación con las políticas públicas.">
+<meta name="DC.subject" content="Industrias culturales y creativas; Gobierno; Políticas culturales; Políticas públicas">
+
+<!-- Open Graph -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="La influencia de las políticas públicas en las industrias culturales y creativas: exploración de mapas bibliométricos">
+<meta property="og:description" content="Análisis bibliométrico con VOSviewer y datos de Scopus sobre cómo se han estudiado las industrias culturales y creativas en relación con las políticas públicas.">
+<meta property="og:url" content="https://articulos.gespye.mx/a1/n1/art5/politicas-publicas-industrias-culturales/">
+<meta property="og:site_name" content="GESPYE Gestión Pública y Empresarial">
+<meta property="og:locale" content="es_MX">
+<meta property="og:image" content="https://articulos.gespye.mx/a1/n1/art5/politicas-publicas-industrias-culturales/figura-1.png">
+<meta property="article:published_time" content="2024-04-30">
+<meta property="article:author" content="Cinthya Karina Camacho Sotelo">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="La influencia de las políticas públicas en las industrias culturales y creativas: exploración de mapas bibliométricos">
+<meta name="twitter:description" content="Análisis bibliométrico con VOSviewer y datos de Scopus sobre cómo se han estudiado las industrias culturales y creativas en relación con las políticas públicas.">
+<meta name="twitter:image" content="https://articulos.gespye.mx/a1/n1/art5/politicas-publicas-industrias-culturales/figura-1.png">
+</head>
+<body>
+<style>
+  .gespye-article{font-family:'Montserrat',Arial,sans-serif;color:#222;background:#fff;max-width:920px;margin:0 auto;padding:28px 30px;line-height:1.52;font-size:9pt;box-sizing:border-box;}
+  .gespye-article *{box-sizing:border-box;}
+  .gespye-article a{color:#1769aa;text-decoration:underline;overflow-wrap:anywhere;}
+  .top-category{text-align:center;font-size:13pt;margin:8px 0 12px 0;color:#222;}
+  .main-title{text-align:center;font-size:20pt;line-height:1.18;font-weight:800;margin:6px 0 12px 0;color:#111;}
+  .subtitle{text-align:center;font-size:10.5pt;margin:0 0 16px 0;color:#333;}
+  .orange-line{height:5px;background:#f5b642;border:0;margin:12px 0 18px 0;border-radius:2px;}
+  .editorial-card{background:#f6f6f6;border-left:6px solid #f28c28;padding:12px 15px;margin:0 0 18px 0;border-radius:3px;font-size:9pt;}
+  .editorial-card p{margin:3px 0;text-align:left;}
+  .journal-name{font-weight:800;color:#f28c28;letter-spacing:.1px;}
+  .authors-box{background:#f8f9fb;border-left:6px solid #1f5f99;padding:12px 15px;margin:14px 0 20px 0;border-radius:3px;}
+  .author{margin:0 0 6px 0;text-align:left!important;}
+  .author:last-child{margin-bottom:0;}
+  .author-name{font-weight:800;color:#111;}
+  .author-meta{display:block;margin-top:2px;color:#333;}
+  .label{margin:14px 0 3px 0;font-weight:700;text-align:left!important;}
+  .gespye-article p{margin:0 0 10px 0;text-align:justify;}
+  .gespye-article h2{font-size:10pt;line-height:1.35;margin:18px 0 8px 0;font-weight:800;color:#111;}
+  .gespye-article ol,.gespye-article ul{margin:8px 0 12px 20px;padding-left:14px;}
+  .gespye-article li{margin:4px 0;text-align:justify;}
+  .gespye-article li p{margin:0;}
+  .table-title{margin-top:16px!important;margin-bottom:2px!important;text-align:left!important;}
+  .caption{font-style:italic;margin-bottom:5px!important;text-align:left!important;}
+  .note{font-size:8.6pt;color:#333;text-align:left!important;margin-top:4px!important;}
+  .table-wrap{width:100%;overflow-x:auto;margin:8px 0 16px 0;}
+  .gespye-article table{border-collapse:collapse;width:100%;font-size:9pt;line-height:1.35;background:#fff;min-width:620px;}
+  .gespye-article th,.gespye-article td{border:1px solid #555;padding:7px 8px;vertical-align:top;}
+  .gespye-article th{background:#eeeeee;font-weight:800;text-align:center;}
+  .gespye-article td{text-align:center;}
+  .gespye-article td:first-child{text-align:left;}
+  .gespye-article tr:nth-child(even) td{background:#fafafa;}
+  .figure-block{margin:18px auto;text-align:center;}
+  .figure-block img{display:block;margin:8px auto;max-width:100%;height:auto;border:0;}
+  .figure-block figcaption{text-align:left;font-size:9pt;margin:4px 0;}
+  .references p{text-align:left;padding-left:1.2em;text-indent:-1.2em;margin-bottom:8px;}
+  .license{margin-top:20px;padding:12px 14px;background:#f6f6f6;border-left:5px solid #f28c28;text-align:left!important;font-size:9pt;}
+  @media (max-width:640px){.gespye-article{padding:20px 16px}.main-title{font-size:16pt}.subtitle{font-size:10pt}.top-category{font-size:12pt}}
+</style>
+
+<div class="gespye-article">
+  <div class="top-category">Artículos</div>
+  <h1 class="main-title">La influencia de las políticas públicas en las industrias culturales y creativas:<br>exploración de mapas bibliométricos</h1>
+  <p class="subtitle">The influence of public policies on cultural and creative industries: an exploration of bibliometric maps</p>
+  <div class="orange-line"></div>
+  <div class="editorial-card">
+    <p><span class="journal-name">GESPYE GESTIÓN PÚBLICA Y EMPRESARIAL</span> <span>(e-ISSN: 3061-8630)</span></p>
+    <p>Año 1, Núm. 1 (ene-jun 2024) • Págs. 57-66 • DOI <a href="https://doi.org/10.32870/gespye.vi1.5" target="_blank" rel="noopener noreferrer">https://doi.org/10.32870/gespye.vi1.5</a></p>
+    <p>Recibido: 15/12/2023 • Aprobado: 04/02/2024 • Publicado: 30/04/2024</p>
+    <p><strong>Tipo de contribución:</strong> Artículos</p>
+  </div>
+  <div class="authors-box">
+    <p class="author"><span class="author-name">Cinthya Karina Camacho Sotelo</span><br><span class="author-meta">Académica del Departamento de Mercadotecnia y Negocios Internacionales del CUCEA. Correo electrónico: <a href="mailto:cinthya.camacho@cucea.udg.mx">cinthya.camacho@cucea.udg.mx</a>, ORCID: <a href="https://orcid.org/0009-0008-3369-4287" target="_blank" rel="noopener noreferrer">https://orcid.org/0009-0008-3369-4287</a></span></p>
+  </div>
+  <p class="label"><strong>Resumen.</strong></p>
+  <p>Las industrias culturales y creativas (ICC) como sujeto de estudio han ganado visibilidad en años recientes, lo anterior ha hecho que se incremente el interés de los investigadores por este sector. En este trabajo se busca identificar cómo se ha estudiado y hacia dónde van las líneas de investigación de las ICC en relación con las políticas públicas. Se realizó un análisis bibliométrico donde se utilizó como fuente de información la base de datos Scopus, se utilizaron para la búsqueda las siguientes palabras claves “cultural and creatives industries”, “cultural policy”, “public policy”, “policy” y “government” los resultados fueron procesados en el software VOSviewer. Se identificó que las líneas de investigación relacionadas con las ICC y las políticas públicas aún están en desarrollo, ya que se encontraron 11 diferentes clústers con muy pocos ítems cada uno de ellos.</p>
+  <p class="label"><strong>Palabras clave:</strong></p>
+  <p>Industrias culturales y creativas; Gobierno; Políticas culturales; Políticas públicas.</p>
+  <p class="label"><strong>Abstract.</strong></p>
+  <p>The cultural and creative industries (CCI) as a subject of study have gained visibility in recent years, which has increased the interest of researchers in this sector. This paper seeks to identify how CCIs have been studied and where the lines of research on CCIs are heading in relation to public policies. A bibliometric analysis was carried out using the Scopus database as a source of information where the following keywords “cultural and creative industries”, “cultural policy”, “public policy”, “policy” and “government” were used for the search; the results were processed in the VOSviewer software. It was identified that the lines of research related to CCIs and public policy are still in development, since 11 different clusters were found with very few items each.</p>
+  <p class="label"><strong>Keywords:</strong></p>
+  <p>Cultural and creatives industries; Government; Cultural policy; Public policy.</p>
+
+<h2>Introducción</h2>
+<p>Desde inicios del siglo XXI,
+el concepto de industrias culturales y creativas (ICC) ha comenzado a
+escucharse más a nivel mundial dado que se ha presentado como parte de
+una estrategia de reactivación económica en los países postindustriales.
+Quién ha sido uno de los principales impulsores de este término es la
+UNESCO ya que se ha encargado de desarrollar a las ICC con la promoción
+del patrimonio cultural (Ma, 2022).</p>
+<p>Ante lo anterior la UNESCO propone definir a las industrias
+culturales y creativas como aquellos “sectores de actividad que tienen
+como objeto principal la creatividad, la producción o reproducción, la
+promoción, la difusión y la comercialización de bienes, servicios y
+actividades de contenido cultural, artístico o patrimonial” (UNESCO
+2010).</p>
+<p>La cultura se ve reflejada a través de expresiones artísticas de una
+comunidad, estas pueden ser de manera tangible o intangible, donde estas
+expresiones tienen cabida en los que hoy se denomina industrias
+culturales y creativas que se ve representado en la música, en los
+colores y en diferentes formas que están al alcance de muchas personas y
+que determinan la identidad de una comunidad (UNESCO, 2010).</p>
+<p>Las ICC se han convertido en un sector muy importante para los
+gobiernos ya que se ha señalado que estas industrias ayudan al
+desarrollo económico de un país o región, agregando que estas han
+ayudado a desarrollar la economía digital, así como han logrado promover
+la innovación, la inclusión y la sostenibilidad (Jia et al., 2024).</p>
+<p>Las industrias culturales y creativas han tomado relevancia en los
+últimos años dado que se ha comenzado a visualizar como un sector
+económico que aporta al PIB de los países, aportando al PIB mundial el
+3.1% y generando el 6.2% de todo el empleo, lo anterior ha logrado que
+estas industrias cada vez se integren más a las políticas públicas de
+los gobiernos, aunque se señala que la inversión pública en la cultura
+ha disminuido en la última década y que las prioridades de las políticas
+solo han sido para ciertos sectores de las ICC como el cine, las artes
+visuales, música y artes escénicas, prestando menos atención a las artes
+mediáticas y el diseño (UNESCO, 2022).</p>
+<h2>Las políticas públicas y las industrias culturales y creativas</h2>
+<p>Las políticas públicas es la manera en que el estado ayuda a los
+problemas de orden público, en el pasado el desarrollo de estas solo les
+confería a los ámbitos estatales y federales de un gobierno, últimamente
+se ha incluido a actores no gubernamentales como asociaciones civiles,
+empresarios, profesionistas, académicos, entre otros (Ziccardi, 2008).
+En el mismo sentido una política pública refleja cómo un país participa
+en los contextos geopolíticos y como atiende recomendaciones de
+organismos internacionales (Bouquillion y Ithurbide, 2023).</p>
+<p>Gracias a estas políticas las industrias creativas y culturales han
+logrado un crecimiento en estos últimos años, ya que estas han apoyado a
+este sector a través de subvenciones, reglamentos, normalización
+regional y nacional (Liu, 2021).</p>
+<p>Dentro de las políticas públicas que atienden al sector cultural se
+encuentran las llamadas políticas culturales entendiéndose a éstas como
+las actividades que realiza un gobierno en favor de las artes, esto
+puede incluir aquellas con lucro o sin fines de lucro. En estas el
+gobierno plantea planes de acción donde se determinan las estrategias a
+seguir, algunas de estas acciones pueden ser la producción, difusión,
+comercialización y el consumo de los productos culturales (Betzler et
+al., 2020).</p>
+<p>El estudio de las políticas culturales ha aumentado al igual que el
+interés por este sector, donde se ha demostrado que anteriormente los
+gobiernos se enfocaban a las ICC meramente por cuestiones de atender las
+necesidades culturales como un bien público, ofreciendo a los habitantes
+una oferta cultural y artística. Pero esto ha ido cambiando y ahora ven
+a las ICC como un elemento de desarrollo económico, turismo y empleo,
+por lo anterior se señala en los estudios que los objetivos de las
+políticas culturales irán en función de las preferencias del estado o
+nación (Betzler et al., 2020).</p>
+<p>Por la importancia que ha tomado las industrias culturales y
+creativas en todo el mundo, los países han volteado más a ellas y con
+ello han comenzado a promover políticas públicas que las favorezcan para
+desarrollarse al punto que algunos países las han posicionado como un
+pilar de desarrollo industrial. A esto le agregamos que países
+emergentes han aumentado su consumo hacia estas industrias, esto
+haciendo que a nivel mundial se incremente el poder adquisitivo, así
+mismo las ICC ayudan no solo a las personas que lo consumen si no
+también al desarrollo de industrias emergentes ayudando a la
+competitividad de las economías (Liu y Chiu, 2017).</p>
+<p>Por lo anterior se señala que las economías que serán más prósperas
+en el siglo XXI serán aquellas que utilicen la creatividad, por lo que
+es relevante que las políticas públicas de los gobiernos apoyen a la
+cultura pero para que esto suceda primero deben de aclarar algunos
+puntos acerca de las ICC ya que aún existen una diversidad de opiniones
+acerca de estas sin llegar a un consenso aún, por lo que en primera
+instancia tanto los que formulan las políticas públicas y académicos
+deben de aclarar cuál será la definición generalizada para la cultura y
+lo creativo, así como entender que la creatividad de las ICC es
+diferente a otro tipo de creatividad (Galloway y Dunlop, 2007).</p>
+<p>Por otra parte, McGuigan (como se citó en Lysgård, 2016) señala que
+las políticas culturales pueden ser explicadas desde tres discursos
+ideológicos:</p>
+<ul>
+<li><p>Estado o Gobierno: en este enfoque de la política cultural se
+enfoca a que la cultura sea algo para la sociedad, que sea un
+derecho.</p></li>
+<li><p>Mercado comercial: en este segundo enfoque la política cultural
+se basa en que la cultura ya se relaciona con mercantilizarla y ya se
+basa en un aspecto más económico teniendo como consecuencia la
+comercialización de bienes y servicios.</p></li>
+<li><p>Sociedad civil democrática: en este tercer enfoque la política
+cultural busca el punto medio entre el estado y el mercado.</p></li>
+</ul>
+<p>Dado el auge que están teniendo las industrias culturales y creativas
+en los gobiernos de los países se debe de aprovechar este momento para
+crear entornos donde estas puedan desarrollarse para esto es necesario
+que se dé un ambiente jurídico, político y normativo que las respalde
+(UNESCO, 2022).</p>
+<p>Algunos países con economías avanzadas y postindustriales han visto
+en las industrias culturales y creativas ese sector que les pueda dar
+una ventaja estratégica y de esa manera han trabajado en generar
+políticas que ayuden al desarrollo de este sector, por lo anterior una
+política debe de fomentar a las ICC y generar un instrumento que ayude a
+la difusión de estas industrias, así como que estas logren una
+sostenibilidad (UNESCO, 2010).</p>
+<h2>Metodología</h2>
+<p>La base de datos utilizada para este trabajo fue Scopus, se determinó
+la siguiente estrategia de búsqueda: Article title, abstract and
+keywords (“cultural and creatives industries” AND “cultural policy” OR
+“public policy” OR “policy” OR "Government"), se eligió esta ecuación de
+búsqueda con la finalidad de que se buscaran las palabras claves
+anteriormente descritas en el el título del artículo, resumen y en las
+palabras claves, con esto se encontraron 333 documentos de los cuales
+fueron incluidos todo tipo de documentos, donde no se determinó ningún
+tipo de filtro en específico para que se arrojaran todos los resultados
+sin discriminación.</p>
+<p>El procesamiento de los datos arrojados se realizó a través del
+software VOSviewer donde se subió la información en formato CVS
+descargado de Scopus y se procedió a realizar la construcción de mapas
+bibliométricos a partir de la co-ocurrencias de palabras claves del
+autor con la finalidad de crear redes de las palabras claves que se
+encuentran en los artículos y poder determinar las tendencias en las
+líneas de investigación en relación con las industrias culturales y
+creativas y las políticas.</p>
+<p>Para este estudio se eligió tipo de análisis la co-ocurrencia de
+palabras claves tomando como unidad de análisis las palabras claves del
+autor donde se mostró un resultado de 972 palabras claves de ahí se
+determinó que estas por lo menos deberían de haber tenido mínimo 3
+apariciones, de las cuales resultaron que 45 cumplían con esta
+condición.</p>
+<h2>Resultados</h2>
+<p>Con el análisis bibliométrico realizado se obtuvieron resultados de
+los mapas que muestran las palabras claves usadas por los autores con
+mayor co-ocurrencia en estas podemos observar las palabras claves que
+más se estudian por los autores en relación con la temática propuesta en
+este trabajo, así como también se muestra un mapa que señala cómo se han
+ido cambiando el estudio de las palabras claves a través de los años. En
+la figura 1 se pueden visualizar todas las palabras claves que más
+repeticiones tuvieron en los documentos analizados, estas se agruparon
+en 11 clústeres que a continuación se explican:</p>
+<figure class="figure-block">
+<figcaption><strong>Figura 1.</strong> Visualización de la red de palabras clave del autor basada en las ocurrencias sobre industrias culturales y creativas y las políticas.</figcaption>
+<img alt="Visualización de la red de palabras clave del autor basada en las ocurrencias sobre industrias culturales y creativas y las políticas." src="figura-1.png"/>
+<figcaption class="note"><em>Nota.</em> Elaboración mediante el software VOSviewer con datos de Scopus</figcaption>
+</figure>
+<ul>
+<li><p>Clúster 1: El clúster 1 señalado en el mapa bibliométrico es uno
+de los dos más grandes el cual está conformado por 6 ítems donde las
+palabras clave utilizadas por los autores con mayor fuerza de enlace
+son: industria creativa, productos culturales y creativos, industria
+cultural, empleo, política, Sudáfrica.</p></li>
+</ul>
+<ul>
+<li><p>Clúster 2: En el segundo clúster más grande se agruparon 6 ítems
+los cuales son: COVID-19 pandemia, creatividad, industrias culturales,
+cultura, iniciativa empresarial y poder blando.</p></li>
+<li><p>Clúster 3: En este clúster de palabras claves más utilizadas por
+los investigadores se pueden observar el estudio de variables como:
+COVID-19, industrias culturales y creativas (ccis), política cultural e
+Italia.</p></li>
+<li><p>Clúster 4: El cuarto clúster que nos señala el mapa de red de
+palabras está conformado por cuatro palabras claves: industria cultural
+y creativa, consumo cultural, desarrollo regional y desarrollo
+sostenible.</p></li>
+<li><p>Clúster 5: En el quinto clúster se pueden apreciar palabras
+claves como: industrias culturales y creativas, industrias culturales
+creativas, Fritz Machlup y tabla de entradas y salidas.</p></li>
+<li><p>Clúster 6: El sexto clúster señalado en la figura 1 está
+conformado por las siguientes palabras claves: industrias creativas,
+diversidad, innovación y propiedad intelectual.</p></li>
+<li><p>Clúster 7: En el clúster 7 se pueden apreciar las siguientes
+palabras claves: ciudad creativa, desarrollo económico, Taiwán y
+gobernanza urbana.</p></li>
+<li><p>Clúster 8: El octavo clúster está conformado por las siguientes
+palabras claves de los autores: China, ciudades creativas, desarrollo y
+política urbanos.</p></li>
+<li><p>Clúster 9: En el clúster 9 se puede apreciar que disminuyen el
+número de palabras claves donde solo lo conforman 3 palabras claves:
+economía creativa, educación superior y sostenibilidad.</p></li>
+<li><p>Clúster 10: El décimo clúster tiene 3 ítems: políticas
+culturales, globalización y políticas públicas.</p></li>
+<li><p>Clúster 11: En el último clúster y más pequeño solo está
+conformado con dos palabras claves: clase creativa y Hangzhou.</p></li>
+</ul>
+<figure class="figure-block">
+<figcaption><strong>Figura 2.</strong> Visualización de la superposición de las palabras claves de autor basadas en las ocurrencias y la publicación media por año.</figcaption>
+<img alt="Visualización de la superposición de las palabras claves de autor basadas en las ocurrencias y la publicación media por año." src="figura-2.png"/>
+<figcaption class="note"><em>Nota.</em> Elaboración mediante el software VOSviewer con datos de Scopus</figcaption>
+</figure>
+<p>En la figura 2 se puede observar cómo a través de los años los
+investigadores han ido estudiando diferentes palabras claves, en los
+primeros años de estudio el mapa de superposición muestra los autores
+que enfocaban sus investigaciones a las industrias culturales y
+creativas y el desarrollo económico que estas podrían representar
+específicamente relacionándolo con Taiwán, para después del 2016 al 2019
+aproximadamente las investigaciones pasaron a enfocarse a las políticas
+públicas, a las políticas culturales, el desarrollo urbano y se
+comenzaban a nombrar a las ciudades como ciudades creativas, en estos
+estudios aparecen China e Italia como países relevantes en los artículos
+y por último del 2020 a la fecha los estudios se relacionaron con las
+industrias culturales y creativas y el COVID-19, innovación, desarrollo
+sostenible, emprendimiento, el nivel de estudios y Sudáfrica apareció en
+las investigaciones.</p>
+<p>En la tabla 1 se muestran las 15 palabras claves con mayor número de
+co-ocurrencias arrojadas por el Vosviewer, para poder obtener este
+resultado se definieron diferentes criterios, el primero de ellos es que
+se contarán las palabras claves usadas por los autores de los artículos,
+así como que seleccionará aquellas que tuvieran como un mínimo de
+repetición de palabras claves ≥3 donde de 972 palabras claves se
+encontró 45 coincidan más de tres veces. De lo anterior se puede señalar
+que las palabras claves con mayor co-ocurrencia y fuerza de enlace
+fueron principalmente aquellas que tiene que ver con las palabras claves
+de búsqueda de los artículos en Scopus que fueron industrias creativas y
+culturales, por lo que para esta tabla se eliminaron las palabras
+relacionadas a las ICC y solo se señalaron aquellas que no tuvieran
+relación con estas, donde se puede visualizar como palabras claves
+principales las políticas culturales, innovación, desarrollo sostenible,
+China, Fritz Machlup, política, ciudades creativas, propiedad
+intelectual, desarrollo económico, entre otras.</p>
+<p>Con lo anterior se puede resumir que las tendencias en las palabras
+claves más usadas en las investigaciones relacionadas con las industrias
+culturales y creativas y la política son aquellas que hablen de las
+políticas culturales y de otro tipo de políticas que ayuden al
+desarrollo en diferentes ámbitos como económico, sostenible, regional,
+urbano entre otros.</p>
+<p class="table-title"><strong>Tabla 1.</strong></p>
+<p class="caption"><em>Listado de palabras claves por importancia de aparición e
+intensidad de enlace de la búsqueda de industrias creativas y culturales
+y políticas.</em></p>
+<div class="table-wrap"><table>
+<thead>
+<tr class="header">
+<th><strong>Palabras claves</strong></th>
+<th><strong>Co-ocurrencias</strong></th>
+<th><p><strong>Fuerza total</strong></p>
+<p><strong>del enlace</strong></p></th>
+<th><strong>Enlaces</strong></th>
+<th><strong>Cluster</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Política cultural</td>
+<td>30</td>
+<td>44</td>
+<td>21</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>Innovación</td>
+<td>8</td>
+<td>16</td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr class="odd">
+<td>Desarrollo sostenible</td>
+<td>10</td>
+<td>16</td>
+<td>11</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>China</td>
+<td>9</td>
+<td>12</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Fritz Machlup</td>
+<td>8</td>
+<td>12</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>Política</td>
+<td>5</td>
+<td>12</td>
+<td>11</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Ciudades creativas</td>
+<td>6</td>
+<td>11</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>Propiedad intelectual</td>
+<td>5</td>
+<td>11</td>
+<td>7</td>
+<td>6</td>
+</tr>
+<tr class="odd">
+<td>Desarrollo económico</td>
+<td>3</td>
+<td>9</td>
+<td>6</td>
+<td>7</td>
+</tr>
+<tr class="even">
+<td>Tabla de entradas y salidas</td>
+<td>6</td>
+<td>9</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>Covid-19</td>
+<td>5</td>
+<td>8</td>
+<td>5</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>Globalización</td>
+<td>3</td>
+<td>7</td>
+<td>6</td>
+<td>10</td>
+</tr>
+<tr class="odd">
+<td>Desarrollo regional</td>
+<td>5</td>
+<td>7</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>Desarrollo urbano</td>
+<td>3</td>
+<td>7</td>
+<td>5</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Diversidad</td>
+<td>3</td>
+<td>6</td>
+<td>3</td>
+<td>6</td>
+</tr>
+</tbody>
+</table></div>
+<p class="note"><em>Nota.</em> elaboración propia a partir de VOSviewer.</p>
+<h2>Conclusiones</h2>
+<p>Las industrias culturales y creativas son industrias que han ido
+tomando relevancia hasta hace poco y que países postindustriales las han
+puesto en la mira del resto del mundo. Estas han demostrado que son
+capaces de generar desarrollo en muchos sentidos, pero uno de los que
+más les interesa a los gobiernos es el económico.</p>
+<p>Por lo anterior los gobiernos se han propuesto generar los entornos
+idóneos para que las ICC puedan crecer y seguir desarrollándose,
+generando políticas culturales y marco jurídicos que las hagan visibles
+y las reconozcan. Pero aún está en sus inicios este tema ya apenas se ha
+logrado que se reconozcan a las ICC como un sector que puede generar
+ingresos y desarrollo en un país, el siguiente paso es brindarles todos
+los elementos necesarios para que se vuelva competitiva y se mantenga
+como un pilar de los países y es ahí donde entra el desarrollo de
+políticas públicas en torno a ellas.</p>
+<p>Los clústeres descritos en el apartado de resultados dieron un
+panorama de cómo se agrupan los temas de estudio relacionados con las
+industrias culturales y creativas y su relación con las políticas
+públicas, lo que arrojó que aún hay varias líneas de investigación que
+se están estudiando, pareciera por lo que arroja el VOSviewer referente
+a los artículos obtenidos de Scopus que este tema apenas está en
+formación ya que hay muchos clústeres y contienen muy pocos ítems.</p>
+<p>Para resumir los 11 clústeres antes descritos se reagruparán en
+cuatro grandes clústeres de acuerdo con su número de ítems quedando de
+la siguiente manera:</p>
+<p><strong>Línea de investigación de los clústeres 1 y 2:</strong> en
+estos clústeres se encuentran las líneas de investigación más
+consolidadas ya cuentan con 6 ítems cada una de ellas, estas son las que
+relacionan a las industrias culturales y creativas con la política, el
+empleo, la iniciativa empresarial y en él como un país puede influir en
+otro a través de la cultura lo llamado también poder blando.</p>
+<p><strong>Línea de investigación de los clústeres 3, 4, 5, 6, 7 y
+8:</strong> en esta línea de investigación es donde se agrupa el mayor
+número de clústeres con 4 ítems cada uno, estos relacionan a las
+industrias culturales y creativas con el desarrollo de un país desde
+diferentes enfoques apoyado de las políticas, como también se relaciona
+a este sector con la innovación y la propiedad intelectual y se comienza
+a incluir el término de ciudades creativas, así como también toman
+relevancia regiones del mundo como China y Taiwán.</p>
+<p><strong>Línea de investigación de los clústeres 9 y 10:</strong> esta
+línea de investigación es menos estudiada que las anteriores, en esta
+las palabras claves más estudiada por los investigadores van más hacia
+una economía creativa y no tanto hacia las industrias culturales y
+creativas, en esta línea se enfoca más hacia las políticas públicas, la
+educación superior y se comienza a tomar el tema de la
+sostenibilidad.</p>
+<p><strong>Línea de investigación del clúster 11:</strong> esta última
+línea de investigación apenas se está creando ya que solo tiene dos
+palabras claves en ella y una es muy específica, se comienza a estudiar
+a la clase creativa y la relación con una región de China llamada
+Hangzhou.</p>
+<p>Con todo lo anterior se puede concluir que las líneas de
+investigación de las industrias culturales y creativas en relación a las
+políticas aún están en formación, pero también se puede observar que
+cada vez se le reconoce más a este sector por sus múltiples beneficios
+en el desarrollo en un país; por otra parte, se puede visualizar que tal
+vez el concepto de ICC vaya a evolucionar a solo industrias creativas y
+quizá con esta evolución se pueda llegar a un consenso acerca de su
+definición, se debe de resaltar que regiones de Asía y Europa son las
+que más aparecen en las investigaciones de las palabras claves con mayor
+co-ocurrencia.</p>
+<h2>Referencias</h2><div class="references">
+<p>Betzler, D., Loots, E., Prokůpek, M., Marques, L., &amp; Grafenauer,
+P. (2020). COVID-19 and the arts and cultural sectors: Investigating
+countries’ contextual factors and early policy measures. International
+Journal of Cultural Policy, 1-19. <a href="https://doi.org/10.1080/10286632.2020.1842383https://doi.org/10.1080/13527258.2022.2042717" rel="noopener noreferrer" target="_blank">https://doi.org/10.1080/10286632.2020.1842383https://doi.org/10.1080/13527258.2022.2042717</a></p>
+<p>Galloway, S., y Dunlop, S. (2007). A critique of definitions of the
+cultural and creative industries in public policy. International Journal
+of Cultural Policy, 13(1), 17-31. <a href="https://doi.org/10.1080/10286630701201657" rel="noopener noreferrer" target="_blank">https://doi.org/10.1080/10286630701201657</a></p>
+<p>Jia, Q., Li, D., Wang, Z., Zhang, T., y Li, S. (2024). Cultural and
+Creative Industries of Local Autonomy: Cultural Innovation and Cultural
+Upgrading. Lex localis - Journal of Local Self-Government, 22(01),
+125-151. <a href="https://doi.org/10.52152/22.1.125-151" rel="noopener noreferrer" target="_blank">https://doi.org/10.52152/22.1.125-151</a>
+(2024)</p>
+<p>Liu, Y.-Y., y Chiu, Y.-H. (2017). Evaluation of the Policy of the
+Creative Industry for Urban Development. Sustainability, 9(6), 1009. <a href="https://doi.org/10.3390/su9061009" rel="noopener noreferrer" target="_blank">https://doi.org/10.3390/su9061009</a></p>
+<p>Liu, Z. (2021). The Impact of Government Policy on Macro Dynamic
+Innovation of the Creative Industries: Studies of the UK’s and China’s
+Animation Sectors. Journal of Open Innovation: Technology, Market, and
+Complexity, 7(3), 168. <a href="https://doi.org/10.3390/joitmc7030168" rel="noopener noreferrer" target="_blank">https://doi.org/10.3390/joitmc7030168</a></p>
+<p>Lysgård, H. K. (2016). The ‘actually existing’ cultural policy and
+culture-led strategies of rural places and small towns. Journal of Rural
+Studies, 44, 1-11. <a href="https://doi.org/10.1016/j.jrurstud.2015.12.014" rel="noopener noreferrer" target="_blank">https://doi.org/10.1016/j.jrurstud.2015.12.014</a></p>
+<p>Ma, H. (2022). The Missing Intangible Cultural Heritage in Shanghai
+Cultural and Creative Industries. International Journal of Heritage
+Studies, 28(5), 597-608. <a href="https://doi.org/10.1080/13527258.2022.2042717" rel="noopener noreferrer" target="_blank">https://doi.org/10.1080/13527258.2022.2042717</a></p>
+<p>UNESCO. (2010). Políticas para la creatividad: Guía para el
+desarrollo de las industrias culturales y creativas. <a href="https://unesdoc.unesco.org/ark:/48223/pf0000220384" rel="noopener noreferrer" target="_blank">https://unesdoc.unesco.org/ark:/48223/pf0000220384</a></p>
+<p>UNESCO (2022). Re|pensar las políticas para la creatividad: plantear
+la cultura como un bien público global. <a href="https://unesdoc.unesco.org/ark:/48223/pf0000380479" rel="noopener noreferrer" target="_blank">https://unesdoc.unesco.org/ark:/48223/pf0000380479</a></p></div>
+<p class="license"><strong>Licencia:</strong> Esta obra está protegida bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.</p>
+</div>
+</body>
+</html>
