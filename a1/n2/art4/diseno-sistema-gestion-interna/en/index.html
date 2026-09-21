@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Internal management system design for a cultural services company | GESPYE</title>
+<meta name="description" content="The objective of this work is to develop a computer system to manage the information of a company dedicated to the delivery of services in the cultural field."/>
+<link rel="canonical" href="https://articulos.gespye.mx/a1/n2/art4/diseno-sistema-gestion-interna/en/"/>
+<link rel="alternate" hreflang="es" href="https://articulos.gespye.mx/a1/n2/art4/diseno-sistema-gestion-interna/"/>
+<link rel="alternate" hreflang="en" href="https://articulos.gespye.mx/a1/n2/art4/diseno-sistema-gestion-interna/en/"/>
+
+<meta name="citation_title" content="Internal management system design for a cultural services company"/>
+<meta name="citation_author" content="Elisabeth Rodríguez Armenta"/>
+<meta name="citation_author" content="Adriana Lorena Iñiguez Carrillo"/>
+<meta name="citation_author" content="Ma. del Rocío Maciel Arellano"/>
+<meta name="citation_publication_date" content="2024/11/30"/>
+<meta name="citation_online_date" content="2024/11/30"/>
+<meta name="citation_journal_title" content="GESPYE Gestión Pública y Empresarial"/>
+<meta name="citation_issn" content="3061-8630"/>
+<meta name="citation_volume" content="1"/>
+<meta name="citation_issue" content="2"/>
+<meta name="citation_firstpage" content="43"/>
+<meta name="citation_lastpage" content="57"/>
+<meta name="citation_doi" content="10.32870/gespye.vi2.4"/>
+<meta name="citation_language" content="en"/>
+<meta name="citation_publisher" content="Universidad de Guadalajara"/>
+<meta name="citation_abstract_html_url" content="https://articulos.gespye.mx/a1/n2/art4/diseno-sistema-gestion-interna/en/"/>
+<meta name="citation_pdf_url" content="https://articulos.gespye.mx/a1/n2/art4/diseno-sistema-gestion-interna/diseno-sistema-gestion-interna.pdf"/>
+
+<meta name="DC.title" content="Internal management system design for a cultural services company"/>
+<meta name="DC.creator" content="Elisabeth Rodríguez Armenta"/>
+<meta name="DC.creator" content="Adriana Lorena Iñiguez Carrillo"/>
+<meta name="DC.creator" content="Ma. del Rocío Maciel Arellano"/>
+<meta name="DC.date" content="2024-11-30"/>
+<meta name="DC.type" content="Text.Article"/>
+<meta name="DC.format" content="text/html"/>
+<meta name="DC.language" content="en"/>
+<meta name="DC.identifier" content="10.32870/gespye.vi2.4"/>
+<meta name="DC.identifier.URI" content="https://articulos.gespye.mx/a1/n2/art4/diseno-sistema-gestion-interna/en/"/>
+<meta name="DC.source" content="GESPYE Gestión Pública y Empresarial"/>
+<meta name="DC.publisher" content="Universidad de Guadalajara"/>
+<meta name="DC.rights" content="CC BY-NC 4.0"/>
+<meta name="DC.description" content="The objective of this work is to develop a computer system to manage the information of a company dedicated to the delivery of services in the cultural field."/>
+
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Internal management system design for a cultural services company"/>
+<meta property="og:description" content="The objective of this work is to develop a computer system to manage the information of a company dedicated to the delivery of services in the cultural field."/>
+<meta property="og:url" content="https://articulos.gespye.mx/a1/n2/art4/diseno-sistema-gestion-interna/en/"/>
+<meta property="og:site_name" content="GESPYE Gestión Pública y Empresarial"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:locale:alternate" content="es_MX"/>
+<meta property="og:image" content="https://articulos.gespye.mx/a1/n2/art4/diseno-sistema-gestion-interna/figura-1.png"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Internal management system design for a cultural services company"/>
+<meta name="twitter:description" content="The objective of this work is to develop a computer system to manage the information of a company dedicated to the delivery of services in the cultural field."/>
+<meta name="twitter:image" content="https://articulos.gespye.mx/a1/n2/art4/diseno-sistema-gestion-interna/figura-1.png"/>
+</head>
+<body>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
+.gespye-article{font-family:'Montserrat',Arial,sans-serif;font-size:9pt;line-height:1.58;color:#111827;max-width:1120px;margin:0 auto;background:#fff;padding:22px 26px;}
+.gespye-article *{box-sizing:border-box;}
+.gespye-category{font-size:9pt;color:#4b5563;margin:0 0 12px 0;}
+.gespye-title{font-size:26pt;line-height:1.12;font-weight:800;color:#111827;margin:0 0 14px 0;letter-spacing:-.02em;}
+.gespye-subtitle{font-size:15pt;line-height:1.35;color:#5f6368;margin:0 0 18px 0;}
+.gespye-orange-line{border:0;border-top:3px solid #fa5d1c;margin:0 0 26px 0;}
+.gespye-meta-card{background:#f5f5f5;border-left:5px solid #fa5d1c;border-radius:8px;padding:20px 24px;margin:0 0 28px 0;color:#6b7280;}
+.gespye-meta-card p{margin:0 0 10px 0;font-size:9pt;line-height:1.5;text-align:left;}
+.gespye-meta-card p:last-child{margin-bottom:0;}
+.gespye-authors{background:#f7f9fc;border-left:4px solid #0b2e65;padding:18px 24px;margin:0 0 28px 0;}
+.gespye-authors p{margin:0 0 7px 0;text-align:left;}
+.gespye-authors .author-item{margin-bottom:14px;}
+.gespye-authors .author-item:last-child{margin-bottom:0;}
+.gespye-authors .author-name{font-size:10pt;color:#111827;}
+.gespye-article p{font-size:9pt;line-height:1.58;margin:0 0 12px 0;text-align:justify;}
+.gespye-article .label{font-size:9pt;margin-top:16px;margin-bottom:6px;text-align:left;}
+.gespye-article h2{font-family:'Montserrat',Arial,sans-serif;font-size:10pt;font-weight:800;color:#0b2e65;border-bottom:1px solid #d1d5db;padding-bottom:6px;margin:28px 0 12px 0;line-height:1.35;}
+.gespye-article h3{font-family:'Montserrat',Arial,sans-serif;font-size:10pt;font-weight:800;color:#111827;margin:22px 0 10px 0;line-height:1.35;}
+.gespye-article a{color:#1a5fb4;text-decoration:underline;overflow-wrap:anywhere;}
+.gespye-article em{font-style:italic;}
+.gespye-article ul,.gespye-article ol{font-size:9pt;line-height:1.58;margin:0 0 12px 24px;padding-left:18px;}
+.gespye-article li{margin-bottom:6px;}
+.gespye-article table{width:100%;border-collapse:collapse;font-size:8pt;margin:14px 0;table-layout:auto;}
+.gespye-article th,.gespye-article td{border:1px solid #c9ced6;padding:7px;vertical-align:top;}
+.gespye-article th{background:#f1f3f5;font-weight:700;text-align:center;}
+.table-wrap{overflow-x:auto;margin:14px 0;}
+.gespye-article img{max-width:100%;height:auto;display:block;margin:16px auto;background:#fff;}
+.gespye-article .caption,.gespye-article .table-title{font-size:8.7pt;color:#374151;text-align:left;margin:12px 0 6px 0;}
+.gespye-license{margin-top:28px;padding-top:14px;border-top:1px solid #d1d5db;font-size:9pt;text-align:left!important;color:#374151;}
+@media(max-width:700px){.gespye-article{padding:18px 16px}.gespye-title{font-size:20pt}.gespye-subtitle{font-size:11pt}.gespye-meta-card,.gespye-authors{padding:14px 16px}.gespye-article table{font-size:7.5pt}}
+
+</style>
+<div class="gespye-article">
+<div class="gespye-category">Articles</div>
+<h1 class="gespye-title">Internal management system design for a cultural services company</h1>
+<div class="gespye-subtitle">Diseño de sistema de gestión interna para empresa de servicios de cultura</div>
+<hr class="gespye-orange-line"/>
+<div class="gespye-meta-card">
+<p><strong>GESPYE GESTIÓN PÚBLICA Y EMPRESARIAL</strong> (e-ISSN: 3061-8630)</p>
+<p>Year 1, No. 2 (Jul-Dec 2024) • Pages 43-57 • DOI <a href="https://doi.org/10.32870/gespye.vi2.4" target="_blank" rel="noopener noreferrer">https://doi.org/10.32870/gespye.vi2.4</a></p>
+<p>Received: 05/07/2024 • Approved: 28/09/2024 • Published: 30/11/2024</p>
+<p>Articles</p>
+</div>
+<div class="gespye-authors"><div class="author-item"><p class="author-name"><strong>Elisabeth Rodríguez Armenta</strong></p><p>Programmer and IT Consultant. Email: <a href="mailto:lizrodriguez.consultora@gmail.com">lizrodriguez.consultora@gmail.com</a></p></div><div class="author-item"><p class="author-name"><strong>Adriana Lorena Iñiguez Carrillo</strong></p><p>Faculty member, MTI, Centro Universitario de Ciencias Económico Administrativas, Universidad de Guadalajara. Email: <a href="mailto:adriana.iniguez@academicos.udg.mx">adriana.iniguez@academicos.udg.mx</a>, ORCID: <a href="https://orcid.org/0000-0001-9753-716X" target="_blank" rel="noopener noreferrer">https://orcid.org/0000-0001-9753-716X</a></p></div><div class="author-item"><p class="author-name"><strong>Ma. del Rocío Maciel Arellano</strong></p><p>Faculty member, DTI, Centro Universitario de Ciencias Económico Administrativas, Universidad de Guadalajara. Email: <a href="mailto:rmaciel@cucea.udg.mx">rmaciel@cucea.udg.mx</a>, ORCID: <a href="https://orcid.org/0000-0002-5548-2073" target="_blank" rel="noopener noreferrer">https://orcid.org/0000-0002-5548-2073</a></p></div></div>
+<p class="label"><strong>Abstract.</strong></p>
+<p>The objective of this work is to develop a
+computer system to manage the information management of a company
+dedicated to the delivery of services in the cultural field. The problem
+identified is the handling of service requests manually, with delays in
+responses to them, as well as the lack of information to prepare
+statistical data that allows decision making. The main objective is to
+automate the tasks of the departments involved using an information
+management system as a work tool that would allow fluid and organized
+control in the development of operational and administrative processes.
+The results obtained through interviews, surveys, requirements gathering
+and process documentation demonstrate the need to develop and implement
+a tailor-made software tool to manage the workflow of each area.</p>
+<p class="label"><strong>Keywords:</strong></p>
+<p>System; management; Information; Process
+automation.</p>
+<h2>Introduction</h2>
+<p>In the context of a company
+whose main function is to offer certified quality services, it is
+important to have a computer system that makes it possible to integrate
+and automate its administrative and operational processes efficiently
+and with measurable results (Lemos, 2015).</p>
+<p>The specific case presented in this document concerns Company Z,
+which obtained its ISO 9001:2015 certification in October 2018 and
+whose goal is to implement a quality management system in its processes
+in order to obtain recertification under this standard. Quality
+Management Systems cover all the activities carried out within a
+company, and each department must have its own systems to control its
+work, with the quality function responsible for the reliability of
+these systems and for coordination among departments (Cortés,
+2017).</p>
+<p>To achieve this goal, it was necessary to document and standardize
+the administrative and operational processes to be certified, as well
+as to share all the process documentation across the organization. The
+company under study did not have a digital tool that would allow it to
+integrate all this information, which made it difficult to manage
+information optimally. Another problem identified was that most of the
+activities within each process were carried out manually through
+paper-based requests, with the help of tools such as Google Drive, or,
+in the case of some departments, custom-built systems for certain
+activities, without integration or communication among them, which made
+the process of transferring information difficult when different areas
+interacted.</p>
+<p>It is worth mentioning that one of ISO 9001:2015's recommendations
+is that work requests made among the company's different departments be
+resolved or answered within no more than 5 business days. This
+certification requirement created the need for a tool to speed up the
+handling of interdepartmental service requests, since, being a company
+with more than 150 members distributed across physically distant
+locations, the workload for completing these service requests was
+heavy.</p>
+<h2>Specific objectives</h2>
+<ul>
+<li><p>Develop a computer system aligned with the Quality Management
+System recommended by ISO 9001:2015 to document the processes certified
+under this standard by Company Z.</p></li>
+<li><p>Determine the MVP (Minimum Viable Product) that meets the
+functionalities identified as required by the aforementioned areas to
+achieve the goals set for each certified process at Company
+Z.</p></li>
+<li><p>Provide a software tool, which we will call SGI (Internal
+Management System), that enables documented and measurable interaction
+among users of the aforementioned areas, in order to meet the ISO
+9001:2015 requirement of responding to service requests within no more
+than 5 days.</p></li>
+<li><p>Provide a technological tool that makes it possible to record
+basic process information and data in order to evaluate performance and
+strengthen its improvement.</p></li>
+</ul>
+<h2>Theoretical framework</h2>
+<p>To manage is to make things happen; managing is the process of
+interventions that allow things to happen in an ethically sound,
+process-based way. Managing means achieving proposed objectives through
+the coordinated action of people, through the proper application of
+available resources. Management is measured through the use of
+indicators showing the percentage of progress toward the objectives
+and/or goals set (Blejmar, 2022).</p>
+<p>According to Piña (2006), information management is the use of
+information as an asset that improves companies' competitiveness and
+responsiveness; he notes that it is the result of efficiently
+identifying, integrating, and analyzing information and directing it
+toward decision-making and customer-service processes.</p>
+<p>An organization's internal management is the business activity that
+plans, organizes, directs, and enables control within an organization,
+which, together with its members (directors, managers, employees, among
+others), improves its productivity and competitiveness through the use
+of techniques and methodologies (Trujillo, 2012). Companies rely on
+information systems to be more efficient by increasing their
+productivity, or to be more effective (Beynon-Davies, 2018). An
+organization that adopts a proper management system generates trust
+both inside and outside itself, sending the message that it will be
+able to achieve its objectives, thereby laying the groundwork for
+continuous improvement, which allows for an optimal level of
+satisfaction among the parties interested in the process (Merino,
+2020). Information systems have an impact across all of an
+organization's processes (figure 1.1).</p>
+<p class="table-title"><strong>Figure 1.</strong></p>
+<p class="caption"><em>Impact of management systems.</em></p>
+<p><img alt="Figure from the article" loading="lazy" src="../figura-1.png" style="max-width:100%;height:auto;"/></p>
+<p class="caption"><em>Note.</em> Own elaboration.</p>
+<h2>ITIL Framework</h2>
+<p>This section presents relevant information regarding the most
+important frameworks in use today, with the aim of documenting the good
+practices used to achieve the SGI's development goals. ITIL
+(Information Technology Infrastructure Library) is a set of
+recommended good practices; it is widely accepted and was designed to
+help organizations get the most benefit from IT by aligning IT services
+with organizations' business strategy (Greenwood, 2020). Today, ITIL is
+owned by Axelos, a joint venture between the UK Cabinet Office and
+Capita (Agutter, 2020).</p>
+<p>The Guiding Principles are a series of recommendations that, as
+their name indicates, guide the organization under all circumstances.
+Goals, staff, strategies, or organizational structure may change within
+a company, but the guiding principles remain constant. The guiding
+principles are universal and can be applied to other types of
+methodologies such as Agile, Lean, COBIT, among others (Agutter,
+2020).</p>
+<p>Agutter (2020) also notes that the guiding principles should foster
+and support continuous improvement; these apply throughout the
+organization, at all levels, and, in addition, all staff should be
+familiar with them, even though they are not always applied in every
+situation — it is important that they be reviewed frequently on each
+occasion to assess whether their use is required and appropriate.
+Agutter (2020) states that ITIL's guiding principles are (figure
+1.2):</p>
+<h3>Principle 1. Focus on value</h3>
+<p>Everything the organization does must link, directly or indirectly,
+to value for itself, its customers, and other interested parties.</p>
+<h3>Principle 2. Start where you are</h3>
+<p>Do not start from scratch without first considering what is already
+available to leverage. It is important to objectively observe and
+recognize what can be used and what should be improved, or replicated
+as the case may be, always taking into account the risks involved in
+each decision.</p>
+<h3>Principle 3. Progress iteratively with feedback</h3>
+<p>Resist the temptation to do everything at once. Even large
+initiatives must be carried out iteratively. By organizing work into
+smaller, more manageable sections that can be executed and completed
+in a timely manner, the focus of each effort will be sharper and easier
+to maintain.</p>
+<h3>Principle 4. Collaborate and promote visibility</h3>
+<p>When initiatives involve the right people in the right roles,
+efforts benefit from greater acceptance, more relevance (because better
+information is available for decision-making), and a higher likelihood
+of long-term success.</p>
+<h3>Principle 5. Think and work holistically</h3>
+<p>No service, practice, process, department, or provider stands
+alone. The products the organization delivers to itself, its
+customers, and other interested parties will be affected unless it
+works in an integrated way to manage its activities as a whole, rather
+than as separate parts. All of the organization's activities should be
+focused on delivering value.</p>
+<h3>Principle 6. Keep it simple and practical</h3>
+<p>Always use the minimum number of steps needed to achieve an
+objective. Outcome-based thinking should be used to produce practical
+solutions that deliver valuable results.</p>
+<h3>Principle 7. Optimize and automate</h3>
+<p>Companies must get the most value from the work carried out by
+their human and technical resources alike. The four-dimensions method
+provides a comprehensive view of the various constraints, the different
+forms of resources, and other characteristics that must be taken into
+account when envisioning, managing, or operating a company. The use of
+technology helps companies carry out frequent, repetitive tasks, making
+it possible to manage human resources more efficiently. It should be
+noted that automation always helps, but organizations should not rely
+100% on technology without human intervention.</p>
+<p class="table-title"><strong>Figure 2</strong></p>
+<p class="caption"><em>ITIL 4 guiding principles.</em></p>
+<p><img alt="Figure from the article" loading="lazy" src="../figura-2.png" style="max-width:100%;height:auto;"/></p>
+<p class="caption"><em>Note.</em> Axelos, 2022.</p>
+<h2>Research methodology used in the SGI</h2>
+<p>The first stage is approached through a qualitative methodology,
+with a diagnostic-type documentary study and the conducting of
+exploratory interviews. In this first approach, two meetings were held
+at Company Z's facilities with staff directly involved in the
+development of this project, as well as with staff from the "Web
+Platforms" area. In these meetings, the internal processes carried out
+and how they are performed were identified; documents such as process
+maps, Excel spreadsheets, paper forms, electronic forms, and information
+shared in Google Drive files were also reviewed. A digital copy of these
+files was also obtained for further study and analysis.</p>
+<p>At the end of each of these meetings, an exploratory interview was
+conducted with each of the five participants from each meeting. These
+interviews were conducted with the heads of each area, since they hold
+a comprehensive view of both their internal processes and mappings, and
+also have a view of interaction with other areas. They were asked
+whether they would like to have a system with the proposed SGI
+features. In total, ten exploratory interviews were conducted; these
+were recorded and transcribed for later analysis.</p>
+<p>Based on the results of the exploratory interviews, the script for
+conducting semi-structured interviews was improved, since a broader
+view was now available of the needs identified among users and of the
+system's specific requirements. In these semi-structured interviews,
+more specific questions were formulated for each area involved, based
+on the information obtained in the exploratory interviews and on the
+analysis of the information and files previously obtained. A total of
+ten semi-structured interviews were conducted with the same people who
+took part in the exploratory interviews. In these interviews, the aim
+was for the person interviewed to describe their internal work process,
+as well as their daily duties, in order to put them down on paper,
+along with their interaction with staff from other areas, among other
+things.</p>
+<p>In the second stage, a quantitative methodology (evaluation) was
+used, through the administration of surveys aimed at the SGI's end
+users, in order to evaluate the system developed and thereby obtain
+feedback for making improvements and/or new versions. The system itself
+includes a section where a survey on the SGI's functionality and the
+benefits users perceive and have obtained from using it appears at
+random.</p>
+<h2>Methodologies used to develop the SGI</h2>
+<p>No major project can succeed without a plan. Sometimes the plan is
+not followed closely, but every major project must have a plan. The
+plan tells project members what they should do, when and how much time
+they should devote to it, and, most importantly, what the project's
+objectives are. The plan gives the project direction (Stephens,
+2015).</p>
+<p>Software development is no easy task, as evidenced by the various
+methodologies proposed, as explained in earlier chapters. The framework
+of a software development methodology consists of:</p>
+<ul>
+<li><p>A software development philosophy with a particular software
+development approach.</p></li>
+</ul>
+<ul>
+<li><p>The use of multiple tools, methods, and models to help with the
+software development process.</p></li>
+</ul>
+<p>For the SGI's development, the use of some of the development
+methodologies noted in earlier chapters was established, and in some
+cases, a combination of them. Following this premise, the proposed
+design takes ITIL's good practices as a basis in order to seek and
+ensure the delivery of value to the client by offering a range of
+possibilities for improving the performance of their tasks and
+processes, with increased productivity and reduced time to carry them
+out. Recall that ITIL is not a software development methodology; ITIL
+is a framework of good practices for the effective, service-based
+management of IT, which defines a series of organizational structures,
+departmental roles, procedures, and some measurement mechanisms.</p>
+<p>As mentioned earlier, ITIL's technical management practices include
+software development and management. Axelos (2022) notes that the good
+habit of software application development is fundamental to creating
+value for customers of technology-based services, and is carried out
+through two widely known methodologies: waterfall and agile. The
+methodology used in this work is a combination of both; the waterfall
+model was used to define and establish the project's main stages, such
+as: requirements, analysis, design, coding, testing, and maintenance,
+but handled dynamically, that is, removing this methodology's original
+sequential feature and adapting these stages into an agile methodology
+that made it possible to deliver the MVP, which in turn is used in a
+testing environment to receive feedback, make corrections, schedule
+improvements, and deliver the module again for installation in
+production (ITIL's Continual Improvement process).</p>
+<p>During execution of the software development project, information
+was obtained from the exploratory and semi-structured interviews
+conducted. This information was used to define the requirements needed
+for development, and modules were delivered to receive feedback from
+Company Z. These steps are also part of the process of applying ITIL's
+good practices.</p>
+<p>Part of the methodology design used included adopting the Scrum
+methodology in order to be more agile in developing the SGI's modules.
+Daily stand-up meetings, as recommended under this methodology, were
+held (sometimes in person, and mostly virtually) to maintain and
+promote staying in tune with ITIL's principles. All of this was aimed
+at achieving results on time and with the established
+functionalities.</p>
+<p>The "user stories" technique is used, which consists of simple,
+short descriptions of a feature described from the point of view of the
+person requesting a requirement, generally answering a series of
+questions, such as: How, I want, So that (Patton, 2014). For the SGI,
+five user stories were obtained, which were used to identify the basis
+for detailing specific activities for each module of the SGI.</p>
+<h2>Incremental delivery</h2>
+<p>Web-based systems require an approach designed around the
+development and delivery of repetitive, iterative cycles (a continuous
+process of experimentation) that allows for testing and evaluation of
+the product, creating reusable system components. As shown in figure
+1.3, incremental delivery is a view of software development in which
+some of the increments developed are released to the client and
+implemented for use in a real operational environment (Sommerville,
+2011). The approach for delivering the SGI was entirely one of
+incremental delivery, given that Company Z's requirements are dynamic
+and new requirements constantly arose. Likewise, once users had the MVP,
+new ideas emerged and new functionalities were required. This approach
+made it possible to deliver a product that truly generated value, as a
+system closely aligned with the company's operational and
+administrative reality.</p>
+<p class="table-title"><strong>Figure 3.</strong></p>
+<p class="caption"><em>Incremental delivery diagram.</em></p>
+<p><img alt="Figure from the article" loading="lazy" src="../figura-3.png" style="max-width:100%;height:auto;"/></p>
+<p class="caption"><em>Note.</em> Sommerville, 2011.</p>
+<p>Developing the SGI required the use of web technologies such as
+HTML, CSS, and JavaScript on the client side; on the server side, PHP
+was required on a web server, and MySQL was used as the database
+management application.</p>
+<h2>Phase 1. Development of the Quality Management System</h2>
+<p>The first implementation phase consisted of planning and developing
+the Quality Management System module to document the processes
+certified under the ISO 9001:2015 standard. In this stage, the code was
+developed in plain PHP with a connection to the database created.</p>
+<p>The Quality Management System has important elements in its
+structure, among which stand out: Cover sheet, Mapping, Internal
+documents, External documents, Nonconforming service, Risks and
+opportunities, and Interested parties. In the work carried out, two
+specific modules were programmed for managing the Quality Management
+System: one called "Admin Management," used to manage all the
+documented information for the processes mentioned, where new menu
+options, new processes, new cover sheets, new mappings, among others,
+are added; and the second module is a query-type module for all system
+users, where the development of each process and structure mentioned
+can be viewed in detail.</p>
+<h2>Phase 2. MVP requirements analysis</h2>
+<p>Phase 2 consisted of determining the SGI's MVP functionalities
+needed to achieve the goals set for the Finance and Auditing, Human
+Development and Quality, General Services, Logistics and Technology,
+Communication and Press, Design and Multimedia, and Legal Department
+areas of Company Z.</p>
+<p>Based on the diagnostic-type interviews, the exploratory and
+semi-structured interviews conducted, the application of surveys, and
+the analysis of the documents and files received during these
+interviews, the basic structure making up the SGI was defined.</p>
+<p>The menu structure includes the options Home, Profile, My Panel,
+Services, Administrator, Complaints and Suggestions, Support and Help,
+and Log Out. It was defined that all users would see this menu, and
+that, depending on each user's profile, they would see specific options
+under Services and My Panel. Under Services, users can select the name
+of the department and/or area to which service requests will be
+made.</p>
+<p>It is worth noting that the main function of the system developed
+was for the SGI to be robust enough to offer a range of options in each
+area to be automated, and flexible enough to adapt to constant changes
+during these early development phases. Recall that the "Incremental
+Development" method is applied in sprint cycles, so new changes and
+functionalities for the features delivered could arise in each weekly
+delivery.</p>
+<p>Among the features defined, it was established that it was
+important for each user to have a general list of the requests made to
+their department so they could follow up on them quickly. For this, an
+option was programmed for each area's request list, with special search
+filters by request type or by date. It should be noted that this
+request list shows the request date, the date the status was marked as
+completed, and the number of days elapsed between the first date and
+the second, which allows us to track statistics on each request's
+response time; the system's functionality allows the user to click the
+"View or edit" button to see the request in detail.</p>
+<p>A fundamental part of this phase 2's MVP was planning and
+programming notifications for requests and their responses. As
+mentioned in this development's objectives section, it is important for
+areas to respond to their requests within no more than 5 business days.
+To make communication through the SGI more fluid, notifications were
+programmed into the system, both internal and external. Internally,
+because accessing the SGI shows a bell icon with the number of pending
+unread notifications, and externally, because notifications arrive via
+email so that users, upon checking their email, see that they have
+received a new service request for their area. A history of the
+changes each request has undergone is also saved, in order to keep a
+historical record of each user's involvement in each request made.</p>
+<h2>Testing</h2>
+<p>Test development aims to show that a system does what it is defined
+to do; it also helps find anomalies or errors in the program before
+using it. During this process, tests can be implemented at three
+levels, which are: (Sommerville, 2011).</p>
+<p>1. Unit tests, where detailed program functions or object classes
+that work individually are diagnosed.</p>
+<p>2. Component tests, where small functionalities are gathered or
+integrated to create composite components or functions, focusing on
+testing the interfaces of these functions.</p>
+<p>3. System tests, where some or all of a system's functionalities are
+handled comprehensively and the entire system developed is tested.</p>
+<p>Through the constant use, administration, updating, and querying of
+the Quality Management System via the SGI, it has been shown that
+implementing a computer system for information management can help a
+company obtain or maintain ISO 9001:2015 certification. In November
+2021, Company Z obtained recertification under ISO 9001:2015 from the
+certifying body; it should be noted that every 6 or 12 months a review
+is carried out of the Quality Management System's continuous
+improvement processes, and the SGI's Quality Management System has been
+a fundamental tool for documenting new improvements to certified
+processes. In the most recent audit, Company Z received congratulations
+from the auditors regarding the SGI.</p>
+<h2>SGI MVP results</h2>
+<h3>Test 1: Access tests</h3>
+<p>Users access the system's main login screen, enter their username
+and password, and after several internal validations are performed, the
+SGI grants access. An attempt was deliberately made to access the
+system with an incorrect password, and the SGI issued an error
+message.</p>
+<h3>Test 2: User profile tests</h3>
+<p>Users access the SGI and intentionally attempt to access menu
+options restricted for their user level and/or profile; in response,
+the SGI does not allow access to these menu options. On the other hand,
+they attempt to access the system options they are authorized to use,
+and can view those options correctly.</p>
+<h3>Test 3: Systems user test</h3>
+<p>A user from the Finance department accesses their services panel
+and generates a new request to the Systems department for support in
+configuring the institutional email on their computer. The head of the
+Systems department receives the request from the Finance-area user and
+assigns it to the email technician. The email technician receives the
+support request from the Finance-area user, proceeds to follow up on
+the request, and, once resolved, responds to the service request or
+ticket for the Finance user. Once the request is completed, the new
+status is recorded as "completed," and data such as how many days it
+took to handle the request, who handled it, comments, etc., are
+recorded.</p>
+<h2>SGI usability perception</h2>
+<p>The questionnaire used to obtain the data needed to measure the
+SGI's perceived usability is the System Usability Scale (SUS). This
+System Usability Scale was developed by John Brooke to measure the
+usability of computer systems he was working on. Upon realizing that
+the SUS was useful, he decided to release it so that colleagues and
+other companies could use it. This way, developed products could be
+compared and industry standards could be established; the result of
+John Brooke's contribution was ISO 9241, part 11 (Montiel, 2017).</p>
+<p>The SUS measures the parameters shown below (Brooke, 1996):</p>
+<ul>
+<li><p>Effectiveness: Whether users can carry out their tasks and meet
+their objectives.</p></li>
+<li><p>Efficiency: How many resources were invested to achieve the
+objectives.</p></li>
+<li><p>Satisfaction: The level of well-being experienced in reaching
+those objectives.</p></li>
+</ul>
+<p>Brooke (1996) notes that the scale is interpreted as follows: at 25
+points, usability is the worst imaginable; in the range from 25 to 38,
+usability is poor; in the range from 39 to 52, usability is acceptable;
+from 53 to 73, usability is good; from 74 to 84, it is very good; at
+85, usability is excellent; and from 85 to 100, it is the best possible
+(figure 1.4).</p>
+<p class="table-title"><strong>Figure 4.</strong></p>
+<p class="caption"><em>Usability perception screen.</em></p>
+<p><img alt="Figure from the article" loading="lazy" src="../figura-4.png" style="max-width:100%;height:auto;"/></p>
+<p class="caption"><em>Note.</em> Own elaboration based on Brooke (1996).</p>
+<p>Montiel (2017) states that the SUS is reliable because participants
+respond accurately to rate the different features of a software
+development, and is valid because it measures what it says it measures.
+When applying the SUS, participants are asked to rate, from 1 to 5 (1
+being strongly disagree and 5 strongly agree), how they view the
+functions of the system they used. Once the user answers the
+questionnaire, an average can be generated, yielding a final score that
+shows the usability level of the system evaluated.</p>
+<p>To obtain the SUS score, several calculations are performed. One
+point is subtracted from the score obtained on questions 1, 3, 5, 7,
+and 9, resulting in a maximum score of 0 to 4 for each item. For
+questions 2, 4, 6, 8, and 10, the selected score is subtracted from 5.
+Finally, the calculated totals are added together and multiplied by
+2.5; the resulting number is the usability level (Brooke, 1996). The
+SGI was programmed so that, at random, a total of 30 users would answer
+the satisfaction survey once they accessed the system. The data
+obtained through this survey were processed in Excel, yielding the
+usability level. The SGI's usability percentage was 82.5, within the
+"very good" range as described in the preceding paragraphs. The results
+are shown in figure 1.5.</p>
+<p class="table-title"><strong>Figure 5.</strong></p>
+<p class="caption"><em>SGI usability perception screen.</em></p>
+<p><img alt="Figure from the article" loading="lazy" src="../figura-5.jpg" style="max-width:100%;height:auto;"/></p>
+<p class="caption"><em>Note.</em> Own elaboration based on Brooke (1996).</p>
+<p>With the results of the tests carried out on the SGI's MVP shown in
+this section, as well as the results of the surveys processed through
+the SUS, the progress in workflow, effectiveness, improved response
+time, efficiency in process execution, and the user satisfaction rate
+obtained through the SGI's use are all made evident. These results show
+that implementing a computer system for information management
+contributes to increased productivity at a company and improves its
+users' work performance.</p>
+<h2>Conclusions</h2>
+<p>A web-based internal management system can motivate a company's
+users to feel more productive and to perceive a fluid environment of
+information and feedback. The SGI proposed in this work offers tools
+that allow them to be more productive in pursuit of the goals set, with
+satisfactory performance indicators.</p>
+<p>Regarding the general objective set out in this study: "To develop
+and implement a web system using the PHP development framework to
+automate and manage the information generated through the processes of
+Finance and Auditing, Human Development and Quality, General Services,
+Logistics and Technology, Communication and Press, Design and
+Multimedia, and the Legal Department of Company Z," the request tests
+carried out among users of the departments noted yielded a satisfaction
+level of 98%. These tests were carried out as pilot tests, selecting one
+member from each department; this satisfaction level was reinforced by
+the results of the surveys applied to obtain the user satisfaction
+rate.</p>
+<p>Regarding the specific objectives, the first was "to provide a web
+system aligned with the Quality Management System recommended by ISO
+9001:2015 to document the processes certified by Company Z"; this
+objective was met, given that the SGI developed has a specific module
+for documenting the processes noted; in the most recent audit of
+Company Z by the certifying body, there was special recognition for the
+web system used to document its processes, and it is planned to
+replicate this in Company Z's sister companies. Likewise, satisfaction
+surveys were randomly administered to users of this module, and the
+satisfaction level was 100%. Regarding this objective, it can be
+concluded that an internal management system can serve as technological
+support for companies interested in obtaining and/or maintaining
+certification under the ISO 9001:2015 standard, allowing them to
+document their processes and information for the purpose of becoming
+certified under that standard.</p>
+<p>The second objective was "to determine the MVP that meets the
+functionalities identified as required by the aforementioned areas to
+achieve the goals set for each certified process at Company Z."
+Likewise, it was shown that Company Z achieved interoperability among
+its areas through the use of digital service requests among the
+Finance and Auditing, Human Development and Quality, General Services,
+Logistics and Technology, Communication and Press, Design and
+Multimedia, and Legal Department areas of Company Z. This could be
+measured with performance indicators that are documented within its
+Quality Management System. Regarding the level of usability, an
+acceptable level is observed in terms of initial reception to using the
+SGI. It is considered that there are areas for improvement, given that
+the usability percentage achieved is 82.5; although this is classified
+as very good according to the SUS scale, it can be improved to reach
+the following levels. The perception that this is a system that
+benefits the operation of their activities is positive, even though,
+according to the survey responses, there was some apprehension at the
+start of the learning and automation process for their activities.</p>
+<p>Regarding the third specific objective of this work, which refers
+to "providing a software tool that enables documented and measurable
+interaction among users of the aforementioned areas to respond to
+requests within no more than 5 business days," it was shown, first with
+the pilot test and then with the SGI's daily use in "production," or
+already in its real environment, that when a user receives a service
+request, they first quickly notice they have received it, since a
+notification appears within the SGI in the form of a small bell, along
+with another notification by email. Surveys showed that users find it
+easier to follow up on a service request through the SGI; the
+application of these surveys yielded a satisfaction level of 90%.</p>
+<p>Regarding the fourth and final specific objective, "to provide a
+technological tool that makes it possible to record basic process
+information and data in order to evaluate performance and strengthen
+its improvement," the pilot tests carried out showed that important
+data for each service request are stored, including the date the
+request was received, the date it was resolved, the user it was
+assigned to, its status, response time, and number of days elapsed;
+with this data, it is shown that the information needed to evaluate
+performance by user, by area, among others, is available.</p>
+<p>In conclusion, the outcome of developing and implementing a
+web-based internal management system can be considered satisfactory;
+its quality is acceptable and it meets the defined objectives. A new
+system always puts users on alert, and at first they resist change;
+that challenge proved successful by the end of the pilot tests and the
+implementation in the real production environment.</p>
+<h2>References</h2>
+<p>Agutter, C. (2020). ITIL(R) Foundation Essentials ITIL 4 Edition: The
+ultimate revision guide (ITGP, Ed.).</p>
+<p>Beynon-Davies, P. (2014). Sistemas de información ([edition
+unavailable]). Reverte. <a href="https://www.perlego.com/book/1976301/sistemas-de-informacin-introduccion-a-la-informatica-en-las-organizaciones-pdf" rel="noopener noreferrer" target="_blank">https://www.perlego.com/book/1976301/sistemas-de-informacin-introduccion-a-la-informatica-en-las-organizaciones-pdf</a></p>
+<p>Blejmar, B. (2022). Gestionar es hacer que las cosas sucedan
+(Noveduc, Ed.; 1st ed.).</p>
+<p>Brooke, J. (1996). "SUS: a "quick and dirty" usability scale". In P.
+W. Jordan; B. Thomas; B. A. Weerdmeester; A. L. McClelland (eds.).
+Usability Evaluation in Industry. London: Taylor and Francis.</p>
+<p>Cortés. (2017). Sistema de gestión de calidad (Iso 9001:2015)
+([edición no disponible]). Ediciones de la U.</p>
+<p>Greenwood, A. (2020, May 8). The secret to IT service Management: The
+ITIL Service Lifecycle. <a href="https://www.process.st/itil-service-lifecycle/" rel="noopener noreferrer" target="_blank">https://www.process.st/itil-service-lifecycle/</a></p>
+<p>Lemos, P. L. (2015). Cómo documentar un sistema de gestión de calidad
+según ISO 9001:2015 ([edición no disponible]). Fundación Confemetal.</p>
+<p>Merino Bada, C., &amp; Cañizares Sales, R. (2020). Auditoría de
+sistemas de gestión de seguridad de la información (FC Editorial,
+Ed.).</p>
+<p>Montiel, J. (27 de Septiembre de 2017). De la Escala de usabilidad de
+Sistemas. Recuperado de <a href="https://medium.com/@m00nt/de-la-escala-de-usabilidad-de-sistemas-97c935e68fa9" rel="noopener noreferrer" target="_blank">https://medium.com/@m00nt/de-la-escala-de-usabilidad-de-sistemas-97c935e68fa9</a></p>
+<p>Patton, J. (2015). User Story Mapping (Oreally Media Inc, Ed.).</p>
+<p>Piña Rodríguez, R. A. (2006). La gestión de la información asumida
+como ciencia en el arte de la gestión empresarial. Ciencias Holguín,
+Vol. XII, Núm. 1, enero-marzo, 2006, Pp. 1-14 Centro de Información y
+Gestión Tecnológica de Santiago de Cuba Holguín, Cuba. <a href="https://www.redalyc.org/pdf/1815/181515833005.pdf" rel="noopener noreferrer" target="_blank">https://www.redalyc.org/pdf/1815/181515833005.pdf</a></p>
+<p>Sommerville, I. (2011). Ingeniería de Software (Pearson Educación,
+Ed.).</p>
+<p>Stephens, R. 2015. Beginning software engineering. Editorial
+Wrox.</p>
+<p>Trujillo Arias, C. I. (2012, May 31). Ingeniería en gestión
+empresarial. 2012. <a href="https://www.gestiopolis.com/ingenieria-en-gestion-empresarial/" rel="noopener noreferrer" target="_blank">https://www.gestiopolis.com/ingenieria-en-gestion-empresarial/</a></p>
+<p class="gespye-license"><strong>License:</strong> This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</p>
+</div>
+</body>
+</html>
