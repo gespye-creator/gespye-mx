@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="es" dtd-version="1.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">gespye</journal-id>
+      <journal-title-group>
+        <journal-title>GESPYE Gestión Pública y Empresarial</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">3061-8630</issn>
+      <publisher>
+        <publisher-name>Universidad de Guadalajara</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.32870/gespye.vi4.3</article-id>
+      <title-group>
+        <article-title>Desarrollo de habilidades para resolver problemas matemáticos aplicados a las Ciencias Administrativas para la toma de decisiones</article-title>
+        <trans-title-group xml:lang="en">
+          <trans-title>Development of skills to solve mathematical problems applied to Administrative Sciences for decision making</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0004-3748-0172</contrib-id>
+          <name>
+            <surname>Fuentes-Uribe</surname>
+            <given-names>Irma Xóchitl</given-names>
+          </name>
+          <email>xochitl.fuentes@cucea.udg.mx</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-7121-3527</contrib-id>
+          <name>
+            <surname>Torres Mata</surname>
+            <given-names>Ana</given-names>
+          </name>
+          <email>anatorres@cucea.udg.mx</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0002-2265-4032</contrib-id>
+          <name>
+            <surname>Cárdenas Arriaga</surname>
+            <given-names>Teresa Nohemí</given-names>
+          </name>
+          <email>teresa.nohemi@cucea.udg.mx</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">Universidad de Guadalajara</aff>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>30</day>
+        <month>11</month>
+        <year>2025</year>
+      </pub-date>
+      <volume>2</volume>
+      <issue>4</issue>
+      <fpage>29</fpage>
+      <lpage>45</lpage>
+      <self-uri xlink:href="https://articulos.gespye.mx/a2/n4/art3/habilidades-problemas-matematicos-decisiones/"/>
+      <self-uri content-type="pdf" xlink:href="https://articulos.gespye.mx/a2/n4/art3/habilidades-problemas-matematicos-decisiones/habilidades-problemas-matematicos-decisiones.pdf"/>
+      <abstract xml:lang="es">
+        <p>Se presentan los resultados de implementar una rúbrica de evaluación analítica, diseñada como guía metodológica para resolver y evaluar problemas matemáticos enfocados a la toma de decisiones en el ámbito empresarial. El estudio se realizó en un grupo de segundo semestre de nivel superior en el área económico administrativa de una universidad pública del centro occidente de México. La investigación es de tipo transversal descriptiva, cualitativa y cuantitativa. Para diseñar la rúbrica se tomaron cuatro elementos que la literatura describe como parte del proceso de resolución de problemas, y se propuso un quinto para la interpretación de resultados dentro del contexto. Los hallazgos indican que las cinco categorías mejoraron al final del ciclo escolar, comparados con los recabados al inicio. La categoría Encontrar la solución fue la de menor desempeño al inicio del curso, pero la que mostró mayor variación, mientras que Interpretar los resultados matemáticos en el contexto, fue la que registró el menor cambio.</p>
+      </abstract>
+      <kwd-group xml:lang="es">
+        <kwd>toma de decisiones</kwd>
+        <kwd>habilidades matemáticas</kwd>
+        <kwd>recursos educativos</kwd>
+      </kwd-group>
+      <trans-abstract xml:lang="en">
+        <p>This paper presents the results of implementing an analytical assessment rubric, designed as a methodological guide for solving and evaluating mathematical problems focused on decision-making in the business environment. The study was conducted with a second-semester group of higher education students in the business field at a public university in west-central Mexico. The research is cross-sectional, descriptive, qualitative and quantitative. To design the rubric, four elements described in the literature as part of the problem-solving process were taken and a fifth was proposed. To design the rubric, four elements that the literature describes as part of the problem-solving process were taken, and a fifth was proposed for the interpretation of results within the context. The findings indicate that all five events improved by the end of the academic year compared to those recorded at the beginning. Finding the solution showed the lowest performance at the beginning of the course but also the greatest variation, while interpreting the mathematical results in context showed the least change.</p>
+      </trans-abstract>
+      <kwd-group xml:lang="en">
+        <kwd>decision making</kwd>
+        <kwd>mathematical skills</kwd>
+        <kwd>educational resources</kwd>
+      </kwd-group>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>09</month>
+          <year>2025</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>10</month>
+          <year>2025</year>
+        </date>
+      </history>
+      <permissions>
+        <license xlink:href="https://creativecommons.org/licenses/by-sa/4.0/">
+          <license-p>Esta obra está protegida bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.</license-p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introducción</title>
+      <p>La toma de decisiones en los negocios es piedra angular para el éxito de las organizaciones ya que permite a los líderes enfrentar retos complejos, desarrollar estrategias innovadoras e implementar soluciones efectivas que ayuden al logro de los objetivos planteados, sobre todo en entornos inciertos y rápidamente cambiantes (Ruisli et al., 2025).</p>
+      <p>Las matemáticas juegan un papel primordial en muchas áreas del conocimiento y la relacionada con el ámbito de la administración de negocios no es la excepción, pues ayuda a desarrollar habilidades analíticas y de resolución de problemas, por ejemplo. Aquellos profesores dotados con experiencia matemática pueden contribuir de manera importante en la formación de estudiantes en el emprendimiento y la gestión de empresas (Lawal et al., 2025).</p>
+      <p>Los marcos de razonamiento lógico provistos por las matemáticas afectan positivamente las capacidades para análisis de datos, análisis de problemas, análisis de riesgos, administración financiera, planeación estratégica, resolución de problemas, innovación y toma efectiva de decisiones (Lawal et al., 2025; Ruisli et al., 2025).</p>
+      <p>Durante décadas, la capacidad de los estudiantes para emplear conocimientos matemáticos en la resolución de problemas aplicados ha sido un tema central en la investigación de la educación matemática (Cevibkas et al., 2022; Ukobizaba et al., 2021). Además, en el proceso de enseñanza-aprendizaje se destaca la dificultad de los estudiantes para pensar de manera crítica, ingrediente indispensable para la resolución de problemas.</p>
+      <p>Cevibkas et al., (2022) sostienen que aplicar el conocimiento matemático en el mundo real es una característica central de la literacidad matemática, por lo que fomentar esta competencia es una meta ampliamente perseguida en educación matemática. En el entorno educativo, resolver problemas faculta a los estudiantes a construir su aprendizaje a partir de situaciones de índole didáctica o reales, además de representar un elemento de evaluación que busca identificar y comprender su proceso de razonamiento en una situación específica, así como examinar las características de ese proceso (Pascual Vigil et al., 2020).</p>
+      <p>El propósito de la presente propuesta es lograr que los estudiantes desarrollen habilidades para resolver problemas de manera lógica y estructurada, para la toma de decisiones dentro de un contexto económico-empresarial, con la aplicación de conceptos y herramientas matemáticos de cálculo diferencial e integral de nivel superior y la guía de una rúbrica de evaluación analítica.</p>
+    </sec>
+    <sec>
+      <title>Antecedentes</title>
+    </sec>
+    <sec>
+      <title>El proceso de resolución de problemas matemáticos</title>
+      <p>A mediados de la década de los años 40 del siglo pasado, el matemático George Pólya estableció un marco referencial heurístico de cuatro etapas para describir el proceso de resolución de problemas matemáticos: comprender el problema, desarrollar un plan, ejecutarlo y examinar la solución. Aunque su propuesta se originó desde el área matemática, el modelo fue referente en otras áreas del conocimiento (Schoenfeld, 1987) (11)</p>
+      <p>Cuatro décadas más tarde, el matemático Alan Schoenfeld argumentó que además de los aspectos heurísticos o estrategias cognoscitivas propuestos por Pólya, se requieren otros elementos para describir la complejidad del proceso de resolución de problemas matemáticos, en particular: el dominio de conocimientos disciplinares; el manejo de estrategias metacognitivas que implican el autocontrol de los procesos de aprendizaje y el sistema de creencias de los estudiantes sobre la naturaleza de las matemáticas y su enseñanza (Schoenfeld, 1992) (8)</p>
+      <p>Por su parte, la perspectiva socio-constructivista establece que además del componente cognitivo para la resolución de problemas, la interacción con otras personas representa un factor que acelera el aprendizaje, pues la discusión que realiza favorece la creación de nuevos patrones de análisis y soluciones (Alonso-Berenguer et al., 2018) (7)</p>
+      <p>La revisión sistemática de literatura de Alonso Berenguer et al. (2021) (6) llevada a cabo en diversos tipos de publicaciones de dos décadas, identifica los recursos necesarios para abordar el proceso de resolución de problemas matemáticos: el manejo de conocimientos específicos, las habilidades matemáticas, las estrategias (heurísticas y metacognitivas), la algoritmización, la problematización, la contextualización y la transposición didáctica de los contenidos matemáticos.</p>
+    </sec>
+    <sec>
+      <title>Evaluación del proceso de resolución de problemas matemáticos</title>
+      <p>Durante décadas ha existido inquietud por parte de los educadores por implementar procesos que puedan utilizar para planificar, implementar, ejecutar y evaluar procesos de enseñanza-aprendizaje, con la finalidad de asegurar la construcción, apropiación y gestión del conocimiento de los estudiantes (Bancayán Oré, 2013)</p>
+      <p>El trabajo de Serres Segarra et al. (2024) (3), propone una rúbrica de evaluación para detectar el talento matemático en estudiantes de educación primaria. Mide características de la habilidad para las matemáticas y pensamiento matemático; proceso de resolución de problemas, nivel de razonamiento, rapidez en la resolución de problemas y capacidad de transversalidad; autonomía, invención de nuevos problemas e indagación matemática.</p>
+      <p>Ordaz Villegas y Acle Tomasini (2021) (4), utilizaron un sistema de rúbricas para medir el desempeño matemático en estudiantes de primero a tercero de primaria. En este estudio se pudieron identificar las fortalezas de los estudiantes, así como aquellas áreas con desempeño insuficiente y que pueden entorpecer la adquisición de conocimiento nuevo.</p>
+      <p>El estudio de Acebo-Gutiérrez y Rodríguez-Gallegos (2021) (1) propone una rúbrica para evaluar el nivel de modelación matemática en estudiantes de secundaria que incluyó cuatro dimensiones relativas a las fases de modelación matemática: la formulación del problema, la resolución, la interpretación y la validación. Los autores sugieren este tipo de instrumento para promover el aprendizaje de las matemáticas mediante estrategias de modelación.</p>
+      <p>El estudio de Flores López y Auzmendi Escribano (2018) (2) situado en torno a razones de género y étnia en el contexto de la educación superior, expone que las competencias para resolver problemas matemáticos se relacionan con los procesos de pensar y razonar; argumentar y justificar, comunicar, modelar, representar y plantear y resolver problemas. Los resultados se obtuvieron a partir del diseño de un cuestionario de 32 ítems organizados en 6 competencias, que consistió en la categorización y la descripción de las propiedades, características y perfiles de las personas, grupos, comunidades, procesos y objetos sometidos a análisis.</p>
+      <p>Por su parte, Aravena Díaz et al. (2022) (5), realizaron un análisis de las características de habilidades STEM (Ciencia, Tecnología, Ingeniería y Matemáticas, por sus siglas en inglés), en estudiantes de primer año de ingeniería civil, industrial, informática y construcción, usando modelado matemático como puente entre los conceptos matemáticos y sus respectivas disciplinas. Este estudio se enfocó en el método de casos para medir: habilidades matemáticas de modelación y comunicación; habilidades científicas para formular hipótesis y realizar procesos investigativos; habilidades tecnológicas para el uso de medios y comunicación y habilidades de ingeniería para proponer soluciones y plantear conclusiones. Los resultados se obtuvieron mediante análisis de contenido de los trabajos de los estudiantes.</p>
+      <p>La revisión sistemática de literatura de Cevibkas et al. (2022), resalta que la principal discusión para medir la competencia de los estudiantes en modelación matemática, -que involucra la resolución de problemas-, se centra en Europa con predominancia en Alemania, África y Asia, en Norte y Sudamérica encontraron un número limitado de estudios. Adicionalmente, la mayoría de ellos se centran en el análisis del nivel de estudios medio superior y en menor medida, en nivel universitario.</p>
+    </sec>
+    <sec>
+      <title>Justificación</title>
+      <p>Autores como Flores López y Auzmendi Escribano (2018), resaltan la importancia de vincular los contenidos disciplinares de la matemática y su aplicación dentro del ámbito de formación profesional. En particular, existe evidencia de que los profesores que tienden a vincular los contenidos matemáticos con problemas aplicados, tienden a mejorar la formación estudiantil en el ámbito empresarial y de negocios (Lawal et al., 2025).</p>
+      <p>En relación con este entorno, los conceptos matemáticos abordados en el nivel de estudios superior se emplean para modelar funciones de costo, ingreso, utilidad y producción; para analizar cambios en su comportamiento, para calcular valores totales o promedio; para maximizar la producción, las ventas o la utilidad, para minimizar costos y reducir gastos en el inventario; para medir la sensibilidad de la demanda frente a cambios en los precios; para analizar el equilibrio entre los productores y consumidores de un producto o servicio en una economía; para saber cuánto valor de mercado se está captando a través del cálculo del excedente de los consumidores y de los productores, para calcular valores monetarios acumulados en el tiempo, por mencionar algunos ejemplos.</p>
+      <p>A pesar de su trascendencia, la resolución de problemas matemáticos es difícil para la mayoría de los estudiantes y se continúa buscando comprender su naturaleza compleja, con la finalidad de facilitar su enseñanza y aprendizaje (Alonso Berenguer et al., 2021).</p>
+      <p>La habilidad para resolver problemas es una competencia matemática que puede desarrollarse con una adecuada combinación de estrategias instruccionales, como lo pone de manifiesto la revisión sistemática de literatura de Cevibkas et al. (2022), mientras que estudios como el de Ukobizaba et al. (2021) adicionalmente resaltan la importancia de la evaluación. Estos últimos también afirman que las actividades de evaluación enriquecidas están ligadas al mejoramiento de las habilidades de los estudiantes para resolver problemas en la medida en la que estas tareas representan retos para la comprensión de aspectos conceptuales.</p>
+      <p>Aportaciones como la de Gómez Mena (2024) y González Garibay et al. (2020) consideran que, en un programa de estudios, es indispensable realizar una evaluación adecuada que aporte información sobre el avance del alumnado para poder diseñar acciones de mejora hacia el logro de mayores aprendizajes.</p>
+      <p>En el contexto de evolución de las instituciones educativas, se presenta la necesidad de introducir sistemas de evaluación que mejoren la validez y fiabilidad sobre las formas tradicionales y, más aún, que involucren al estudiante en ese proceso (Ríos Muñoz y Herrera Anaya, 2017; Valverde Berrocoso y Ciudad Gómez, 2014). En este sentido, una de las características de la evaluación para el aprendizaje es que considere proporcionar retroalimentación oportuna y específica a los estudiantes al mismo tiempo que brinda al profesor información sobre el logro de los aprendizajes esperados (Gómez Mena, 2024; Martínez González, 2020). Una buena evaluación debe fomentar en los estudiantes el autoaprendizaje y la autorregulación para que sean conscientes de sus prácticas y aprendizajes (Gómez Mena, 2024; Ríos Muñoz y Herrera Anaya, 2017).</p>
+      <p>Para autores como Sánchez Mendiola (2020) y Valverde Berrocoso y Ciudad Gómez (2014), la rúbrica es un instrumento recomendable para realizar evaluación del y para el aprendizaje. Desde la óptica de la evaluación formativa, su uso garantiza un aumento en el aprendizaje y en el rendimiento académico de los estudiantes (Fraile et al., 2017).</p>
+      <p>Para el diseño de la presente investigación, se consideró la noción de evaluación formativa derivada de la revisión sistemática de literatura de Gómez Mena (2024), cuya visión holística destaca su naturaleza continua, centrada en el mejoramiento del aprendizaje de los estudiantes, con énfasis en proveer retroalimentación oportuna y significativa y que permita ajustar las prácticas educativas cuando sea necesario.</p>
+      <p>Por su parte, las rúbricas pueden ayudar a los estudiantes a visualizar las metas del aprendizaje y las medidas en las que han sido adquiridas, a través de los criterios de valoración en conjunto con el nivel de logro de cada uno de ellos (Valverde Berrocoso y Ciudad Gómez, 2014). En términos específicos, la rúbrica analítica permite evaluar el desempeño del estudiantado, así como identificar fortalezas y debilidades en lo que se está evaluando (González Garibay et al., 2020), para reafirmar las primeras y emprender estrategias de corrección o mejora en las segundas (Gómez Mena, 2024; Rodríguez-Gallego, 2014).</p>
+    </sec>
+    <sec>
+      <title>Metodología</title>
+      <p>La investigación que se detalla a continuación es de tipo descriptivo transversal cuantitativa y cualitativa. Se realizó un muestreo no probabilístico por conveniencia y se diseñaron y aplicaron cuestionarios con preguntas medidas en escala de Likert de 5 niveles, dicotómicas y abiertas. Se diseñó y aplicó una rúbrica de evaluación analítica que comprende 5 categorías y 4 niveles de logro.</p>
+      <p>El estudio se realizó en un grupo de 47 estudiantes durante el segundo ciclo escolar de 2024, en una asignatura de matemáticas de segundo semestre en una universidad pública del centro occidente de México. Se presentan los resultados de implementar una rúbrica de evaluación analítica como guía para resolver problemas matemáticos en un contexto aplicado para resolver problemas y tomar decisiones en un contexto económico empresarial.</p>
+      <p>La asignatura comprende temas de cálculo diferencial en funciones de dos variables y cálculo integral en funciones de una variable, y que forma parte de los planes de estudio de las licenciaturas en Economía, Negocios Internacionales, Mercadotecnia, Administración, Administración Financiera y Sistemas, Recursos Humanos, y Gestión y Economía Ambiental, que representan la mitad de los programas educativos que se ofrecen en el campus del área económico administrativa de la Institución. La asignatura tiene como prerrequisito los temas de precálculo y cálculo diferencial de funciones de una variable que se cursan en el ciclo inmediato anterior.</p>
+      <p>Las clases se impartieron dos veces por semana en sesiones de dos horas cada una bajo el modelo de Aprendizaje Invertido (Flipped Learning Network, 2014). Por disposición institucional, el trabajo se llevó a cabo presencialmente durante tres semanas consecutivas más una semana de trabajo virtual asincrónico cada mes durante todo el ciclo escolar.</p>
+      <p>Se diseñó y aplicó una encuesta exploratoria al inicio del curso para indagar sobre las expectativas de los estudiantes con respecto a la asignatura, su contexto de estudio y trabajo, la percepción acerca de su desempeño en el proceso de resolución de problemas aplicados, entre otros. Al final del ciclo escolar, se realizó el mismo ejercicio con otro instrumento en el que además de los temas anteriores, se consultaron sus opiniones sobre diversos factores, entre los que destacan el diseño del curso, la forma de evaluación o el diseño y utilidad de la rúbrica.</p>
+      <p>Por su parte, la forma de evaluación del curso consistió en cuestionarios individuales con retroalimentación automática, evaluaciones rápidas en equipo y actividades integradoras en equipo al final de cada unidad de aprendizaje.</p>
+      <p>Para el diseño del recurso educativo se consideró una rúbrica de evaluación analítica para guiar y evaluar el trabajo de los estudiantes en la resolución de problemas aplicados en el contexto de las ciencias económico-administrativas. El instrumento comprende 5 categorías que representan las partes del proceso de resolución de problemas y 4 niveles de desempeño.</p>
+      <p>La literatura dispone de diversos enfoques que clasifican las etapas para resolver problemas. Para el presente estudio, las primeras cuatro categorías de la rúbrica se consideraron a partir de la propuesta de Pascual Vigil et al. (2020) y en este instrumento se incorporó una quinta para evaluar la interpretación de los resultados obtenidos en un contexto económico empresarial. Las categorías son:</p>
+      <list list-type="order">
+        <list-item>
+          <p><italic>Información y datos que describen el problema</italic>. Del planteamiento inicial del problema se extrae la información clave, por ejemplo: ¿es un problema de producción, de costos, de utilidad? ¿cuáles son las variables? ¿en qué unidades están medidas las variables? ¿cuál es la temporalidad del modelo?, entre otros.</p>
+        </list-item>
+        <list-item>
+          <p><italic>Qué se tiene que hacer para resolver el problema</italic>. Se identifica la ruta que hay que seguir para obtener el resultado esperado a partir de los datos proporcionados en el problema.</p>
+        </list-item>
+        <list-item>
+          <p><italic>Estrategias para resolver el problema</italic>. Cuáles son las herramientas matemáticas que se pueden emplear para llegar al resultado esperado, en otras palabras, el “cómo”.</p>
+        </list-item>
+        <list-item>
+          <p><italic>Solución del problema.</italic> ¿Se obtuvo el resultado correcto? ¿hubo errores de cálculo?</p>
+        </list-item>
+        <list-item>
+          <p><italic>Interpretación de los resultados en el contexto del problema</italic>. ¿Se logra dar un significado específico a los resultados del proceso realizado? ¿esta información se utiliza para orientar la toma de decisiones dentro del contexto del problema?</p>
+        </list-item>
+      </list>
+      <p>En relación a los niveles de desempeño, se consideraron cuatro: <italic>1. Ausente</italic>, <italic>2. Básico</italic>, <italic>3. Suficiente</italic> y <italic>4. Ejemplar</italic>. Para desarrollar los descriptores de logro, se utilizó la taxonomía para procesos de enseñanza-aprendizaje y evaluación de Anderson y Krathwohl adaptada al campo de la educación superior (Bancayán Oré, 2013), que tiene como pilar la taxonomía del dominio cognitivo de Bloom. Este autor afirma que la taxonomía en mención facilita la gestión del conocimiento, pues activa procesos de pensamiento secuenciales que aseguran adquirir y operacionalizar habilidades y conocimientos.</p>
+      <p>Para emitir calificación al estudiantado, se estableció una escala de valoración numérica sobre 100 puntos en la que se consideró cada etapa del proceso de resolución de problemas, su nivel de dificultad y de desempeño. La rúbrica se muestra en la Tabla 1.</p>
+      <p>Al inicio del ciclo escolar y con notificación anticipada a los estudiantes, se realizó una evaluación diagnóstica individual que consistió en resolver un problema aplicado en el ámbito administrativo y de negocios con los conceptos matemáticos aprendidos en la asignatura de matemáticas prerrequisito. Durante la prueba se permitió a los estudiantes usar formularios, notas de clase y calculadora científica.</p>
+      <p>Hacia la tercera semana del curso, la rúbrica se presentó a los estudiantes y se utilizó con regularidad para resolver problemas durante las sesiones de trabajo presencial, con la finalidad de que aprendieran a trabajar con ella como guía en la resolución de problemas aplicados en el contexto de su formación profesional.</p>
+      <fig id="fig1">
+        <label>Tabla 1</label>
+        <caption>
+          <p>Rúbrica para evaluar la resolución de problemas matemáticos en un contexto aplicado. Fuente: Elaboración propia con base en la propuesta de Pascual Vigil et al. (2020) para resolver problemas y en la taxonomía para procesos de enseñanza-aprendizaje y evaluación de Anderson y Krathwohl (Bancayán Oré, 2013).</p>
+        </caption>
+        <graphic xlink:href="figura-1.png"/>
+      </fig>
+      <p>Al final de cada unidad de aprendizaje de las tres que comprende el programa de la asignatura, se realizó una actividad integradora en equipos de dos o tres personas que consistió en la resolución de uno o varios problemas aplicados en el contexto económico empresarial. En cada evaluación de esta naturaleza, se incorporaron los diferentes conceptos trabajados desde el primer tema del curso, es decir, fueron de naturaleza acumulativa. Para realizar estas actividades, los equipos tuvieron permitido usar la rúbrica, los materiales de clase y software especializado. Se especificó que no estaba permitido usar Inteligencia Artificial Generativa, ni hacer consultas con personas ajenas a su equipo.</p>
+      <p>En la sesión posterior a cada actividad integradora se realizó una revisión detallada del trabajo de los equipos con la finalidad de analizar las estrategias planteadas, los procesos realizados, los resultados obtenidos y sus diversas interpretaciones. Aun cuando la rúbrica proporciona retroalimentación inmediata una vez que se da a conocer la calificación, esta sesión permite a los estudiantes reflexionar sobre sus propios procesos y resultados y complementar su perspectiva con el trabajo realizado por otros compañeros.</p>
+      <p>Al finalizar el ciclo escolar, se realizó una evaluación individual que incluyó la resolución de un problema con los temas de la asignatura en la que los estudiantes utilizaron la rúbrica, materiales del curso y calculadora científica o software especializado.</p>
+    </sec>
+    <sec>
+      <title>Resultados y discusión</title>
+      <p>Las evaluaciones diagnósticas individuales, integradoras en equipo y finales individuales, se calificaron con la rúbrica de evaluación propuesta. Para el análisis de resultados, se consideró a los estudiantes que completaron el curso y que realizaron todas las actividades, es decir, un total 35 personas. Este grupo de alumnos tuvo una tasa de asistencia de 70% o más a las sesiones de trabajo presencial. A continuación, se presenta el análisis de resultados de las evaluaciones en torno a las cinco categorías que constituyen la rúbrica de evaluación analítica propuesta.</p>
+    </sec>
+    <sec>
+      <title>Examen diagnóstico</title>
+      <p>Los resultados del examen diagnóstico muestran que, en promedio de uno a cuatro, en la identificación de la <italic>Información y datos que describen el problema</italic>, obtuvieron 3.1; <italic>Qué se tiene que hacer para resolver el problema</italic>, 2.4; <italic>Estrategias para resolver el problema</italic>, 2.1; <italic>Solución del problema</italic>, 1.4 y finalmente, <italic>Interpretación de los resultados en el contexto del problema,</italic> 1.9. Estos resultados se aprecian en la Figura 1.</p>
+      <fig id="fig2">
+        <label>Figura 1</label>
+        <caption>
+          <p>Resultados del examen diagnóstico. Fuente: Elaboración propia con datos del estudio.</p>
+        </caption>
+        <graphic xlink:href="figura-2.svg" mimetype="image" mime-subtype="svg+xml"/>
+      </fig>
+      <p>Dado que la escala de medición de los niveles de logro se mide de uno a cuatro, los estudiantes mostraron el mejor desempeño en la <italic>Identificación y datos que describen el problema</italic> con un nivel <italic>Suficiente</italic>. Esto puede deberse a que en los problemas matemáticos académicos es común que se presenten algunas funciones, variables y un contexto, por ejemplo, para poder comenzar a trabajar. Por otro lado, algunos aspectos que suelen no ser tan evidentes para los estudiantes son las unidades de medición de las variables (que el modelo matemático considere cientos de unidades o miles de pesos, por ejemplo), la temporalidad (si las mediciones son mensuales, anuales, etc.), entre otros.</p>
+      <p>En las siguientes etapas del proceso, el desempeño de los estudiantes fue disminuyendo, y aun cuando tuvieron alguna claridad en cuanto a los datos presentados en la evaluación, fueron menos capaces de determinar <italic>Qué hacer para resolver el problema</italic> y menos aún para definir alguna <italic>Estrategia para resolverlo</italic>; en este último aspecto, el nivel encontrado fue <italic>Básico</italic>. Por su parte, encontrar la <italic>Solución</italic> presentó el índice más bajo de todas las mediciones, apenas por arriba de <italic>Insuficiente</italic>. En este sentido, se ha observado que los estudiantes frecuentemente cometen errores al no respetar la jerarquía de las operaciones, o al manipular la calculadora o utilizar algún software especializado, por ejemplo.</p>
+      <p>En cuanto a la <italic>Interpretación de resultados matemáticos en un contexto</italic>, se encontró una mayor habilidad con respecto a encontrar efectivamente la <italic>Solución</italic>, ubicándose un poco por debajo del nivel <italic>Básico</italic>. Los resultados de la encuesta realizada al inicio del ciclo escolar, indican que alrededor del 85% de los estudiantes consideraron ser capaces de encontrar la solución al problema, mientras que aproximadamente el 69% opinó que lo eran con respecto a interpretar los resultados obtenidos.</p>
+    </sec>
+    <sec>
+      <title>Actividades integradoras</title>
+      <p>A continuación, se presentan los resultados obtenidos en las actividades integradoras realizadas en equipo al finalizar cada una de las tres unidades de aprendizaje del curso. En promedio, la categoría <italic>Información y datos que describen el problema</italic>, contabilizó 2.7, 3.0 y 3.6 respectivamente; <italic>Qué se tiene que hacer para resolver el problema,</italic> 2.8, 2.8 y 3.8; <italic>Estrategias para resolver el problema,</italic> 2.6, 3.1 y 3.9; <italic>Solución del problema</italic> 1.3, 1.6 y 2.1 y, finalmente, <italic>Interpretación de resultados matemáticos en un contexto aplicado</italic> 2.2, 2 y 2.4. Estos resultados se muestran en la Figura 2.</p>
+      <fig id="fig3">
+        <label>Figura 2</label>
+        <caption>
+          <p>Resultados de las tres actividades integradoras. Fuente: Elaboración propia con datos del estudio.</p>
+        </caption>
+        <graphic xlink:href="figura-3.svg" mimetype="image" mime-subtype="svg+xml"/>
+      </fig>
+      <p>En la primera actividad integradora, el análisis del trabajo en grupos refleja que la categoría <italic>Información y datos que describen el problema</italic> disminuyó un poco con respecto al desempeño individual, ya que pasó de 3.1 en promedio a 2.7. Sin embargo, <italic>Qué se tiene qué hacer para resolver el problema</italic> y <italic>Estrategias para resolver el problema</italic>, subieron de 2.4 a 2.8 y de 2.1 a 2.6, respectivamente. Estas tres categorías en su conjunto, se sitúan cerca del nivel <italic>Suficiente</italic> en la escala de los niveles de desempeño.</p>
+      <p>Por su parte, en esta actividad se observó un desempeño similar al individual, a la baja, de <italic>Solución del problema</italic> e <italic>Interpretación de resultados matemáticos en un contexto</italic>, de 1.4 a 1.3 y de 1.9 a 2.2 respectivamente, apenas por encima del nivel <italic>Insuficiente</italic> para el primer caso y <italic>Básico</italic> para el segundo.</p>
+      <p>Para la segunda actividad integradora, se pudo apreciar una leve mejoría en la <italic>Identificación y datos que describen el problema</italic>, <italic>Estrategias para resolverlo</italic> y <italic>Solución del problema.</italic> En cuanto a <italic>Qué se tiene que hacer para resolver el problema</italic>, no se observó ningún cambio pues se mantuvo en 2.8, cerca del nivel <italic>Suficiente</italic>, mientras que la <italic>Interpretación de resultados matemáticos en un contexto aplicado</italic>, reveló una ligera disminución de 2.2 a 2, apenas un nivel <italic>Básico</italic>.</p>
+      <p>Cabe mencionar que la primera unidad de aprendizaje del curso comprende contenidos de cálculo diferencial de funciones de dos variables que es consecutiva de la asignatura prerrequisito, que se trabaja con diferentes profesores con diversas metodologías y estrategias didácticas, formas de evaluación, etc., mientras que la segunda unidad incluye conceptos de cálculo integral de funciones de una variable, en específico de integración indefinida, y la tercera unidad trata la integración definida. En estas dos últimas, los temas se introducen por primera vez y se trabajan con todos los estudiantes al mismo tiempo, con los mismos materiales y bajo la misma dinámica de trabajo, lo que permite que la información y conceptos puedan fluir bajo una misma lógica de diseño.</p>
+      <p>Los resultados de la tercera y última actividad integradora mostraron mejoría en todas las categorías de la rúbrica con respecto a la anterior. En términos generales, <italic>Información y datos que describen el problema</italic>, <italic>Qué se tiene que hacer</italic> y <italic>Estrategias para resolverlo</italic> pasaron de estar por debajo del nivel <italic>Suficiente</italic> en la primera actividad a cerca del nivel <italic>Ejemplar</italic> en la última (de 2.7 a 3.6, 2.8 a 3.8 y 2.6 a 3.9, respectivamente).</p>
+      <p>La misma comparación entre actividades mostró cambio en <italic>Solución del problema</italic>, de 1.3 (apenas por encima de <italic>Insuficiente</italic>) a 2.1 (<italic>Básico)</italic>, mientras que <italic>Interpretación de resultados matemáticos en un contexto</italic> pasó de 2.1 a 2.4, es decir, apenas por encima de Básico, lo que representó el rubro con el menor cambio en el trabajo reportado en grupos.</p>
+    </sec>
+    <sec>
+      <title>Comparativo de evaluaciones individuales</title>
+      <p>Las actividades realizadas en grupos no permiten identificar claramente cuáles son las aportaciones específicas de cada persona, ni en qué grado se hicieron. Los resultados de la evaluación final pretenden mostrar el impacto individual en cada parte del proceso de resolución de problemas aplicados. En <italic>Información y datos que describen el problema</italic>, la puntuación promedio pasó de 3.1 a 3.9, es decir, de nivel <italic>Suficiente</italic> a casi <italic>Ejemplar</italic>; <italic>Qué se tiene que hacer para resolver el problema</italic>, de 2.4 a 3.5, es decir, por encima de <italic>Suficiente</italic>; <italic>Estrategias para resolver el problema</italic>, de 2.1 a 3.3, o de <italic>Básico</italic> a un poco más que <italic>Suficiente;</italic> <italic>Solución del problema</italic> pasó de 1.4 a 2.8, es decir, de un poco más de <italic>Ausente</italic> a casi <italic>Suficiente</italic>; y la <italic>Interpretación de resultados matemáticos en un contexto</italic>, subió de 1.9 a 2.3, apenas por encima de un nivel <italic>Básico</italic>. Esta información se muestra en la Figura 3.</p>
+      <fig id="fig4">
+        <label>Figura 3</label>
+        <caption>
+          <p>Comparativo de evaluaciones individuales. Fuente: Elaboración propia con datos del estudio.</p>
+        </caption>
+        <graphic xlink:href="figura-4.svg" mimetype="image" mime-subtype="svg+xml"/>
+      </fig>
+      <p>Como se puede apreciar, al final del ciclo escolar, todas las categorías de la rúbrica mostraron mejoría con respecto a las mediciones realizadas al inicio del curso. Se destaca que los estudiantes en lo general mejoraron en su capacidad de identificar con claridad la <italic>Información y datos que describen el problema</italic>, como escala de medición de las variables, temporalidad, entre otros, es decir, el contexto específico de aplicación en contraste con el modelo matemático. La mejora reportada en este rubro representa el 26% con respecto al desempeño inicial encontrado.</p>
+      <p>Por su parte, <italic>Qué se tiene que hacer</italic> y <italic>Estrategias</italic> <italic>para resolver el problema</italic>, tienen incidencia directa en los contenidos disciplinares de la asignatura. Los estudiantes mostraron un buen avance en este sentido con una mejora de aproximadamente el 46% en el primer caso y del 57% en el segundo, con respecto al inicio del ciclo escolar.</p>
+      <p>Cabe resaltar que la categoría que mostró mayor cambio fue <italic>Solución del problema</italic>, con 100% de mejora según los resultados recabados. Sin representar un resultado final excelente, la evidencia sugiere que puede continuar mejorando. Este aspecto no se relaciona directamente con los temas de la asignatura, sino con una correcta sustitución de valores, la ejecución precisa de operaciones manuales y el manejo técnico adecuado de herramientas como calculadora científica o software especializado.</p>
+      <p>Por otro lado, tal como se constató en el análisis de las evaluaciones realizadas en equipo, la <italic>Interpretación de resultados en un contexto</italic> es la parte el proceso que requiere mayor atención, pues mostró la variación más moderada según los resultados individuales, con apenas 21% de mejora con respecto al inicio del curso.</p>
+      <p>Al final del ciclo escolar, se preguntó a los estudiantes si consideraban que había mejorado su habilidad para resolver problemas aplicados. Se encontraron opiniones como la de Fernando: <italic>“Sí, mejoró mucho con respecto a mis conocimientos antes de empezar esta materia, y considero que aprendí bien a interpretar los problemas matemáticos en un enfoque económico”</italic>, o la de Judith: <italic>“Sí, porque además que me servirán para el área laboral, me doy cuenta de cosas que están relacionadas”</italic>. La mayoría de los comentarios giraron en torno a la falta de dominio como el de Jaqueline: <italic>“Sí mejoró, pero no en su totalidad”</italic>, el de Celia: <italic>“Me ayudó a comprenderlos un poco más, aunque siento que me falta más práctica y guía”</italic>, o el de Ian: <italic>“Es lo que me ha costado trabajo, las aplicaciones a la economía. Aunque sea algo muy sencillo y que domine, cuando se habla en términos económicos me confunde demasiado”</italic>. Dado el contexto del área de formación profesional de los estudiantes, las autoras de este estudio consideramos deseable que logren un mejor desempeño en este rubro en particular; en concordancia con la opinión de Cevibkas et al. (2022) y con base en los resultados del estudio, un ciclo escolar parece ser insuficiente para logarlo.</p>
+    </sec>
+    <sec>
+      <title>La rúbrica de evaluación</title>
+      <p>Como un mecanismo de evaluación formativa, el instrumento propuesto permitió explorar el proceso de resolución de problemas de los estudiantes y comprender su proceso de razonamiento (Pascual Vigil et al., 2020; Valverde Berrocoso y Ciudad Gómez, 2014). A pesar de las ventajas que presenta este método de evaluación, la revisión sistemática de literatura de Cevibkas et al. (2022), realizada en 75 artículos académicos, mostró que solamente en el 3% de los materiales revisados se utilizaron rúbricas analíticas para comprobar la competencia de los estudiantes relacionada con el modelado y la resolución de problemas contextualizados.</p>
+      <p>En este estudio el 93% del grupo opinó que fue útil contar con la rúbrica para hacer las actividades integradoras en equipo, como se puede constatar en comentarios como el de Alessandra: <italic>“(Fue) muy útil para hacer lo posible para (lograr) lo que se requería”</italic>, que consideró el instrumento como una guía; el de Andrés: <italic>“Me gusta que a pesar de no tener el resultado exacto, cuenta mucho el proceso que utilizaste para hacerlo y el entendimiento que tuvimos del tema”</italic>, o el de David: <italic>“Está muy bien porque toma en cuenta que en matemáticas no sólo se trata del resultado, sino también de identificar la información, saber qué hacer con ella, hacer los cálculos necesarios, dar con el resultado y saber qué significa ese resultado”</italic>, que da cuenta de una consideración más amplia de lo que implicó contar con el instrumento durante el proceso de resolución de problemas.</p>
+      <p>Por su parte, tal como se plantea en la literatura, es indispensable que la calificación y retroalimentación se realicen con oportunidad (Gómez Mena, 2024; Martínez González, 2020), ya que postergar esta parte del proceso diluye sus beneficios potenciales. Algunos comentarios sobre las sesiones de retroalimentación refuerzan esta idea, como el de Eunice: <italic>“Me gustaron y me ayudaron ya que así pude aclarar dudas que surgieron en el momento del examen”</italic> o el de Diana: <italic>“Muy buenas porque nos ayudan a observar nuestros errores para mejorar en la siguiente actividad”</italic>. Hubo estudiantes que llevaron su reflexión más allá de una implicación personal, como lo ejemplifica el comentario de José, que mencionó que estas sesiones <italic>“son muy importantes para que la profesora esté actualizada sobre los procesos y dinámicas que sí están funcionando”</italic>, como lo señala Bancayán Oré (2013).</p>
+      <p>Por otro lado, la incorporación de una variedad de estrategias didácticas estableció las bases para desarrollar un ambiente de trabajo favorable para desarrollar habilidades para resolver problemas, como lo sugiere la revisión de literatura de Cevibkas et al. (2022), ya que alrededor del 93% de los estudiantes opinó que había recibido un alto o muy alto acompañamiento por parte de la profesora para dar seguimiento a las actividades del curso, mientras que aproximadamente el 83% consideró útil o muy útil el trabajo en equipo para realizar las actividades integradoras.</p>
+      <p>Finalmente, calificar con rúbrica analítica puede presentar ventajas en cuanto a la profundidad y calidad de la evaluación, pero no es automático ni rápido de ejecutar comparado con otras formas o instrumentos. En general se requiere revisar con detenimiento los ejercicios o trabajos de los estudiantes para constatar el nivel de logro en cada una de las categorías. Así mismo, el profesor debe conocer a fondo la rúbrica y no perder de vista la diversidad de posibilidades que se pueden presentar para considerar que se ha cumplido con un criterio. Este aspecto también es importante para ser consistente y objetivo en la evaluación.</p>
+    </sec>
+    <sec>
+      <title>Conclusiones</title>
+      <p>La aplicación de conceptos matemáticos en la resolución de problemas contextualizados en el nivel de estudios superior sigue siendo objeto de interés en matemática educativa. Por su parte, existen numerosas evidencias que constatan la dificultad que enfrentan los estudiantes para llevar a cabo este proceso. Resulta imperativo emplear mecanismos que coadyuven a mejorarlo pues se trata de competencias que se espera que tengan los egresados de las diferentes áreas del conocimiento.</p>
+      <p>Un instrumento que puede ayudar a lograrlo es la rúbrica de evaluación analítica, pues no solo permite a los docentes estudiar cómo es que los estudiantes realizan este proceso sino también, puede ser una guía para que estos tengan, en primer lugar, claridad en lo que se espera de ellos en las evaluaciones, sepan cómo lograrlo y, en última instancia, tomen decisiones en cuanto al nivel de logro que desean tener.</p>
+      <p>No es fácil usar la rúbrica si no se está familiarizado con el instrumento. Es recomendable trabajar con ella en el transcurso de las sesiones para que los alumnos sepan en la práctica lo que representa cada categoría de la rúbrica y reflexionen sobre cómo se debe abordar cada problema para lograr el nivel de desempeño deseado.</p>
+      <p>En términos generales, a pesar de las diferencias en las evaluaciones, ya sea por tipo de problema, tema o nivel de dificultad, los resultados presentados mostraron mejoría en los estudiantes en cada una de las diferentes etapas del proceso de resolución de problemas aplicados.</p>
+      <p>Aunque se trate de la misma asignatura, no puede dejar de mencionarse que el comportamiento de los grupos tiende a variar en función de diversas situaciones: el horario de clase (no es el mismo si es a las 7 de la mañana, a la 1 de la tarde o a las 8 de la noche); si los estudiantes toman la clase por primera vez o se encuentran recursando; si trabajan o no; el número total de asignaturas en el ciclo escolar; entre otras. Estas particularidades pueden afectar el tiempo y atención dedicados a la asignatura y finalmente el rendimiento de los estudiantes, por lo que la aplicación de la rúbrica para evaluar la resolución de problemas aplicados, puede presentar diferentes resultados de acuerdo al contexto de aplicación.</p>
+      <p>Por otro lado, los resultados de la evaluación con la rúbrica pueden variar tratándose de problemas académicos de mayor complejidad que posiblemente aparecerán en etapas más avanzadas en su formación profesional o de aquellos presentes en el ámbito laboral.</p>
+      <p>Como trabajo futuro, se propone investigar si existe relación entre la asistencia a las sesiones presenciales y la mejoría de los estudiantes en el proceso de resolución de problemas; si se podría aspirar a obtener resultados similares en el caso de realizar las actividades integradoras individualmente en lugar de en equipos; hacer un análisis comparativo de la resolución de problemas académicos con problemas reales del contexto administrativo; cómo incide el diseño del curso en el desarrollo de habilidades para resolver problemas; dar seguimiento a estudiantes que hubieran trabajado con la rúbrica en el curso prerrequisito y cómo puede emplearse la Inteligencia Artificial Generativa para mejorar el proceso para resolver problemas.</p>
+      <p>Por último, se hace énfasis en que el instrumento propuesto se puede utilizar para realizar evaluaciones de trabajo individual o en grupos, en materias de matemáticas de diferentes áreas de formación profesional o grados académicos, pues se enfoca en las diferentes etapas del proceso de resolución de problemas.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>Referencias</title>
+      <ref id="ref1">
+        <mixed-citation>Acebo-Gutiérrez, C. J., y Rodríguez-Gallegos, R. (2021). Diseño y validación de rúbrica para la evaluación de modelación matemática en alumnos de secundaria. <italic>Revista Científica</italic>, <italic>40</italic>(1), 13-29. <ext-link xlink:href="https://www.redalyc.org/journal/5043/504371976003/html/" ext-link-type="uri">https://www.redalyc.org/journal/5043/504371976003/html/</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>Alonso-Berenguer, I., Gorina-Sánchez, A., Iglesias-Domecq, N., y Álvarez Esteven, J. (2018). Pautas para implementar la enseñanza de la Matemática a través de la resolución de problemas. <italic>Maestro y Sociedad</italic>, 3, 66-81. <ext-link xlink:href="https://www.studocu.com/latam/document/universidad-nacional-autonoma-de-honduras/matematicas/pautas-para-la-ensenanza-de-matematicas-a-traves-de-problemas-2018/134458573" ext-link-type="uri">https://www.studocu.com/latam/document/universidad-nacional-autonoma-de-honduras/matematicas/pautas-para-la-ensenanza-de-matematicas-a-traves-de-problemas-2018/134458573</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>Alonso Berenguer, I., Gorina Sánchez, A., y Salgado Castillo, A. (2021). Sistematización de experiencias sobre la investigación en didáctica de la resolución de problemas matemáticos. <italic>Mendive. Revista De Educación</italic>, <italic>19</italic>(1), 285–303. <ext-link xlink:href="http://mendive.upr.edu.cu/index.php/MendiveUPR/article/view/2129" ext-link-type="uri">http://mendive.upr.edu.cu/index.php/MendiveUPR/article/view/2129</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>Aravena Díaz, M. D., Díaz Levicoy, D., Rodríguez Alveal, F., y Cárcamo Mansilla, N. (2022). Estudio de caso y modelado matemático en la formación de ingenieros. Caracterización de habilidades STEM. Ingeniare. <italic>Revista chilena de ingeniería</italic>, <italic>30</italic>(1), 37-56. <ext-link xlink:href="https://www.scielo.cl/scielo.php?script=sci_arttext&amp;pid=S0718-33052022000100037&amp;lng=en&amp;nrm=iso&amp;tlng=en" ext-link-type="uri">https://www.scielo.cl/scielo.php?script=sci_arttext&amp;pid=S0718-33052022000100037&amp;lng=en&amp;nrm=iso&amp;tlng=en</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>Bancayán Oré, C. (2013). Operacionalización de la taxonomía de Anderson y Krathwohl para la docencia universitaria. <italic>PAIDEIA XXI, 3</italic>(4), 109-119. <ext-link xlink:href="https://revistas.urp.edu.pe/index.php/Paideia/article/download/931/847" ext-link-type="uri">https://revistas.urp.edu.pe/index.php/Paideia/article/download/931/847</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>Cevikbas, M., Kaiser, G., y Schukajlow, S. (2022). A systematic literature review of the current discussion on mathematical modelling competencies: State-of-the-art developments in conceptualizing, measuring, and fostering. <italic>Educational Studies in Mathematics</italic>, <italic>109</italic>, 205–236. <ext-link xlink:href="https://link.springer.com/article/10.1007/s10649-021-10104-6" ext-link-type="uri">https://link.springer.com/article/10.1007/s10649-021-10104-6</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>Flipped Learning Network (FLN). (2014). <italic>The Four Pillars of Flipped Learning</italic>. <ext-link xlink:href="https://www.flippedlearning.org/definition" ext-link-type="uri">https://www.flippedlearning.org/definition</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>Flores López, W. O., y Auzmendi Escribano, E. (2018). Valoración del estudiantado universitario sobre las competencias matemáticas para la resolución de problemas. <italic>Revista Ciencia e interculturalidad</italic>, <italic>22</italic>(1), 29–46. <ext-link xlink:href="https://doi.org/10.5377/rci.v22i1.6549" ext-link-type="uri">https://doi.org/10.5377/rci.v22i1.6549</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>Fraile, J., Pardo, R. y Panadero, E. (2017). ¿Cómo emplear las rúbricas para implementar una verdadera evaluación formativa? <italic>Revista Complutense de Educación</italic>, <italic>28</italic>(4), 1321-1334. <ext-link xlink:href="https://dx.doi.org/10.5209/RCED.51915" ext-link-type="uri">http://dx.doi.org/10.5209/RCED.51915</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>Gómez Mena, E. A. (2024). La evaluación formativa en la educación media como estrategia de fortalecimiento del aprendizaje responsable de los adolescentes. <italic>Revista Palobra “palabra que obra”</italic>, <italic>24</italic>(1), 8-25. <ext-link xlink:href="https://doi.org/10.32997/2346-2884-vol.24-num.1-2024-4835" ext-link-type="uri">https://doi.org/10.32997/2346-2884-vol.24-num.1-2024-4835</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>González Garibay, V., Sierra González, R. y Sosa Ramírez, K. P. (2020). Cap. 6 Rúbrica. En Sánchez Mendiola, M., y Martínez González, A. (Ed). <italic>Evaluación del y para el aprendizaje: instrumentos y estrategias</italic> (pp. 109-125). México: UNAM. <ext-link xlink:href="https://www.puees.unam.mx/sapa/dwnf/114/6.Sanchez-Mendiola_2020_Evaluacion.pdf" ext-link-type="uri">https://www.puees.unam.mx/sapa/dwnf/114/6.Sanchez-Mendiola_2020_Evaluacion.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>Lawal, A. A., Salman, M. F., Aleshinloye, N. I., y Ameen, K, S. (2025). Leveraging Mathematical Expertise: Empowering mathematics teachers for entrepreneurial ventures. <italic>Ilorin Journal of Education (IJE)</italic>, <italic>45</italic>(2), 237-257. <ext-link xlink:href="https://ije.unilorinedu.sch.ng/index.php/ije/article/download/253/208/234" ext-link-type="uri">https://ije.unilorinedu.sch.ng/index.php/ije/article/download/253/208/234</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>Martínez González, A. (2020). Cap. 2 Evaluación para el aprendizaje. En Sánchez Mendiola, M., y Martínez González, A. (Ed). <italic>Evaluación del y para el aprendizaje: instrumentos y estrategias</italic> (pp. 41-49). México: UNAM. <ext-link xlink:href="https://www.puees.unam.mx/sapa/dwnf/114/6.Sanchez-Mendiola_2020_Evaluacion.pdf" ext-link-type="uri">https://www.puees.unam.mx/sapa/dwnf/114/6.Sanchez-Mendiola_2020_Evaluacion.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>Ordaz Villegas, G., y Acle Tomasini, G. (2021). Desempeño matemático. Evaluación por rúbricas en los primeros grados de educación básica. <italic>Perfiles Educativos</italic>, <italic>43</italic>(173), 76-92. <ext-link xlink:href="https://doi.org/10.22201/iisue.24486167e.2021.173.59772" ext-link-type="uri">https://doi.org/10.22201/iisue.24486167e.2021.173.59772</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>Pascual Vigil, A., Trejo Rojas, C., y Martínez González, A. (2020). Cap. 14 Resolución de problemas. En Sánchez Mendiola, M., y Martínez González, A. (Ed). <italic>Evaluación del y para el aprendizaje: instrumentos y estrategias</italic> (pp. 239-258). México: UNAM. <ext-link xlink:href="https://www.puees.unam.mx/sapa/dwnf/114/6.Sanchez-Mendiola_2020_Evaluacion.pdf" ext-link-type="uri">https://www.puees.unam.mx/sapa/dwnf/114/6.Sanchez-Mendiola_2020_Evaluacion.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>Ríos Muñoz, D. y Herrera Anaya, D. (2017). Los desafíos de la evaluación por competencias en el ámbito educativo. <italic>Educ. Pesqui</italic>., <italic>43</italic>(4), 1073-1086. São Paulo. <ext-link xlink:href="https://doi.org/10.1590/S1678-4634201706164230" ext-link-type="uri">https://doi.org/10.1590/S1678-4634201706164230</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>Rodríguez-Gallego, M. R. (2014). Evidenciar competencias con rúbricas de evaluación. <italic>EA, Escuela Abierta</italic>, <italic>17</italic>, 117-134. <ext-link xlink:href="https://ea.ceuandalucia.es/index.php/EA/article/view/57/34" ext-link-type="uri">https://ea.ceuandalucia.es/index.php/EA/article/view/57/34</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>Ruisli, M., Pradana, B. L., Brotosaputro, G., y Ramírez, S. (2025). Analysis of the relationship between understanding mathematical logic and managerial decision-making effectiveness. <italic>Aptisi Transactions on Management</italic>, <italic>9</italic>(1), 40-49. <ext-link xlink:href="https://ijc.ilearning.co/index.php/ATM/article/view/2407" ext-link-type="uri">https://ijc.ilearning.co/index.php/ATM/article/view/2407</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>Sánchez Mendiola, M. (2020). Cap. 1 Evaluación del aprendizaje. En Sánchez Mendiola, M., y Martínez González, A. (Ed). <italic>Evaluación del y para el aprendizaje: instrumentos y estrategias</italic> (pp. 17-39). México: UNAM. <ext-link xlink:href="https://www.puees.unam.mx/sapa/dwnf/114/6.Sanchez-Mendiola_2020_Evaluacion.pdf" ext-link-type="uri">https://www.puees.unam.mx/sapa/dwnf/114/6.Sanchez-Mendiola_2020_Evaluacion.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>Serres Segarra, G., López-Serentill, P., y Alsina, Á. (2024). Validez y fiabilidad de una rúbrica para detectar el talento matemático en educación primaria. <italic>Revista de Educación Inclusiva</italic>, <italic>17</italic>(1), 258-279. <ext-link xlink:href="https://www.researchgate.net/publication/382069380_Validez_y_fiabilidad_de_una_rubrica_para_detectar_el_talento_matematico_en_Educacion_Primaria" ext-link-type="uri">https://www.researchgate.net/publication/382069380_Validez_y_fiabilidad_de_una_rubrica_para_detectar_el_talento_matematico_en_Educacion_Primaria</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>Schoenfeld, A. (1987). Pólya, problem solving, and education. <italic>Mathematics magazine</italic>, <italic>60</italic>(5), 283-291.</mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>Schoenfeld, A. H. (1992). Learning to think mathematically: Problem solving, metacognition, and sense making in mathematics. En D. A. Grouws (Ed.), <italic>Handbook of research on mathematics teaching</italic> (pp. 334-370). McMillan Publishing. <ext-link xlink:href="https://www.researchgate.net/publication/289963462_Learning_to_think_mathematically_Problem_solving_metacognition_and_sense_making_in_mathematics" ext-link-type="uri">https://www.researchgate.net/publication/289963462_Learning_to_think_mathematically_Problem_solving_metacognition_and_sense_making_in_mathematics</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>Ukobizaba, F., Nizeyimana, G., y Mukuka, A. (2021). Assessment Strategies for Enhancing Student´s Mathematical Problem-solving Skills: A Review of Literature. <italic>EURASIA Journal of Mathematics, Science and Technology Education</italic>, <italic>17</italic>(3). <ext-link xlink:href="https://doi.org/10.29333/ejmste/9728" ext-link-type="uri">https://doi.org/10.29333/ejmste/9728</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>Valverde Berrocoso, J., y Ciudad Gómez, A. (2014). El uso de e-rúbricas para la evaluación de Competencias en estudiantes universitarios. Estudio sobre fiabilidad del instrumento. <italic>Revista de docencia Universitaria</italic>, <italic>12</italic>(1), 49-79. <ext-link xlink:href="https://polipapers.upv.es/index.php/REDU/article/view/6415" ext-link-type="uri">https://polipapers.upv.es/index.php/REDU/article/view/6415</ext-link></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
