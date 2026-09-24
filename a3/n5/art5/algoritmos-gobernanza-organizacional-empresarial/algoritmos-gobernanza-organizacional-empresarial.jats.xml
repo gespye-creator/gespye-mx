@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="es" dtd-version="1.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">gespye</journal-id>
+      <journal-title-group>
+        <journal-title>GESPYE Gestión Pública y Empresarial</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">3061-8630</issn>
+      <publisher>
+        <publisher-name></publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.32870/gespye.vi5.5</article-id>
+      <title-group>
+        <article-title>Algoritmos como herramientas y actores en la gobernanza organizacional empresarial</article-title>
+        <trans-title-group xml:lang="en">
+          <trans-title>Algorithms as tools and actors in corporate organizational governance</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0008-4366-2457</contrib-id>
+          <name>
+            <surname>Gaibor Martínez</surname>
+            <given-names>Fernando Ricardo</given-names>
+          </name>
+          <email>fernando.gaibor@uasb.edu.ec</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">Alumno del Doctorado en Administración de la Universidad Andina Simón Bolívar, Sede Ecuador</aff>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>30</day>
+        <month>05</month>
+        <year>2026</year>
+      </pub-date>
+      <volume>3</volume>
+      <issue>5</issue>
+      <fpage>66</fpage>
+      <lpage>77</lpage>
+      <self-uri xlink:href="https://articulos.gespye.mx/a3/n5/art5/algoritmos-gobernanza-organizacional-empresarial/"/>
+      <self-uri content-type="pdf" xlink:href="https://articulos.gespye.mx/a3/n5/art5/algoritmos-gobernanza-organizacional-empresarial/algoritmos-gobernanza-organizacional-empresarial.pdf"/>
+      <abstract xml:lang="es">
+        <p>El artículo explora la agencia de los algoritmos como instrumentos y agentes en la gobernanza corporativa. Se analizan sus impactos en la forma de hacer una elección, su incorporación en los sistemas de gestión y su contribución a la eficiencia y sostenibilidad operativa. Se utiliza un enfoque cualitativo-documental, apoyado en literatura reciente e informes especializados. Los resultados revelan que los algoritmos, cuando se integran en los procesos organizacionales, no solo automatizan tareas técnicas, sino que crean dinámicas socio-técnicas que reconfiguran las estructuras y prácticas internas. Finalmente, se señalan desafíos y oportunidades para una gobernanza responsable.</p>
+      </abstract>
+      <kwd-group xml:lang="es">
+        <kwd>algoritmos</kwd>
+        <kwd>gobernanza organizacional</kwd>
+        <kwd>inteligencia artificial</kwd>
+        <kwd>agencia algorítmica</kwd>
+        <kwd>toma de decisiones</kwd>
+      </kwd-group>
+      <trans-abstract xml:lang="en">
+        <p>The article explores the agency of algorithms as both instruments and agents within corporate governance. It examines their impact on decision-making processes, their incorporation into management systems, and their contribution to operational efficiency and sustainability. A qualitative-documentary approach is used, supported by recent literature and specialized reports. The findings reveal that when algorithms are integrated into organizational processes, they do not merely automate technical tasks, but also generate socio-technical dynamics that reshape internal structures and practices. Finally, the study highlights challenges and opportunities for responsible governance.</p>
+      </trans-abstract>
+      <kwd-group xml:lang="en">
+        <kwd>algorithms</kwd>
+        <kwd>organizational governance</kwd>
+        <kwd>artificial intelligence</kwd>
+        <kwd>algorithmic agency</kwd>
+        <kwd>decision-making</kwd>
+      </kwd-group>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>02</month>
+          <year>2026</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>04</month>
+          <year>2026</year>
+        </date>
+      </history>
+      <permissions>
+        <license xlink:href="https://creativecommons.org/licenses/by-sa/4.0/">
+          <license-p>Esta obra está protegida bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.</license-p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introducción</title>
+      <p>La llegada de la inteligencia artificial (IA) y, sobre todo, de los algoritmos al mundo de la empresa ha supuesto una transformación cuya sostenibilidad económica aún genera debate (Carvão, 2025), representando una revolución en la forma en que se estructuran las empresas, se toman decisiones y se gobiernan. Como alertan Katzenbach y Ulbricht (2019), los algoritmos no solo automatizan procesos, sino que crean maneras específicas de sociabilidad, codificando reglas, expectativas y mecanismos de coordinación entre actores. En este ambiente de transformación digital acelerada, los algoritmos ya no pueden ser considerados como simples herramientas técnicas subordinadas al control humano, sino como agentes que moldean interacciones, tienen lógicas propias y, en algunos casos, se convierten en instancias que determinan cómo fluyen la información y el poder en las organizaciones.</p>
+      <p>En este sentido, la gobernanza algorítmica se presenta como un proceso que reconfigura capacidades de decisión y agencia, transformando prácticas, jerarquías y relaciones laborales bajo modalidades de control y coordinación mediadas por sistemas informáticos. Como señalan Kellogg et al. (2020), el control algorítmico en el trabajo se da a través de mecanismos que guían, evalúan y disciplinan a los trabajadores, transformando las relaciones de gestión y supervisión. Esta ambigüedad abre la puerta a preguntas esenciales sobre la influencia de los algoritmos en la gobernanza corporativa y cómo su integración transforma las prácticas de gestión y control corporativo.</p>
+      <p>La digitalización de los sistemas integrados de gestión (IMS) ha demostrado que la incorporación de tecnologías digitales, como la IA, mejora la eficiencia, la gestión de riesgos y la transparencia en las organizaciones, permitiendo la alineación estratégica con las metas de sostenibilidad y responsabilidad corporativa (Ahmed, 2026). Pero esta evolución también plantea desafíos complejos en términos de interpretación, transparencia y ética de los algoritmos, que pueden reproducir sesgos y desigualdades si no se abordan adecuadamente (Bustelo, 2025; Pi et al., 2025). En ese contexto, la gobernanza algorítmica es un área de estudio que pretende entender y controlar cómo los algoritmos afectan la toma de decisiones, fomentando prácticas responsables, transparentes y justas (Katzenbach, &amp; Ulbricht, 2019).</p>
+      <p>Desde un punto de vista teórico, las aproximaciones socio-técnicas y la teoría del actor-red proveen marcos conceptuales para entender la integración de los algoritmos en las organizaciones. Estas teorías conciben los algoritmos no como meros artefactos técnicos, sino como actores que co-constituyen las prácticas organizacionales con los agentes humanos, creando redes sociotécnicas complejas en las que la agencia se distribuye entre humanos y máquinas (Jianu et al., 2025). Esta perspectiva desafía las formas convencionales de gobernanza, que tienden a enfocarse solo en la agencia humana, y permite repensar la gobernanza corporativa con agencia algorítmica como parte constitutiva de las relaciones, estructuras y procesos organizacionales.</p>
+      <p>La importancia de estudiar el papel de los algoritmos en el gobierno corporativo se vuelve más apremiante a medida que los sistemas algorítmicos se integran en funciones esenciales de las empresas, desde la gestión de riesgos y la toma de decisiones financieras hasta la dirección ejecutiva y la innovación (Babaei y Giudici, 2025; Ko, 2024; Singla et al., 2025a). Esta apropiación, si bien es prometedora en términos de eficiencia y competitividad, implica entender cómo los algoritmos interactúan con los actores humanos, cómo impactan las relaciones de poder y cómo pueden ser auditados y regulados para prevenir resultados no deseados, como la discriminación algorítmica o la pérdida de autonomía (Oladele, 2024).</p>
+      <p>En ese contexto, esta investigación busca examinar cómo los algoritmos se involucran en la gobernanza corporativa, tanto como instrumentos técnicos como actores con agencia. ¿Cómo los algoritmos se involucran y participan en las prácticas, relaciones y procesos decisionales de las organizaciones empresariales como herramientas o actores de cambio digital? Para dar respuesta a esta pregunta, se asumen enfoques teóricos desde la teoría del actor-red y la perspectiva socio-técnica, y se complementa con un análisis cualitativo de revisión documental.</p>
+      <p>El objetivo de este artículo es aportar a la comprensión crítica y multidimensional de la gobernanza algorítmica empresarial, reconociendo cómo los algoritmos moldean la estructura, la toma de decisiones y las relaciones de poder dentro de la empresa. Además, se busca comparar la teoría con casos estudiados en fuentes secundarias para plantear una nueva perspectiva de gobernanza organizacional que integre la agencia algorítmica y sus implicaciones éticas y estratégicas, así como los desafíos y oportunidades que presenta para la gestión en la era digital.</p>
+      <p>Esta investigación se suma a la corriente que reconoce la IA y los algoritmos como agentes transformadores de las organizaciones actuales, ofreciendo marcos conceptuales y análisis críticos para guiar una gobernanza responsable, transparente y eficaz en la era de la innovación tecnológica acelerada y compleja.</p>
+    </sec>
+    <sec>
+      <title>Revisión de Literatura y Marco Teórico</title>
+      <p>La gobernanza corporativa en la era de la transformación digital se ha visto impactada con la creciente presencia de algoritmos y sistemas de IA en los procesos de negocio. Este hecho requiere de un análisis profundo y desde diferentes perspectivas para entender cómo los algoritmos se desempeñan no solo como herramientas, sino como agentes con agencia en las organizaciones. Para ello, se apela a marcos teóricos que combinan perspectivas socio-técnicas y actor-red, así como estudios recientes que analizan la gobernanza algorítmica desde diferentes ángulos.</p>
+    </sec>
+    <sec>
+      <title>Digitalización y Sistemas Integrados de Gestión</title>
+      <p>La digitalización de los sistemas integrados de gestión (IMS) es un punto de partida para comprender la transformación organizacional habilitada por tecnologías digitales avanzadas, como la IA. Ahmed (2026) hace una revisión sistemática que muestra cómo la implementación de plataformas IMS digitales mejora la eficiencia operativa, la gestión de riesgos y la elaboración de informes ESG (ambientales, sociales y de gobernanza). Esta digitalización permite el monitoreo en tiempo real, el mantenimiento predictivo y los informes automatizados, superando los sistemas tradicionales y convirtiéndose en un pilar para la Industria 5.0. Desde la gobernanza, la digitalización permite la alineación estratégica con objetivos de sostenibilidad y mejora la transparencia y la confianza de las partes interesadas, una necesidad para la gestión organizacional actual.</p>
+    </sec>
+    <sec>
+      <title>Gobernanza Algorítmica: Conceptos y Desafíos Éticos</title>
+      <p>La gobernanza algorítmica es un tipo de gobernanza que coordina actores a través de reglas, las cuales codifican procedimientos epistemológicos complejos, los cuales son ejecutados por algoritmos computacionales. Y esto incluye prácticas, políticas y marcos legales para regular, supervisar y justificar el uso de algoritmos en la toma de decisiones del sector público y privado. A diferencia de la regulación tradicional, la gobernanza algorítmica da cuenta de la pluralidad de formas de orden social, incluidas las descentralizadas y no estatales, y de cómo los algoritmos moldean y codifican las interacciones sociales y las relaciones de poder (Katzenbach &amp; Ulbricht, 2019; Srivastava, 2021).</p>
+      <p>Este campo interdisciplinario trata con los problemas éticos, legales, sociales y técnicos que surgen de la automatización y la IA, como sesgos algorítmicos, discriminación, falta de transparencia y responsabilidad. Bustelo (2025) propone auditorías periódicas de sesgo para una gobernanza algorítmica transparente y justa, y hace hincapié en la distinción entre algoritmos, programas y datos para una supervisión eficaz. Además, argumenta que la gobernanza algorítmica necesita marcos legales y capacitación institucional para rectificar las decisiones automatizadas y generar confianza pública.</p>
+      <p>La discriminación algorítmica es bien tratada por Pi, Huang y Zhang (2025), quienes discuten las razones y los peligros de la caja negra algorítmica y los datos de entrenamiento sesgados. Sugieren una métrica para medir el riesgo de discriminación y una gobernanza colaborativa entre sociedad, empresas y gobierno para fortalecer marcos legales y alfabetización digital y así reducir los riesgos. Y esta mirada es fundamental para analizar cómo la agencia algorítmica afecta las relaciones organizacionales y sociales, ya sea reproduciendo desigualdades o fomentando la justicia social.</p>
+    </sec>
+    <sec>
+      <title>Teorías Socio-Técnicas y del Actor-Red en la Integración Algorítmica</title>
+      <p>Para entender cómo los algoritmos se integran en las organizaciones empresariales, el enfoque sociotécnico es útil, ya que explora la interacción entre factores sociales y tecnológicos en la creación de prácticas y estructuras organizacionales. Jianu, Tussyadiah y Miller (2025) argumentan que los sistemas de gestión algorítmica son ensamblajes co-creados por prácticas organizacionales. Recalcan que la humanización de la gestión algorítmica no está en el algoritmo como cosa, sino en la agencia humana, en la negociación interpretativa y resistente que lo reconfigura para mantener la autonomía, la discreción y la dignidad en el trabajo.</p>
+      <p>Así, lo algorítmico se entiende como un agente activo de gobernanza organizacional que construye relaciones de poder a través de formas estratégicas de visibilidad e invisibilidad, las cuales moldean las condiciones para que la gestión algorítmica se manifieste como más o menos humanizante.</p>
+      <p>Bruno Latour, en Reassembling the Social (2005), propone una mirada que puede enriquecer la comprensión de los algoritmos en las organizaciones desde la teoría del actor-red (ANT). Para Latour, los actores no son entidades estáticas, sino más bien flujos y objetos circulantes que se estabilizan gracias a muchas interacciones y experimentos. En este sentido, los algoritmos pueden considerarse agentes no humanos que participan en redes sociotécnicas complejas, en las que humanos y tecnologías se coconstituyen.</p>
+      <p>Esta perspectiva hace posible examinar cómo los algoritmos no son simples instrumentos, sino agentes con agencia distribuida que participan activamente en la toma de decisiones, ejecución y control en las organizaciones. La ANT, al dejar "plano" lo social y destacar la heterogeneidad y performatividad de las relaciones, ofrece un marco para pensar la gobernanza corporativa incluyendo la agencia algorítmica y reconociendo la naturaleza relacional y compleja de las redes organizacionales (Latour, 2005).</p>
+    </sec>
+    <sec>
+      <title>Agencia Algorítmica y Modelos de Toma de Decisiones</title>
+      <p>La agencia algorítmica revoluciona la noción de agencia, la cual siempre se ha asociado con la acción humana. Con la inteligencia artificial, los algoritmos se convierten en actores con poder real sobre los procesos decisorios, no como simples herramientas, sino como fuerzas que dan forma a las conductas y los resultados administrativos. Como señala Peeters (2020), esta agencia algorítmica trasciende el código informático, influyendo en la conductua de los seres humanos y cambiando la forma en que interactúan con las máquinas. Y ello impacta en el margen de discrecionalidad humana, ya que las decisiones automatizadas pueden llegar a restringir la capacidad de supervisión y revocación por parte de los profesionales, generando preocupaciones en términos de transparencia y rendición de cuentas en la administración pública, así como en la gestión algorítmica del trabajo (Jarrahi et al., 2021).</p>
+      <p>La caja negra técnica de muchos algoritmos, en particular los de aprendizaje automático, dificulta su comprensión y control, abriendo la puerta a nuevas formas de “gobernanza algorítmica” o “algocracia” que redefinen el poder y la responsabilidad. Como ya afirma Swarup (2025), la agencia debe entenderse como multiagente, en la que agentes humanos y algorítmicos definen los límites de la acción. Las desviaciones de agencia se dan manipulando las creencias, los deseos y los planes, lo que requiere modelos con cognición y autoevaluación para identificarlas. Así, la agencia algorítmica no solo ejecuta decisiones, sino que moldea el comportamiento humano y organizacional, necesitando enfoques interdisciplinarios que incorporen transparencia, supervisión humana y capacitación profesional para garantizar justicia y equidad en las decisiones apoyadas por IA.</p>
+    </sec>
+    <sec>
+      <title>Metodología</title>
+      <p>La investigación se ubica en el campo de la gobernanza organizacional y los algoritmos de cambio digital, buscando como objetivo general explorar el papel de los algoritmos en la gobernanza organizacional empresarial y cómo afectan las relaciones, estructuras y procesos internos para resignificar la gobernanza a través de la agencia algorítmica. La pregunta de investigación que aborda este estudio es: ¿Cómo los algoritmos se involucran en las prácticas, relaciones y procesos decisorios de las organizaciones empresariales como herramientas o actores del cambio digital?</p>
+      <p>Para ello, se asume una mirada socio-técnica y de actor-red que da cuenta de la integración de los algoritmos como actores técnicos y sociales en las organizaciones. En este sentido, el enfoque reconoce la co-constitución de las prácticas organizacionales y las tecnologías algorítmicas, dando agencia a los humanos y a las máquinas (Jianu et al., 2025). El diseño metodológico es cualitativo, exploratorio-descriptivo, buscando desarrollar una comprensión rica y contextualizada de los fenómenos estudiados. Se utiliza el método de análisis documental.</p>
+    </sec>
+    <sec>
+      <title>Análisis documental</title>
+      <p>Se hace una revisión de literatura científica, informes corporativos, leyes y casos de estudio sobre gobernanza algorítmica, digitalización de sistemas integrados de gestión, gestión de riesgos con IA y participación de algoritmos en la toma de decisiones corporativas. Esta revisión se apoya en literatura académica y técnica pertinente, como Ahmed (2026) en digitalización de sistemas integrados de gestión, Bustelo (2025) en auditoría de sesgos algorítmicos y Oladele (2024) en implicaciones éticas y de gobernanza de la IA en la toma de decisiones empresarial. Además, se abordan marcos teóricos y normativos internacionales y casos regulatorios como la ley californiana de transparencia en IA y la gobernanza algorítmica en China. La revisión documental identifica las principales teorías, prácticas y desafíos de la incorporación de algoritmos en la gobernanza organizacional y compararlos con evidencia empírica existente y regulaciones actuales.</p>
+      <p>La identificación y selección de fuentes siguió un proceso sistemático en dos fases. En la primera fase exploratoria, se utilizaron las plataformas ResearchRabbit y Consensus para mapear redes de citas e identificar autores clave e interconexiones temáticas. En la segunda fase de búsqueda sistemática, los hallazgos fueron verificados y ampliados mediante consultas directas en Scopus, Web of Science, Google Scholar y SciELO, empleando términos como "algorithmic governance", "AI corporate governance", "gobernanza algorítmica" y "agencia algorítmica", entre otros.</p>
+      <p>Se priorizaron publicaciones recientes, principalmente de los últimos cinco años, junto con referentes teóricos fundacionales anteriores. A partir de un universo aproximado de 250 documentos afines, se seleccionó un conjunto de fuentes pertinentes y se incorporaron al manuscrito aquellas referencias nucleares que sustentan directamente la pregunta de investigación, el marco teórico y la discusión del artículo.</p>
+      <table-wrap id="table1">
+        <label>Tabla 1</label>
+        <caption>
+          <p>Criterios de inclusión y exclusión para la selección de fuentes documentales</p>
+          <p>Nota. Elaboración propia con base en el diseño metodológico de la investigación.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th><italic>Criterio</italic></th>
+              <th><italic>Inclusión</italic></th>
+              <th><italic>Exclusión</italic></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><italic>Tipo de fuente</italic></td>
+              <td>Artículos peer-reviewed, libros académicos, informes de organizaciones especializadas, preprints en repositorios reconocidos</td>
+              <td>Editoriales, notas de opinión sin respaldo empírico, publicaciones sin revisión por pares</td>
+            </tr>
+            <tr>
+              <td><italic>Temática</italic></td>
+              <td>Algoritmos en contexto organizacional, gobernanza algorítmica, agencia algorítmica, IA en toma de decisiones corporativas</td>
+              <td>Artículos puramente técnicos sin enfoque de gobernanza u organizacional</td>
+            </tr>
+            <tr>
+              <td><italic>Temporalidad</italic></td>
+              <td>Publicaciones 2020-2026; referentes teóricos clásicos anteriores cuando fundamentan marcos conceptuales</td>
+              <td>Publicaciones anteriores a 2015 sin relevancia teórica fundacional</td>
+            </tr>
+            <tr>
+              <td><italic>Idioma</italic></td>
+              <td>Inglés y español prioritarios; otros idiomas en bases de indexación reconocidas</td>
+              <td>Fuentes en idiomas sin traducción verificable o en bases no indexadas</td>
+            </tr>
+            <tr>
+              <td><italic>Accesibilidad</italic></td>
+              <td>Documentos con DOI, URL accesible o disponibles en bases indexadas</td>
+              <td>Artículos sin DOI ni enlace accesible y no localizables</td>
+            </tr>
+            <tr>
+              <td><italic>Pertinencia</italic></td>
+              <td>Relación directa con la pregunta de investigación: algoritmos como herramientas y actores en gobernanza organizacional</td>
+              <td>Documentos tangencialmente relacionados sin aportar a la dualidad herramienta/actor</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec>
+      <title>Análisis de datos</title>
+      <p>Los datos cualitativos recolectados en el análisis documental fueron codificados y categorizados, siguiendo el método del análisis temático. Este método hace posible reconocer patrones, recurrencias y conflictos sobre la agencia de los algoritmos en las prácticas organizacionales, comparando las categorías emergentes con los marcos teóricos de gobernanza algorítmica, socio-técnico y teoría del actor-red. La comparación sistemática entre categorías y fuentes permitirá conocer mejor la agencia distribuida entre humanos y artefactos algorítmicos en procesos de decisión, control y coordinación organizacional.</p>
+      <p>Para fortalecer la validez analítica, se contrastó la información proveniente de distintos tipos de fuentes documentales (literatura científica, informes corporativos, legislación y estudios de caso de fuentes secundarias), buscando convergencias y divergencias entre las evidencias revisadas. Este proceso de contrastación documental pretende fortalecer la validez interpretativa de la investigación e identificar posibles sesgos o lagunas en la documentación. Además, se abordaron las formas de visibilidad e invisibilidad en los sistemas algorítmicos de toma de decisiones, en línea con perspectivas sociomateriales que cuestionan cómo ciertas cosas se hacen presentes y otras se ausentan en la gobernanza organizacional.</p>
+      <p>En suma, esta metodología cualitativa y multidimensional permitirá comprender en detalle cómo los algoritmos operan y participan en la gobernanza organizacional empresarial, en tanto que herramientas y actores sociotécnicos, para proponer una nueva mirada de la gobernanza en la era digital.</p>
+    </sec>
+    <sec>
+      <title>Herramientas y recursos de apoyo</title>
+      <p>Para manejar la cantidad de información revisada y mejorar la consistencia del análisis, se utilizaron diferentes herramientas digitales especializadas. Se usó como software de análisis cualitativo a MaxQDA para codificar, categorizar y visualizar patrones emergentes, sistematizando el material documental, comparando categorías y creando matrices temáticas. Esta herramienta permitió rastrear las decisiones analíticas y fortalecer la transparencia del proceso interpretativo. En particular, MaxQDA facilitó la generación de matrices de co-ocurrencia entre categorías temáticas y la visualización de frecuencias conceptuales en el corpus, lo que permitió identificar patrones recurrentes sobre agencia algorítmica y gobernanza organizacional con mayor precisión.</p>
+      <p>Además, se utilizaron plataformas de soporte con IA, de manera instrumental, para complementar el proceso de investigación. ResearchRabbit permitió mapear redes de citas a partir de artículos semilla, identificando autores clave y conexiones temáticas que orientaron la búsqueda sistemática. Consensus complementó este proceso al articular consensos y divergencias en la literatura sobre gobernanza algorítmica. Ambas herramientas facilitaron la localización de literatura relevante en bases indexadas mediante sugerencias algorítmicas y análisis de redes de citas.</p>
+      <p>Para la organización del corpus, se emplearon gestores PDF que permitieron tomar notas, marcar y clasificar las fuentes seleccionadas. Al mismo tiempo, se aprovecharon modelos generativos de lenguaje exclusivamente como asistentes de edición y corrección de estilo, mejorando la claridad, consistencia terminológica y fluidez del manuscrito, sin intervenir en el análisis interpretativo ni en la formulación de hallazgos.</p>
+      <p>Estas herramientas no sustituyeron el juicio académico, sino que fueron complementos que mejoraron el flujo de trabajo y la gestión documental. La interpretación, síntesis y conceptualización quedaron en manos del investigador, asegurando el rigor epistemológico y la honestidad intelectual.</p>
+    </sec>
+    <sec>
+      <title>Discusión</title>
+      <p>Esta investigación ha abordado el algoritmo como un agente en la gobernanza corporativa, tanto en su función como herramienta tecnológica como actor con agencia en las dinámicas, relaciones y procesos de decisión del cambio digital. Los resultados teóricos y conceptuales se combinan con las perspectivas y evidencias de la literatura científica consultada para reflexionar críticamente sobre la integración algorítmica en las organizaciones y sus implicaciones para la gobernanza actual.</p>
+      <p>Primero, la digitalización de los sistemas integrados de gestión (IMS) es un habilitador que redefine la gobernanza organizacional, aprovechando tecnologías digitales, incluida la IA, para optimizar la eficiencia operativa, la gestión de riesgos y la transparencia en la rendición de cuentas (Ahmed, 2026; Ispas et al., 2025; Tummalapalli et al., 2023). Esto muestra cómo los algoritmos no son solo automatizadores, sino que crean nuevas formas de interacción entre humanos y algoritmos para monitorear en tiempo real y tomar decisiones basadas en datos. La digitalización de IMS, al favorecer la alineación estratégica con objetivos de sostenibilidad y economía circular, implica una transformación en la estructura y cultura organizativa que integre la agencia algorítmica como parte de la gobernanza corporativa.</p>
+      <p>La teoría socio-técnica y la perspectiva actor-red que informan esta investigación se alinean con el análisis sociomaterial de los sistemas de gestión algorítmica, en los que la agencia no está localizada en los algoritmos ni en los humanos, sino en su co-constitución en prácticas organizacionales situadas (Jianu et al., 2025). La humanización de los sistemas algorítmicos como resultado emergente de la interacción entre capacidades tecnológicas y marcos normativos institucionales puede mantener la discrecionalidad y autonomía laboral y prevenir riesgos de deshumanización y pérdida de control. Énfasis en concebir los algoritmos como agentes con agencia restringida, pero relevante, que moldean las relaciones de poder y la gobernanza organizacional (Catapang &amp; Ashipaoloye, 2024).</p>
+      <p>En la toma de decisiones, la IA explicable (XAI) es un paso metodológico para resolver el trade-off clásico entre exactitud predictiva y transparencia, permitiendo tomar decisiones más informadas y responsables (Babaei y Giudici, 2025). El uso de modelos explicativos, como los valores de Shapley, ayuda a explicar la contribución de variables financieras en la estimación del riesgo y rendimiento esperado, siendo útil para la gobernanza financiera y la gestión estratégica en empresas, sobre todo en pymes. Ello refuerza la noción de que los algoritmos no son meros instrumentos de cálculo, sino agentes que participan en la creación de conocimiento y en la toma de decisiones, con consecuencias para la rendición de cuentas y la transparencia en las organizaciones.</p>
+      <p>Pero la introducción de algoritmos en la gobernanza corporativa también abre la puerta a preocupaciones éticas y de sesgo que deben abordarse. La literatura de auditoría de sesgos algorítmicos destaca que, a pesar de su promesa de objetividad y eficiencia, los algoritmos pueden reproducir o incluso agravar desigualdades y discriminaciones por la calidad de los datos, las elecciones de diseño y la falta de transparencia (Bustelo, 2025; Pi et al., 2025). La gobernanza algorítmica transparente requiere marcos regulatorios, auditorías independientes y capacitación institucional para monitorear y rectificar las decisiones automatizadas, transformando las prácticas de gestión y control de las organizaciones. Esta faceta ética es esencial para legitimar la agencia algorítmica y asegurar que su rol en la gobernanza no sacrifique la justicia social y la confianza pública.</p>
+      <p>En línea con ello, la responsabilidad algorítmica y la rendición de cuentas son puntos clave en la gobernanza de tecnologías digitales, como ilustra la campaña gubernamental china para regular algoritmos y crear un ecosistema más justo y transparente (Li, Fan, &amp; Nie, 2025). Estas acciones responden a la necesidad de ajustar la innovación tecnológica a la protección social, problema que también enfrentan las empresas, cuya gobernanza debe incorporar mecanismos de garantía de equidad, seguridad y ética en el uso de algoritmos. La gobernanza algorítmica, por tanto, no es solo una cuestión técnica, sino la creación de marcos sociales y políticos que gobiernen la agencia de los algoritmos en aras del bien común (Schuett et al., 2025).</p>
+    </sec>
+    <sec>
+      <title>Conclusiones</title>
+      <p>El estudio de los algoritmos en la gobernanza corporativa revela que estos no son simples instrumentos, sino agentes con agencia en las prácticas organizacionales. Esta dualidad impacta las relaciones, estructuras y procesos de toma de decisiones en las organizaciones, creando una nueva forma de gobernanza algorítmica que necesita ser entendida desde perspectivas socio-técnicas y actor-red.</p>
+      <p>En primer lugar, la incorporación de algoritmos en los sistemas de gestión, principalmente en los contextos de transformación digital y sistemas integrados de gestión (IMS), ha mejorado la eficiencia, la gestión de riesgos y la transparencia, apoyando la excelencia operativa y la sostenibilidad corporativa. Pero esta integración también abre la puerta a desafíos relacionados con la calidad de los datos, la interpretación de modelos algorítmicos y la necesidad de una cultura organizacional para su uso responsable.</p>
+      <p>En segundo lugar, el uso de teorías actor-red y enfoques socio-técnicos ha ayudado a entender cómo los algoritmos co-constituyen las prácticas organizacionales con los actores humanos, creando relaciones de poder y modos de visibilidad e invisibilidad que impactan la toma de decisiones y la ejecución de procesos. Esta co-constitución significa que la agencia algorítmica no es una característica inherente a la tecnología, sino algo que emerge de la interacción entre personas, reglas institucionales y artefactos tecnológicos.</p>
+      <p>Además, la evidencia de los documentos analizados muestra que los algoritmos están involucrados en la gobernanza corporativa, no solo como herramientas de automatización, sino como actores que moldean las políticas internas, supervisan los procesos y evalúan los riesgos. Pero esta implicación algorítmica necesita marcos regulatorios y auditorías de transparencia, justicia y responsabilidad, por el riesgo de sesgos y discriminación en los sistemas automatizados.</p>
+      <p>Por otro lado, la gobernanza algorítmica es un campo multidisciplinario que abarca dimensiones técnicas, éticas, legales y sociales, en el que diseñadores, gerentes y reguladores tienen la responsabilidad de prevenir riesgos y promover un desarrollo tecnológico justo y sostenible. En esta línea, la creación de órganos de ética y auditorías especializadas se vuelve una práctica necesaria para garantizar que la agencia algorítmica beneficie la gobernanza organizacional.</p>
+      <p>En última instancia, la reformulación de la gobernanza organizacional con agencia algorítmica requiere reimaginar las estructuras tradicionales de poder y control, fomentando modelos colaborativos y adaptativos donde la IA sea un socio en la toma de decisiones. Esta perspectiva abre caminos para investigar cómo la agencia algorítmica puede humanizarse y contextualizarse para proteger la autonomía y la dignidad de los actores humanos y mejorar la resiliencia y la innovación organizacional en la era digital.</p>
+      <p>En resumen, este trabajo proporciona un marco teórico para entender la interacción entre algoritmos y humanos en la gobernanza corporativa y enfatiza la necesidad de modelos integrales que consideren la agencia algorítmica y fomenten una gobernanza ética, transparente y sostenible en la era digital. Vale la pena seguir trabajando en la articulación entre teoría y práctica y en la traducción en políticas públicas y estrategias organizacionales para una gobernanza algorítmica responsable.</p>
+    </sec>
+    <sec>
+      <title>Limitaciones</title>
+      <p>Esta investigación tiene algunas limitaciones propias de su diseño y alcance que deben tenerse en cuenta para interpretar correctamente sus resultados. Primero, la investigación es de abordaje cualitativo exploratorio-descriptivo, sustentado en la revisión documental. Si bien este método profundiza en el conocimiento conceptual y teórico de la función de los algoritmos en la gobernanza corporativa, restringe la generalización de los resultados a otros contextos corporativos más amplios o distintos, ya que carece de datos cuantitativos y análisis estadísticos para confirmar empíricamente las relaciones planteadas (Ahmed, 2026; Jianu et al., 2025).</p>
+      <p>Segundo, la elección de fuentes y casos se limita a literatura y evidencia disponible hasta 2025, por lo que los desarrollos tecnológicos y regulatorios posteriores podrían alterar o ampliar las dinámicas estudiadas. Además, la dispersión en la adopción y sofisticación de tecnologías algorítmicas entre sectores y geografías puede introducir variaciones no consideradas en este trabajo (Singla et al., 2025a; Singla et al., 2025b).</p>
+      <p>Además, la caja negra algorítmica —sesgos y falta de transparencia— dificultan su análisis en profundidad y de manera crítica, ya que muchas organizaciones niegan el acceso a información confidencial o propietaria, imposibilitando su auditoría y evaluación externa (Bustelo, 2025; Pi et al., 2025). Esta restricción impacta la capacidad de poner a prueba la teoría de gobernanza algorítmica con evidencia empírica fuerte.</p>
+      <p>Finalmente, la perspectiva socio-técnica y la teoría del actor-red que aquí se abrazan logran enriquecer la comprensión de la agencia algorítmica, pero pueden descuidar otros factores organizacionales, culturales o políticos que moldean la gobernanza corporativa, lo que exige futuros trabajos interdisciplinarios que combinen métodos cuantitativos y cualitativos para obtener una visión más completa (Swarup, 2025).</p>
+      <p>En definitiva, estas restricciones implican que los hallazgos se interpreten como una conceptualización exploratoria que abre la puerta a futuras investigaciones con metodologías mixtas y muestras más amplias para fortalecer la evidencia sobre cómo algoritmos y gobernanza organizacional interactúan en la transformación digital.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>Referencias</title>
+      <ref id="ref1">
+        <mixed-citation>Ahmed, S. (2026). Digitalization of integrated management systems for operational efficiency: Insights from industry and sustainability reports–A systematic review. <italic>European Journal of Sustainable Development Research, 10</italic>(1), em0347. <ext-link xlink:href="https://doi.org/10.29333/ejosdr/17284" ext-link-type="uri">https://doi.org/10.29333/ejosdr/17284</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>Babaei, G., &amp; Giudici, P. (2025). Explainable artificial intelligence (XAI) in investment decision-making. <italic>Academia AI and Applications, 1</italic>(1). <ext-link xlink:href="https://doi.org/10.20935/AcadAI8017" ext-link-type="uri">https://doi.org/10.20935/AcadAI8017</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>Bustelo Gracia, J. L. (2025). Hacia una gobernanza algorítmica transparente: Auditoría de sesgo. Estudio de caso. <italic>Cuadernos de Gobierno y Administración Pública, 12</italic>(1), e97604. <ext-link xlink:href="https://doi.org/10.5209/cgap.97604" ext-link-type="uri">https://doi.org/10.5209/cgap.97604</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>Carvão, P. (2025, 16 octubre). ¿Es la IA un boom o una burbuja? <italic>Harvard Business Review</italic>. <ext-link xlink:href="https://hbr.org/2025/10/is-ai-a-boom-or-a-bubble?language=es" ext-link-type="uri">https://hbr.org/2025/10/is-ai-a-boom-or-a-bubble?language=es</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>Catapang, C. D. E., &amp; Ashipaoloye, F. K. (2024). Organizational resilience, balanced scorecard, performance excellence: Model for organizational sustainability. <italic>European Proceedings of Social and Behavioural Sciences</italic>. <ext-link xlink:href="https://doi.org/10.15405/epsbs.2024.05.3" ext-link-type="uri">https://doi.org/10.15405/epsbs.2024.05.3</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>Ispas, L., Mironeasa, C., Severin, T.-L., Cerlincă, D.-A., &amp; Mironeasa, S. (2025). Artificial intelligence applications in risk management within integrated management systems: A review. <italic>Systems, 13</italic>(11), 967. <ext-link xlink:href="https://doi.org/10.3390/systems13110967" ext-link-type="uri">https://doi.org/10.3390/systems13110967</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>Jarrahi, M. H., Newlands, G., Lee, M. K., Wolf, C. T., Kinder, E., &amp; Sutherland, W. (2021). Algorithmic management in a work context. <italic>Big Data &amp; Society, 8</italic>(2), 1–14. <ext-link xlink:href="https://doi.org/10.1177/20539517211020332" ext-link-type="uri">https://doi.org/10.1177/20539517211020332</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>Jianu, B., Tussyadiah, I. P., &amp; Miller, G. (2025). Humanising algorithmic management systems. <italic>Annals of Tourism Research, 115</italic>, 104021. <ext-link xlink:href="https://doi.org/10.1016/j.annals.2025.104021" ext-link-type="uri">https://doi.org/10.1016/j.annals.2025.104021</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>Katzenbach, C., &amp; Ulbricht, L. (2019). <italic>Algorithmic governance.</italic> <italic>Internet Policy Review, 8</italic>(4). <ext-link xlink:href="https://doi.org/10.14763/2019.4.1424" ext-link-type="uri">https://doi.org/10.14763/2019.4.1424</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>Kellogg, K. C., Valentine, M., &amp; Christin, A. (2020). Algorithms at work: The new contested terrain of control. <italic>Academy of Management Annals</italic>. <ext-link xlink:href="https://doi.org/10.5465/annals.2018.0174" ext-link-type="uri">https://doi.org/10.5465/annals.2018.0174</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>Ko, J. (2024). Robots in the C-suite: AI and corporate governance. <italic>SSRN</italic>. <ext-link xlink:href="https://doi.org/10.2139/ssrn.5086717" ext-link-type="uri">https://doi.org/10.2139/ssrn.5086717</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>Latour, B. (2005). <italic>Reassembling the social: An introduction to actor-network-theory</italic>. Oxford University Press. <ext-link xlink:href="https://doi.org/10.1093/oso/9780199256044.001.0001" ext-link-type="uri">https://doi.org/10.1093/oso/9780199256044.001.0001</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>Li, Y., Fan, Y., &amp; Nie, L. (2025). Making governance agile: Exploring the role of artificial intelligence in China’s local governance. <italic>Public Policy and Administration, 40</italic>(2), 276–301. <ext-link xlink:href="https://doi.org/10.1177/09520767231188229" ext-link-type="uri">https://doi.org/10.1177/09520767231188229</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>Oladele, I., Orelaja, A., &amp; Akinwande, O. T. (2024). Ethical implications and governance of artificial intelligence in business decisions: A deep dive into ethical challenges and governance issues in critical business decisions. <italic>International Journal of Latest Technology in Engineering, Management &amp; Applied Science, 13</italic>(2), 48–54. <ext-link xlink:href="https://doi.org/10.51583/ijltemas.2024.130207" ext-link-type="uri">https://doi.org/10.51583/ijltemas.2024.130207</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>Peeters, R. (2020). The agency of algorithms: Understanding human-algorithm interaction in administrative decision-making. <italic>Information Polity</italic>, 1–16. <ext-link xlink:href="https://doi.org/10.3233/IP-200253" ext-link-type="uri">https://doi.org/10.3233/IP-200253</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>Pi, D., Huang, Q., &amp; Zhang, X. (2025). Investigación sobre el riesgo y la gobernanza de la discriminación algorítmica en la era de la inteligencia artificial. <italic>Avances en Ciencias Sociales, 14</italic>, 510. <ext-link xlink:href="https://doi.org/10.12677/ass.2025.145420" ext-link-type="uri">https://doi.org/10.12677/ass.2025.145420</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>Schuett, J., Reuel, A. K., &amp; Carlier, A. (2025). How to design an AI ethics board. <italic>AI and Ethics, 5</italic>(2), 863–881. <ext-link xlink:href="https://doi.org/10.1007/s43681-023-00409-y" ext-link-type="uri">https://doi.org/10.1007/s43681-023-00409-y</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>Singla, A., Sukharevsky, A., Yee, L., Chui, M., Hall, B., &amp; Balakrishnan, T. (2025a). The state of AI in 2025: Agents, innovation, and transformation. <italic>QuantumBlack, McKinsey &amp; Company</italic>. <ext-link xlink:href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai" ext-link-type="uri">https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>Singla, A., Sukharevsky, A., Yee, L., Chui, M., &amp; Hall, B. (2025b). The state of AI: How organizations are rewiring to capture value. <italic>McKinsey &amp; Company</italic>. <ext-link xlink:href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai" ext-link-type="uri">https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>Srivastava, S. (2021). Gobernanza algorítmica y política internacional de las grandes tecnológicas. <italic>Perspectivas sobre la Política, 21</italic>(3), 989–1000. <ext-link xlink:href="https://doi.org/10.1017/S1537592721003145" ext-link-type="uri">https://doi.org/10.1017/S1537592721003145</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>Swarup, S. (2025). Agency in the age of AI. arXiv preprint arXiv:2502.00648. Consultado en: <ext-link xlink:href="https://arxiv.org/abs/2502.00648" ext-link-type="uri">https://arxiv.org/abs/2502.00648</ext-link> <ext-link xlink:href="https://arxiv.org/pdf/2502.00648" ext-link-type="uri">https://arxiv.org/pdf/2502.00648</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>Tummalapalli, H. K., Rao, A. N., Kamal, G., Kumari, N., &amp; Swarup Kumar, J. N. V. R. (2023). Exploring AI-driven management: Impact on organizational performance, decision making, efficiency, and employee engagement. <italic>Journal of Advanced Research in Applied Sciences and Engineering Technology, 52</italic>(2), 148–163. <ext-link xlink:href="https://doi.org/10.37934/araset.52.2.148163" ext-link-type="uri">https://doi.org/10.37934/araset.52.2.148163</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation><bold>Licencia:</bold> Esta obra está protegida bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
