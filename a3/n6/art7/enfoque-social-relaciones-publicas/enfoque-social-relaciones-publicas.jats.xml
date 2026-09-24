@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="es" dtd-version="1.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">gespye</journal-id>
+      <journal-title-group>
+        <journal-title>GESPYE Gestión Pública y Empresarial</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">3061-8630</issn>
+      <publisher>
+        <publisher-name>Universidad de Guadalajara</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.32870/gespye.vi6.7</article-id>
+      <title-group>
+        <article-title>El enfoque social de las relaciones públicas ante la inteligencia artificial: retos éticos en América Latina</article-title>
+        <trans-title-group xml:lang="en">
+          <trans-title>The social approach of public relations to artificial intelligence: ethical challenges in Latin America</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-2279-7324</contrib-id>
+          <name>
+            <surname>Flores Mayorga</surname>
+            <given-names>Marco Tulio</given-names>
+          </name>
+          <email>marco.flores5037@academicos.udg.mx</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0370-7891</contrib-id>
+          <name>
+            <surname>Arámburo Lizárraga</surname>
+            <given-names>Jesús</given-names>
+          </name>
+          <email>jaramburo@cucea.udg.mx</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0004-4330-4191</contrib-id>
+          <name>
+            <surname>Jiménez Meza</surname>
+            <given-names>Ana Rosa</given-names>
+          </name>
+          <email>ana.jmeza@academicos.udg.mx</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5397-4066</contrib-id>
+          <name>
+            <surname>Rivera Lima</surname>
+            <given-names>Lizette</given-names>
+          </name>
+          <email>lizette.lima@cucea.udg.mx</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">Universidad de Guadalajara</aff>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>20</day>
+        <month>06</month>
+        <year>2026</year>
+      </pub-date>
+      <volume>3</volume>
+      <issue>6</issue>
+      <fpage>112</fpage>
+      <lpage>123</lpage>
+      <self-uri xlink:href="https://articulos.gespye.mx/a3/n6/art7/enfoque-social-relaciones-publicas/"/>
+      <self-uri content-type="pdf" xlink:href="https://articulos.gespye.mx/a3/n6/art7/enfoque-social-relaciones-publicas/enfoque-social-relaciones-publicas.pdf"/>
+      <abstract xml:lang="es">
+        <p>El enfoque social de las relaciones públicas se fundamenta en la premisa de que esta disciplina no puede existir sin democracia, pues su legitimidad depende de la participación ciudadana y la transparencia institucional. En este sentido, las relaciones públicas deben trascender su dimensión técnica y corporativa para convertirse en una práctica crítica, ética y comunitaria. Los roles del profesional reflejan distintas formas de interacción con la sociedad, algunos privilegian intereses corporativos y el statu quo, mientras que otros promueven el cambio social, el debate público y el entendimiento mutuo. En América Latina, se perfila un modelo propio caracterizado por ser social y ético, más cercano al activismo que a la técnica, integrando responsabilidad social, inclusión y sostenibilidad como ejes centrales. La irrupción de la inteligencia artificial (IA) añade un nuevo componente que puede fortalecer la transparencia, la inclusión digital y la escucha activa, pero también plantea riesgos como sesgos algorítmicos, manipulación informativa y deshumanización de la comunicación. En conclusión, el enfoque social exige formar profesionales capaces de ser líderes comunitarios, activistas éticos y mediadores democráticos, especialmente en contextos latinoamericanos donde la diversidad cultural y las desigualdades estructurales demandan sensibilidad intercultural.</p>
+      </abstract>
+      <kwd-group xml:lang="es">
+        <kwd>Relaciones públicas</kwd>
+        <kwd>Enfoque social</kwd>
+        <kwd>Teoría de la excelencia</kwd>
+        <kwd>Activismo comunitario</kwd>
+        <kwd>Inteligencia artificial</kwd>
+      </kwd-group>
+      <trans-abstract xml:lang="en">
+        <p>The social approach to public relations is based on the premise that this discipline cannot exist without democracy, as its legitimacy depends on citizen participation and institutional transparency. In this sense, public relations must transcend its technical and corporate dimension to become a critical, ethical, and community-oriented practice. The roles of the professional reflect different forms of interaction with society; some prioritize corporate interests and the status quo, while others promote social change, public debate, and mutual understanding. In Latin America, a distinct model is emerging, characterized by its social and ethical nature, closer to activism than to technical expertise, and integrating social responsibility, inclusion, and sustainability as central pillars. The emergence of artificial intelligence (AI) adds a new component that can strengthen transparency, digital inclusion, and active listening, but it also poses risks such as algorithmic bias, information manipulation, and the dehumanization of communication. In conclusion, the social approach requires training professionals capable of being community leaders, ethical activists, and democratic mediators, especially in Latin American contexts where cultural diversity and structural inequalities demand intercultural sensitivity.</p>
+      </trans-abstract>
+      <kwd-group xml:lang="en">
+        <kwd>Public relations</kwd>
+        <kwd>social approach</kwd>
+        <kwd>Excellence theory</kwd>
+        <kwd>Community activism</kwd>
+        <kwd>Artificial intelligence</kwd>
+      </kwd-group>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>03</month>
+          <year>2026</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>05</month>
+          <year>2026</year>
+        </date>
+      </history>
+      <permissions>
+        <license xlink:href="https://creativecommons.org/licenses/by-sa/4.0/">
+          <license-p>Esta obra está protegida bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.</license-p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introducción</title>
+      <p>Las relaciones públicas deben redefinir su papel en una sociedad marcada por la automatización de la comunicación y la irrupción de la inteligencia artificial (IA). De manera tradicional, la disciplina se ha debatido entre modelos técnicos y corporativos como el agente de prensa o la información pública, y enfoques críticos que buscan fortalecer la democracia y el interés público (Grunig &amp; White, 1992; Holtzhausen, 2016). Sin embargo, en el contexto digital actual, la IA no puede comprenderse exclusivamente como innovación técnica ni como un conjunto de herramientas neutrales. En el campo de la automatización de la comunicación debe intervenir directamente en la construcción social de la verdad, en la producción de autoridad epistémica y en la definición de lo visible y lo verificable en el espacio público digital (Limia y López, 2026). Esto plantea una problemática central: ¿cómo garantizar que las relaciones públicas mantengan un enfoque social y ético en un entorno mediado por algoritmos? El estudio del enfoque social de las relaciones públicas resulta urgente porque la IA redefine las dinámicas de poder en la comunicación. Los algoritmos deciden qué narrativas se amplifican y cuáles se invisibilizan, funciones que afectan la deliberación democrática y la pluralidad de voces. En este escenario, el profesional de relaciones públicas debe asumir un rol crítico, capaz de mediar entre tecnología y sociedad, además de garantizar que la automatización se utilice para fortalecer la transparencia, la inclusión y la justicia comunicativa. En América Latina, donde persisten desigualdades estructurales y diversidad cultural, la incorporación de la IA exige un marco ético que evite reproducir sesgos y exclusiones. El objetivo de este trabajo es analizar cómo la inteligencia artificial redefine el enfoque social de las relaciones públicas, así como identificar aportes y riesgos para el ejercicio de la profesión. Se busca demostrar que la IA puede ser un facilitador del diálogo democrático y amplificador de voces diversas, siempre que se utilice bajo principios éticos y con un compromiso hacia la comunidad. Este análisis forma parte de la línea de investigación Sociología de las Profesiones en comunicación y relaciones públicas de la Universidad de Guadalajara.</p>
+    </sec>
+    <sec>
+      <title>Revisión de la literatura</title>
+      <p>Para comprender el alcance del enfoque social de las relaciones públicas es necesario revisar su trayectoria epistemológica. Históricamente, la construcción occidental de la disciplina ha estado determinada por una matriz funcionalista, de carácter pragmático y anglosajón. Desde sus orígenes teóricos en los Estados Unidos a mediados del siglo XX, la investigación de la disciplina se estructuró bajo una lógica instrumental pensada para legitimar y defender los intereses de las grandes corporaciones frente a los cuestionamientos del entorno (L’Etang, 2009). Esta visión fundacional, arraigada en modelos lineales de transmisión de información, redujo la práctica profesional a una mera técnica de difusión y persuasión asimétrica, cuyo objetivo prioritario era la optimización del rendimiento comercial y el aseguramiento del <italic>statu quo</italic> organizativo (Heide et al., 2018). Como consecuencia, la literatura dominante tendió a ignorar el impacto social, ético y democrático de los procesos comunicativos, limitando el campo a una función de soporte gerencial subordinada a la alta dirección corporativa.</p>
+      <p>A pesar de la hegemonía de este enfoque gerencialista global, la asimilación de la disciplina en los entornos latinoamericanos exigió una traducción crítica debido a las realidades estructurales de la región. En el escenario mexicano, por ejemplo, Contreras y Garibay (2020) señalan que, si bien la institucionalización de la comunicación en el país y el resto del continente estuvo inicialmente influenciada, por las lógicas operativas del mercado estadounidense, la literatura regional comenzó a manifestar un distanciamiento gradual hacia enfoques con un sentido humano y ético, frente a la mirada utilitarista que concibe a los públicos únicamente como consumidores o receptores pasivos. Ante ello, la perspectiva latinoamericana contemporánea ha buscado redefinir el rol de la disciplina, aproximándola a una práctica social integrada, donde las relaciones públicas se asimilan no como un instrumento de dominación corporativa, sino como una plataforma para la co-construcción de identidades y la justicia social en comunidades vulnerables.</p>
+      <p>Esta búsqueda de un sentido social e integral frente a la mirada utilitarista anglosajona permite clasificar la práctica profesional en la región, a través de una tipología de roles diferenciados. Mientras que los perfiles pragmáticos y conservadores continúan alineados al <italic>statu quo</italic> corporativo, los roles radicales e idealistas emergen como una necesidad de generar un diálogo más cercano y beneficioso para la comunidad (Grunig y White, 1992). Estos mismos autores reconocen que las relaciones públicas excelentes deben ser simétricas, críticas e idealistas, alejadas de modelos asimétricos o meramente técnicos que reducen la práctica a la persuasión unilateral. El modelo simétrico bidireccional se concibe como un proceso de negociación y compromiso, más efectivo a largo plazo para las organizaciones y la sociedad. El profesional de relaciones públicas puede desempeñar distintos roles sociales, entre ellos: el rol pragmático que suele defender los intereses comerciales en un mercado de ideas; el rol conservador como protector del <italic>statu quo</italic> y de privilegios económicos y políticos; mientras que el rol radical promueve cambios sociales mediante información y debate público, y el rol idealista busca el interés público, el entendimiento mutuo y la colaboración. A estos se suman enfoques neutrales y críticos, que analizan motivaciones organizacionales y cuestionan las consecuencias sociales de la práctica.</p>
+      <p>Holtzhausen (2016) sostiene que el profesional debe actuar como agente de cambio, al denunciar injusticias y transformar las organizaciones en instituciones más democráticas. Este enfoque reconoce que las relaciones públicas no pueden limitarse al ámbito corporativo, sino que deben atender las necesidades de comunidades diversas, multiétnicas y multilingües. En este sentido, propone liberar a las relaciones públicas de su definición estrecha como gestión organizacional y convertirlas en herramientas de activismo comunitario y política radical.</p>
+      <p>En el ámbito europeo, Gregory y Willys (2013) plantean que el líder estratégico en relaciones públicas debe desempeñar cuatro funciones complementarias; una de ellas es el orientador social. Aquí el comunicador protege la legitimidad de la organización mediante la interacción con públicos objetivos, para sostener la confianza en la marca. El rol de Navegador corporativo, se caracteriza por fungir como consejero de la alta dirección, ayudando a tomar decisiones equilibradas que resguarden los intereses de los miembros de la organización y preserven sus valores fundamentales. El tercer rol es conocido como catalizador en la cadena de valor, porque integra a todos los grupos de interés, incluidos activistas y comunidades digitales. Su objetivo es generar una comunicación efectiva de acuerdo con sus necesidades y expectativas. Finalmente, el rol de implementador funcional desempeña tareas técnicas como la planificación de programas y campañas, además de asesorar a otras áreas organizacionales en materia comunicativa. Para un mejor entendimiento, en la tabla 1 se observa la relación entre ambos modelos.</p>
+      <table-wrap id="table1">
+        <label>Tabla 1:</label>
+        <caption>
+          <p>Comparación de modelos</p>
+          <p>Fuente: elaboración propia (2026) con asistencia del modelo de lenguaje Copilot.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th><bold>Modelo de Grunig (1992)</bold></th>
+              <th><bold>Modelo 4x4 de Gregory y Willys (2013)</bold></th>
+              <th><bold>Correspondencia y relación</bold></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Rol idealista: busca el interés público, el entendimiento mutuo y la colaboración.</td>
+              <td>Orientador social: protege la legitimidad de la organización mediante la interacción con públicos objetivos.</td>
+              <td>Ambos enfatizan la legitimidad y confianza como base de la práctica, vinculando la organización con la sociedad.</td>
+            </tr>
+            <tr>
+              <td>Rol simétrico bidireccional: comunicación crítica y negociada entre organización y públicos.</td>
+              <td>Navegador corporativo: asesora a la gerencia para tomar decisiones equilibradas y preservar valores organizacionales.</td>
+              <td>Coinciden en la mediación estratégica, equilibrando intereses internos y externos.</td>
+            </tr>
+            <tr>
+              <td>Rol radical: promueve cambios sociales mediante información y debate público.</td>
+              <td>Catalizador en la cadena de valor: integra a todos los grupos de interés, incluidos activistas y comunidades digitales.</td>
+              <td>Ambos buscan la inclusión de actores sociales y la transformación democrática de la comunicación.</td>
+            </tr>
+            <tr>
+              <td>Rol pragmático/técnico: ejecución de tareas operativas en beneficio de la organización.</td>
+              <td>Implementador funcional: planifica campañas y asesora áreas internas en comunicación.</td>
+              <td>Se relacionan en la dimensión instrumental y operativa, necesaria para sostener la práctica.</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>El modelo 4x4 complementa la teoría de la excelencia al ofrecer una visión más operativa y estratégica de los roles del profesional. Mientras que Grunig y White enfatizan la simetría y el interés público<bold>,</bold> Gregory y Willys detallan cómo esos principios se traducen en funciones concretas dentro de la organización y en su relación con los públicos. Ambos modelos coinciden en que el profesional de las relaciones públicas debe ser mediador crítico y ético<bold>,</bold> capaz de equilibrar intereses corporativos con las demandas sociales en entornos cada vez más complejos y digitalizados.</p>
+      <p>En lo que respecta a América Latina, la orientación profesional que privilegia las relaciones públicas consiste en centrarse en la ciudadanía (Quintana-Pujalte et al. 2018) y en la participación social en escenarios de crisis. Asimismo, Pradana (2024) destaca la necesidad de una corriente latinoamericana sensible a las particularidades culturales y socioeconómicas de la región. En la tabla 2 se muestran algunas características de los roles</p>
+      <table-wrap id="table2">
+        <label>Tabla 2:</label>
+        <caption>
+          <p>Caracterización epistemológica y desafíos del rol profesional de las Relaciones Públicas en América Latina.</p>
+          <p>Fuente: Elaboración propia a partir del corpus documental analizado y con asistencia del modelo de lenguaje Copilot.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th><bold>Dimensión Geográfica / Autoría</bold></th>
+              <th><bold>Características Esenciales del Rol Profesional</bold></th>
+              <th><bold>Retos, Tendencias y Tensiones Clave</bold></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><bold>Ámbito Regional</bold> <italic>(Álvarez-Nobell et al., 2021; Molleda et al., 2010; Almansa-Martínez y Fernández-Souto, 2020)</italic></td>
+              <td>Ofrece asesoría especializada en materia de ética, responsabilidad social y bienestar del empleado. Actúa como la "conciencia social" dentro del entorno institucional. El Tercer Sector (ONG) demuestra mayor capacidad de resiliencia y manejo de crisis complejas (v.g. Pandemia).</td>
+              <td>Alta preocupación por riesgos de ciberseguridad, bots y la gestión del <italic>Big Data</italic> (3 de cada 5 profesionales). Brechas técnicas: 50% requiere capacitación urgente en análisis de datos y 33% en habilidades de gestión estratégica.</td>
+            </tr>
+            <tr>
+              <td><bold>Uruguay</bold> <italic>(Arzuaga-Williams, 2020)</italic></td>
+              <td>Rol Gerencial<bold>:</bold> Centrado de forma exclusiva en el diseño de políticas comunicativas y toma de decisiones corporativas. Rol Ejecutivo: Orientado a la gestión táctica y operación técnica de los recursos institucionales.</td>
+              <td>• Necesidad imperativa de robustecer el rol gerencial para incrementar la influencia del comunicador en los comités organizacionales de alta dirección (<italic>C-Suite</italic>).</td>
+            </tr>
+            <tr>
+              <td><bold>Colombia</bold> <italic>(Molleda y Suárez, 2003; Confiarp, 2004)</italic></td>
+              <td>Autopercepción del comunicador orientada plenamente a actuar como un agente activo de transformación social en su entorno.</td>
+              <td>Tensión identitaria: Existe un rechazo explícito a asumirse de forma individual como la "conciencia" de la organización, lo cual confronta con el mandato tradicional de los códigos éticos de ser un "fiel custodio" corporativo.</td>
+            </tr>
+            <tr>
+              <td><bold>Brasil</bold> <italic>(Krohling-Kunsch, 2004; Molleda y Ferguson, 2004)</italic></td>
+              <td>Consolidación de cuatro macrorroles: ética, responsabilidad social, armonía con el gobierno y bienestar de la comunidad. Mayor desarrollo estratégico en el ámbito privado.</td>
+              <td>Brechas de jerarquía y género: Las mujeres profesionales manifiestan un alto interés en roles comunitarios, pero registran una menor probabilidad histórica de acceder a puestos estratégicos de gobernanza.</td>
+            </tr>
+            <tr>
+              <td><bold>México</bold> <italic>(Lavalle, 1997; Edelman, 2019)</italic></td>
+              <td>Perfil condicionado por entornos estructurales complejos (inflación, desempleo, escasez y desigualdad). Exige un rol que armonice la realidad humana y comunitaria con las demandas de productividad empresarial.</td>
+              <td>Paradoja de legitimidad: Se registra una elevada confianza ciudadana en las ONG (72%) y empresas privadas (71%), frente a una marcada desconfianza hacia las instituciones gubernamentales (34%) (Flores, et al. 2022).</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>En el caso mexicano, desde hace más de dos décadas se observa una exclusión social radicalizada que impacta en el trabajo de los profesionales de relaciones públicas (Moreno y Molleda, 2005). Según un estudio realizado por estos investigadores, los profesionales han centrado sus esfuerzos en trabajar con las comunidades para erradicar esa tendencia. Del mismo modo, los profesionales de las relaciones públicas en las grandes corporaciones buscan involucrar a sus organizaciones en programas de responsabilidad social y desarrollo sustentable para justificar su expansión en espacios naturales muy sensibles como es el caso del sector turístico (Jiménez, 2012).</p>
+      <p>De acuerdo con Flores et al. (2022), en las organizaciones no gubernamentales en México se evidencia que el modelo de comunicación y relaciones públicas se caracteriza por ser social y ético, más cercano al activismo que a la técnica. Así como integrar la responsabilidad social, la inclusión y la sostenibilidad como ejes centrales. Igualmente, los autores reconocen la tensión entre lo estratégico y lo operativo en busca de consolidar un liderazgo comunicativo e incorporar la dimensión digital y algorítmica como nuevo campo de acción. Es así que ese modelo se perfila hacia una combinación de roles sociales y estratégicos, donde el profesional es mediador crítico, activista comunitario y gestor ético de la comunicación digital.</p>
+      <p>La vigencia de estos roles se enfrenta hoy a una nueva frontera con relación a la mediación algorítmica y a la inteligencia artificial. Lejos de decretar la obsolescencia del factor humano, la automatización de las tareas operativas actúa como un catalizador. Férez-Vergara et al. (2024) resaltan que, ante la proliferación de contenidos generados por algoritmos, el verdadero valor estratégico del profesional radica en su capacidad para actuar como un auditor y garante de la veracidad y la transparencia, gestionando la comunicación desde una perspectiva de responsabilidad social que priorice el discernimiento ético, la inclusión comunitaria y la sensibilidad cultural. Por lo tanto, la formación académica y la práctica de las relaciones públicas no deben orientarse a competir con la velocidad de procesamiento de la IA, sino a robustecer la dimensión reflexiva e interactiva que resguarda la autenticidad del diálogo público y los lazos de confianza mutua en la sociedad.</p>
+      <p>En este contexto, la inteligencia artificial está transformando la práctica de las relaciones públicas, no solo en su dimensión técnica (automatización de tareas, análisis de datos, segmentación de audiencias), sino también en su rol social y ético. Bajo la perspectiva de Grunig y Holtzhausen, el profesional debe ser un agente de cambio democrático y crítico. En este contexto, la IA puede ser tanto una herramienta que fortalezca la transparencia y el diálogo como un riesgo si se utiliza para manipular o reforzar desigualdades.</p>
+      <p>Entre los aportes positivos de la IA en el campo de la comunicación, y en particular de las relaciones públicas, sobresale el uso de algoritmos que permiten analizar grandes volúmenes de información y detectar narrativas falsas. Esto ha favorecido la rendición de cuentas (DiStaso &amp; McCorkindale, 2020), además de gestionar sistemas de traducción automática y accesibilidad que amplían la participación de públicos multilingües y con discapacidades (Moreno et al. 2021). La escucha activa también juega un papel importante en el análisis de sentimientos y minería de datos que ayudan a comprender mejor las preocupaciones sociales y anticipar conflictos (Wright &amp; Hinson, 2022).</p>
+      <p>En cuanto a los desafíos, todavía se evidencian sesgos algorítmicos, pues la IA puede reproducir prejuicios sociales si no se diseña con criterios éticos (Floridi, 2021), así como la manipulación de información al usar <italic>bots</italic> y <italic>deepfakes</italic>, lo que pone en duda la confianza pública (Wardle &amp; Derakhshan, 2017). Otro problema es la deshumanización, si se sustituye el diálogo humano por procesos automatizados, se corre el riesgo de perder la dimensión ética y comunitaria de la comunicación (Moreno et al., 2021).</p>
+      <p>En este sentido, se insiste en que la inteligencia artificial no puede comprenderse únicamente como innovación técnica ni como un conjunto de herramientas neutrales (Limia y López, 2026), lo que abre un debate central para el enfoque social de las relaciones públicas. Es por ello que la automatización comunicativa no solo incrementa la eficiencia operativa, sino que interviene directamente en la construcción social de la verdad, en la definición de lo visible y lo verificable en el espacio público digital. Esto significa que la IA participa en la producción de autoridad epistémica; decide qué narrativas se amplifican, qué voces se silencian y qué contenidos se legitiman como creíbles. En consecuencia, el profesional de relaciones públicas ya no puede limitarse a gestionar mensajes, debe asumir un rol crítico frente a los algoritmos que median la comunicación y que, en muchos casos, condicionan la deliberación democrática. En la siguiente tabla se observan las características de los enfoques de la profesión y sus posibles riesgos.</p>
+      <table-wrap id="table3">
+        <label>Tabla 3:</label>
+        <caption>
+          <p>Comparación de enfoques</p>
+          <p>Fuente: elaboración propia (2026) con asistencia del modelo de lenguaje Copilot.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th><bold>Enfoque</bold></th>
+              <th><bold>Características</bold></th>
+              <th><bold>Riesgos</bold></th>
+              <th><bold>Potencial social</bold></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><bold>Clásico</bold></td>
+              <td>Persuasión unilateral, rol técnico</td>
+              <td>Manipulación, propaganda</td>
+              <td>Bajo</td>
+            </tr>
+            <tr>
+              <td><bold>Excelencia (Grunig)</bold></td>
+              <td>Simetría, negociación, compromiso</td>
+              <td>Puede ser idealista en contextos autoritarios</td>
+              <td>Alto</td>
+            </tr>
+            <tr>
+              <td><bold>Posmodernista (Holtzhausen)</bold></td>
+              <td>Activismo, crítica, democracia de base</td>
+              <td>Radicalización, resistencia institucional</td>
+              <td>Muy alto</td>
+            </tr>
+            <tr>
+              <td><bold>Digital/IA</bold></td>
+              <td>Automatización, análisis de datos, inclusión</td>
+              <td>Sesgos, deshumanización, manipulación</td>
+              <td>Alto si se regula éticamente</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>Es así que, la emergencia de estas tecnologías disruptivas plantea un escenario dicotómico de retos y oportunidades; por un lado, se presenta el riesgo inminente de una automatización que desplace las funciones operativas básicas de redacción y gestión de contenidos y, por el otro, se abre la posibilidad de potenciar habilidades analíticas de alto nivel, el pensamiento crítico y la curaduría estratégica de información. De este modo, la práctica profesional en la era digital no puede limitarse a la destreza en el uso instrumental de <italic>software</italic> de IA, sino que demanda una sólida alfabetización digital e infoética que capacite al comunicador para interactuar de forma reflexiva con los sistemas automatizados (Mullo López et al. 2024). Las instituciones educativas deberán incluir en la transformación estructural; el perfil del comunicador debe migrar hacia el pensamiento crítico, con un enfoque ético, social y humanista de la disciplina, que resulte irreemplazable para las máquinas y que le permita generar conexiones auténticas y empáticas con las audiencias. A pesar de los avances en relaciones públicas e IA, persiste un vacío respecto a cómo el enfoque social latinoamericano puede integrarse con la mediación algorítmica desde una perspectiva ética y democrática.</p>
+    </sec>
+    <sec>
+      <title>Metodología</title>
+      <p>La presente investigación se desarrolló bajo un enfoque cualitativo de carácter analítico-conceptual y de alcance exploratorio. Dado que el fenómeno de la mediación algorítmica y su impacto en las disciplinas sociales son un campo en constante mutación, el diseño cualitativo metodológico resulta el más idóneo para examinar las estructuras de significado, las dinámicas de poder epistémico y las reconfiguraciones éticas que experimentan las relaciones públicas contemporáneas.</p>
+      <p>Para garantizar el rigor y la representatividad de la muestra teórica, se llevó a cabo una revisión sistemática y crítica de literatura académica indexada en bases de datos de alto impacto (Scopus, Web of Science, SciELO y Redalyc). Los criterios de inclusión aplicados para la consolidación del corpus documental se determinaron a partir de tres ejes temáticos interconectados: a) modelos contemporáneos y evolución de las relaciones públicas; b) tipologías de roles profesionales y activismo comunitario; y c) implicaciones infoéticas, sesgos algorítmicos y gobernanza de la inteligencia artificial en los procesos de comunicación institucional.</p>
+    </sec>
+    <sec>
+      <title>Procedimiento</title>
+      <p>El procesamiento y análisis de la información se estructuró a partir del método de análisis de contenido cualitativo, empleando una estrategia de codificación temática estructurada (Krippendorff, 2018). Las unidades de análisis (artículos científicos, capítulos de libros y reportes normativos internacionales) fueron examinadas a la luz de los roles sociales propuestos por la Teoría de la Excelencia de Grunig y White (1992), la perspectiva del profesional como agente de cambio de Holtzhausen (2016) y las funciones del modelo estratégico 4x4 de Gregory y Willys (2013). La información recolectada se organizó matricialmente para contrastar las dimensiones técnico-instrumentales de la IA frente a las demandas ético-sociales del contexto latinoamericano, garantizando con ello la validez interna del análisis.</p>
+    </sec>
+    <sec>
+      <title>Análisis y discusión</title>
+      <p>Los datos analizados revelan que garantizar un enfoque social y ético en un entorno mediado por algoritmos implica redefinir los roles sociales del profesional de relaciones públicas y adaptarlos a la lógica de la automatización comunicativa. Las relaciones públicas simétricas (Grunig &amp; White, 1992), según el modelo de excelencia, plantean que la comunicación debe ser bidireccional y crítica. En el entorno algorítmico, esto significa que los profesionales deben supervisar cómo los algoritmos distribuyen la información y asegurar que las narrativas no se reduzcan a intereses corporativos o políticos. La simetría se traduce en auditorías algorítmicas y en la exigencia de transparencia en el uso de datos.</p>
+      <p>Los datos analizados respecto a la inserción de las tecnologías emergentes revelan una tensión estructural entre la automatización operativa y la necesidad de un pensamiento estratégico. Esta dualidad coincide con los hallazgos de Mullo López et al. (2024), quienes identifican que la incorporación de la inteligencia artificial generativa en el ecosistema comunicativo desplaza de manera acelerada a las competencias técnicas tradicionales de redacción y gestión de contenidos básicos.</p>
+      <p>Los resultados de este análisis demuestran que el verdadero valor agregado del profesional no radica en la velocidad de la producción algorítmica, sino en la adquisición de una robusta alfabetización infoética y digital. Por lo tanto, el impacto de la IA en la región no se limita a una sustitución de funciones, sino que actúa como un catalizador que obliga a migrar los perfiles profesionales hacia roles de mayor complejidad analítica y curaduría crítica.</p>
+      <p>En cuanto al rol activista (Holtzhausen, 2016), los resultados evidencian que la IA puede ser utilizada para visibilizar voces marginadas y fortalecer el debate público. El profesional, bajo este rol, debe actuar como mediador crítico, denunciando sesgos algorítmicos y promoviendo la inclusión digital. La IA se convierte en una herramienta de activismo cuando amplifica narrativas contrahegemónicas y facilita la participación ciudadana. Este enfoque social exige que las relaciones públicas sirvan al interés público (L’Etang, 2009)<bold>.</bold></p>
+      <p>En el espacio digital, esto se logra mediante el diseño de estrategias que utilicen la IA para facilitar el diálogo democrático<bold>,</bold> garantizar accesibilidad y fomentar la pluralidad de voces. Los resultados muestran que la IA puede ser una aliada estratégica si se integra bajo principios éticos.</p>
+      <p>Desde la perspectiva latinoamericana, Flores et al. (2022) muestran que, en las organizaciones no gubernamentales internacionales en México, los profesionales de la comunicación y las relaciones públicas tienden a desempeñar roles más cercanos al modelo europeo 4x4 de Gregory y Willys, con predominio de funciones operativas y directivas, y menor relación con los roles sociales de Grunig y White. Sin embargo, el estudio confirma que el modelo emergente se caracteriza por ser social y ético, más próximo al activismo que a la técnica, integrando la responsabilidad social, la inclusión y la sostenibilidad como ejes centrales. Estos hallazgos refuerzan la idea de que, en contextos de desigualdad y diversidad cultural, la IA debe aplicarse con sensibilidad intercultural, evitando homogeneizar discursos y reconociendo la riqueza de las comunidades. Al discutir la dimensión ética y el compromiso social de las relaciones públicas frente a la mediación algorítmica, los argumentos expuestos se distancian del determinismo tecnológico instrumental para situar al ser humano en el centro del proceso comunicativo.</p>
+      <p>En concordancia con Mullo López et al. (2024), se discute que ante la proliferación de narrativas automatizadas y el riesgo latente de manipulación informativa o pérdida de confianza en el espacio público, la función del comunicador adquiere una dimensión eminentemente política y comunitaria. Esta realidad valida la urgencia del modelo mexicano revisado en esta investigación: el profesional de las relaciones públicas debe asumir el rol de auditor y garante de la transparencia institucional. La tecnología, en consecuencia, debe ser subordinada a un marco de responsabilidad social que resguarde la sensibilidad intercultural y la inclusión ciudadana, esferas donde las máquinas no poseen capacidad de réplica ética ni empática.</p>
+    </sec>
+    <sec>
+      <title>Conclusión</title>
+      <p>El análisis desarrollado a lo largo de este trabajo permite concluir que el enfoque social de las relaciones públicas no representa una opción periférica o meramente filantrópica, sino una condición de supervivencia epistemológica y democrática frente a la era de la mediación algorítmica. En un ecosistema informativo donde la inteligencia artificial posee la capacidad de automatizar de forma masiva los flujos de contenido y estructurar la visibilidad en el espacio público, la función tradicional del relacionista público como mero operador técnico u optimizador de mensajes corporativos resulta obsoleta. La tecnología no desplaza al factor humano; por el contrario, actúa como un catalizador que obliga a migrar la disciplina hacia roles de alta complejidad analítica, donde el pensamiento crítico, la empatía intercultural y la curaduría infoética constituyen los verdaderos elementos diferenciadores.</p>
+      <p>En el contexto mexicano, las conclusiones adquieren un matiz de urgencia estructural. La región no puede limitarse a importar de manera acrítica los modelos teóricos gerenciales y utilitaristas de la escuela anglosajona, los cuales fueron diseñados para realidades corporativas estables y simétricas. Las marcadas desigualdades socioeconómicas, la diversidad multiétnica y los desafíos en materia de transparencia institucional que caracterizan no solo a México, sino al resto de países de América Latina demandan la consolidación de un modelo propio e híbrido. En nuestro contexto regional debe fundarse en una combinación de roles estratégicos, radicales e idealistas, asumiendo la comunicación como una plataforma de contrapoder, activismo comunitario y diálogo simétrico orientado a la justicia social.</p>
+      <p>Frente a este panorama, se evidencia la necesidad de transformar de manera profunda los planes de estudio universitarios en las licenciaturas de Comunicación y Relaciones Públicas. Las instituciones de educación superior deben trascender la enseñanza instrumental del software de IA generativa y la gestión operativa de redes digitales. Es urgente integrar asignaturas obligatorias enfocadas en la Infoética, la Gobernanza Algorítmica, la Sociología de las Profesiones y el Pensamiento Crítico Latinoamericano. La formación del futuro profesional debe orientarse a dotarlo de competencias de auditoría comunicativa, capacitándolo para identificar sesgos algorítmicos, combatir el desorden informativo y resguardar la dimensión humanista e interactiva que sostiene la confianza pública. Se concluye que las relaciones públicas pueden mantener un enfoque social y ético en entornos algorítmicos cuando la IA es subordinada a principios de transparencia, inclusión y responsabilidad social.</p>
+    </sec>
+    <sec>
+      <title>Líneas futuras</title>
+      <p>Para el ámbito de las organizaciones contemporáneas, el enfoque social exige subordinar la eficiencia técnica de los sistemas automatizados a marcos estrictos de responsabilidad social y rendición de cuentas. Las relaciones públicas de excelencia en el siglo XXI deben guiar a la alta dirección corporativa en el diseño de políticas éticas de uso de datos, asegurando que los algoritmos no reproduzcan exclusiones o marginen a comunidades vulnerables. Finalmente, como líneas futuras de investigación derivadas de este estudio, se sugiere realizar investigaciones de corte empírico que mapeen cuantitativamente el grado de adopción de la IA en los departamentos de comunicación de las organizaciones mexicanas, así como evaluar el impacto de las auditorías algorítmicas en la preservación de la legitimidad corporativa y el fortalecimiento de la deliberación democrática en la era digital. Resultaría muy pertinente un análisis comparativo latinoamericano, así como de sesgos algorítmicos y de ética</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>Referencias</title>
+      <ref id="ref1">
+        <mixed-citation>Almansa-Martínez, A. y Fernández-Souto, A. (2020). Professional Public Relations (PR) trends and challenges. El profesional de la información, 29(3), e290303. <ext-link xlink:href="https://doi.org/10.3145/epi.2020.may.03" ext-link-type="uri">https://doi.org/10.3145/epi.2020.may.03</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>Álvarez-Nobell, A., Molleda, J. C., Moreno, A.; Athaydes, A., Suárez-Monsalve, A. M. y Herrera, M. (2021). Comunicación estratégica y relaciones públicas en América Latina: crisis del COVID-19 en la gestion de comunicación, ciberseguridad, situación de las mujeres, retos éticos y nuevas competencias. Resultados de una encuesta en 20 países. EUPRERA</mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>Arzuaga-Williams, M. (2020). Rol del comunicador organizacional en Uruguay: tareas y funciones. El profesional de la información, 29(3), e290326. <ext-link xlink:href="https://doi.org/10.3145/epi.2020.may.26" ext-link-type="uri">https://doi.org/10.3145/epi.2020.may.26</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>Confiarp (2004). Consolidando las relaciones públicas en América Latina. Primer documento histórico, Argentina.</mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>Contreras Delgado, O. E. &amp; Garibay Rendón, N. E. (2020). Comunicación organizacional. Historia, desarrollo y perspectivas de un concepto en constante construcción en América Latina. InMediaciones de la Comunicación, 15(2), 43-70. DOI: <ext-link xlink:href="https://doi.org.10.18861/ic.2020.15.2.3018" ext-link-type="uri">https://doi.org.10.18861/ic.2020.15.2.3018</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>DiStaso, M. W., &amp; McCorkindale, T. (2020). <italic>Public relations and artificial intelligence: Preparing practitioners for the future</italic>. Public Relations Review, 46(5), 101–118.</mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>Edelman (2019). Trust Barometer, Global Report. <ext-link xlink:href="https://www.edelman.com/sites/g/files/aatuss191/files/2019-%2002/2019_Edelman_Trust_Barometer_Global_Report.pdf" ext-link-type="uri">https://www.edelman.com/sites/g/files/aatuss191/files/2019- 02/2019_Edelman_Trust_Barometer_Global_Report.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>Férez-Vergara, J. L., Pizarro Matamoros, R., &amp; Vergara Torres, J. M. (2024). Comunicación ciborg: La reinvención de las habilidades del comunicador en la era de la IA. En Nuevas perspectivas en ciencia y tecnología. El papel transformador de la inteligencia artificial, Congreso Internacional Multidisciplinario (2. 2024).</mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>Flores, M. T., Cabezuelo-Lorenzo, F., &amp; Chalá, P. (2022). Las prácticas profesionales de la comunicación y las relaciones públicas de las ONG internacionales ante la crisis del COVID-19: el caso de México. <italic>Observatorio (OBS*)</italic>, <italic>16</italic>(2). <ext-link xlink:href="https://doi.org/10.15847/obsOBS16220221986" ext-link-type="uri">https://doi.org/10.15847/obsOBS16220221986</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>Floridi, L. (2021). Establishing the Rules for Building Trustworthy AI. In: Floridi, L. (eds) Ethics, Governance, and Policies in Artificial Intelligence. Philosophical Studies Series, vol 144. Springer, Cham. <ext-link xlink:href="https://doi.org/10.1007/978-3-030-81907-1_4" ext-link-type="uri">https://doi.org/10.1007/978-3-030-81907-1_4</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>Gregory, A. y Willis, P. (2013). <italic>Strategic Public Relations Leadership.</italic> Routledge.</mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>Grunig, J. E., &amp; White, J. (1992). <italic>The effect of worldviews on public relations theory and practice</italic>. In J. E. Grunig (Ed.), Excellence in public relations and communication management (pp. 31–64). Lawrence Erlbaum Associates.</mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>Heide, M., von Platen, S., Simonsson, C. y Falkheimer, J. (2018). Expanding the Scope of Strategic Communication: Towards a Holistic Understanding of Organizational Complexity. <italic>International Journal of Strategic</italic> <italic>Communication,</italic> 12(4), 452-468.</mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>Holtzhausen, D. (2016). Relaciones Públicas como activismo. Enfoques posmodernos. Editorial UOC.</mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>Jiménez, M. (2012). La responsabilidad social Empresarial en el sector hotelero. Estudio de casos múltiples. (Tesis doctoral). Universidad de Sevilla. <ext-link xlink:href="https://url2.cl/JxnRb" ext-link-type="uri">https://url2.cl/JxnRb</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>Krippendorff, K. (2018). <italic>Content analysis: An introduction to its methodology</italic> (4th ed.). Sage Publications.</mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>Krohling-Kunsch, M. M. (2004). A função das Relações Públicas e a prática comunicacional nas organizações. Organicom, 1(1), 121-139. <ext-link xlink:href="https://doi.org/10.11606/issn.2238-2593.organicom.2004.138874" ext-link-type="uri">https://doi.org/10.11606/issn.2238-2593.organicom.2004.138874</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>Lavalle, J. (1997). Perfil de las relaciones públicas. En Academia Nacional de Relaciones Públicas, A.C. Relaciones Públicas. Edamex, 19-21.</mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>L’Etang, J. (2009). Public Relations: Concepts, practice and critique. <italic>Sage Publications</italic>.</mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>Limia Fernández, M., &amp; López García, X. (2026). La automatización de la verdad: inteligencia artificial, mediación algorítmica y disputas epistémicas en la comunicación contemporánea. <italic>Cuadernos.Info</italic>, (64), I-IX. <ext-link xlink:href="https://doi.org/10.7764/cdi.64.105364" ext-link-type="uri">https://doi.org/10.7764/cdi.64.105364</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>Microsoft CoPilot (2026). Consultado el 5 de junio de 2026 para analizar los enfoques clásicos, posmodernos y digitales de las relaciones públicas.</mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>Molleda, J. C. y Ferguson, M. (2004). Public Relations Roles in Brazil: Hierarchy Eclipses Gender Differences. Journal of Public Relations Research, 16(4), 327-351. <ext-link xlink:href="https://doi.org/10.1207/s1532754xjprr1604_1" ext-link-type="uri">https://doi.org/10.1207/s1532754xjprr1604_1</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>Molleda, J. C., Moreno, Á., Athaydes, A. y Suárez, A. (2010). Macropesquisa latino-americana de comunicação e relações públicas. Organicom, 7(13), 119-141. <ext-link xlink:href="https://doi.org/10.11606/issn.2238-%202593.organicom.2010.139074" ext-link-type="uri">https://doi.org/10.11606/issn.2238- 2593.organicom.2010.139074</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>Moreno, A., Molleda, J. C., &amp; Verčič, D. (2021). <italic>Artificial intelligence in public relations: Towards an ethical framework</italic>. Public Relations Inquiry, 10(2), 123–140.</mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>Moreno, A., &amp; Molleda, J. C. (2005). Las relaciones públicas en México: contextos económico, político y mediático en un proceso histórico de cambios. <italic>Razón y Palabra</italic>, <italic>48</italic>, 11.</mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>Mullo López, A. H., Balseca Mera, J. M., &amp; Caicedo Reinoso, N. E. (2024). Retos y oportunidades de la IA en la formación de profesionales en Comunicación. <italic>Razón y Palabra</italic>, <italic>28</italic>(119), 28-43. <ext-link xlink:href="https://www.google.com/search?q=https://doi.org/10.26807/rp.v28i119.2107" ext-link-type="uri">https://doi.org/10.26807/rp.v28i119.2107</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>Pradana, F. J. (2024). <italic>Las relaciones públicas desde la perspectiva latinoamericana</italic>. Cuadernos.info, 58<bold>,</bold> 1–20. <ext-link xlink:href="https://doi.org/10.7764/cdi.58.68727" ext-link-type="uri">https://doi.org/10.7764/cdi.58.68727</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>Quintana-Pujalte, L., Castillo-Esparcia, A., &amp; Carretón Ballester, M. C. (2018). <italic>Relaciones públicas ciudadanas: Actores, discursos y construcción de identidad de movimientos contra los desahucios en España</italic>. Revista de Comunicación, 15, 83–97. ISSN-e 2014-5039. <italic>framework for research and policy making</italic>. Council of Europe report.</mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>Wardle, C., &amp; Derakhshan, H. (2017). <italic>Information disorder: Toward an interdisciplinary framework for research and policy making</italic>. Council of Europe.</mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>Wright, D. K., &amp; Hinson, M. D. (2022). <italic>An updated examination of social and emerging media in public relations practice</italic>. Public Relations Journal, 16(1), 1–35.</mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation><bold>Licencia:</bold> Esta obra está protegida bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
