@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="es" dtd-version="1.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">gespye</journal-id>
+      <journal-title-group>
+        <journal-title>GESPYE Gestión Pública y Empresarial</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">3061-8630</issn>
+      <publisher>
+        <publisher-name>Universidad de Guadalajara</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.32870/gespye.vi4.1</article-id>
+      <title-group>
+        <article-title>Intervención socioeducativa “Me cuido, Nos cuidamos”: una estrategia para el bienestar psicosocial en el trabajo</article-title>
+        <trans-title-group xml:lang="en">
+          <trans-title>Socio-educational intervention “I take care of myself; we take care of each other”: a strategy for psychosocial well-being at work</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-4885-2160</contrib-id>
+          <name>
+            <surname>Rivera Rodríguez</surname>
+            <given-names>Leslie Guadalupe</given-names>
+          </name>
+          <email>leslie.rivera@cucea.udg.mx</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-6232-0163</contrib-id>
+          <name>
+            <surname>Elizalde Núñez</surname>
+            <given-names>Tania Fernanda</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2370-3732</contrib-id>
+          <name>
+            <surname>Castañeda Borrayo</surname>
+            <given-names>Yaocihuatl</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">Universidad de Guadalajara (CUCEA)</aff>
+      <aff id="aff2">PIENSO en Latinoamérica, Universidad de Guadalajara</aff>
+      <aff id="aff3">Instituto Mexicano del Seguro Social</aff>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>30</day>
+        <month>11</month>
+        <year>2025</year>
+      </pub-date>
+      <volume>2</volume>
+      <issue>4</issue>
+      <fpage>5</fpage>
+      <lpage>15</lpage>
+      <self-uri xlink:href="https://articulos.gespye.mx/a2/n4/art1/intervencion-socioeducativa-bienestar-psicosocial/"/>
+      <self-uri content-type="pdf" xlink:href="https://articulos.gespye.mx/a2/n4/art1/intervencion-socioeducativa-bienestar-psicosocial/intervencion-socioeducativa-bienestar-psicosocial.pdf"/>
+      <abstract xml:lang="es">
+        <p>Este artículo presenta los resultados de la intervención socioeducativa “Me cuido, Nos cuidamos”, orientada a promover el bienestar psicosocial en el trabajo desde un enfoque preventivo-promocional. La estrategia se centró en fortalecer el autocuidado, el apoyo social y la corresponsabilidad colectiva como ejes para mitigar los riesgos psicosociales laborales. La intervención fue implementada con personal administrativo del sector público a través de un taller participativo de 10 sesiones presenciales. Las actividades combinaron dinámicas vivenciales, reflexión colectiva y contenidos formativos sobre gestión emocional, comunicación empática, salud mental y cultura organizacional. Para evaluar el impacto, se aplicó el Cuestionario de Evaluación de Factores Psicosociales en el Trabajo (versión adaptada de Aranda-Beltrán y Pando-Moreno, 2014) en modalidad pre y post, complementado con un grupo focal posterior a la intervención. Los hallazgos cuantitativos reflejan una disminución significativa en niveles de riesgo psicosocial en dimensiones como exigencias laborales, condiciones del entorno de trabajo, carga de trabajo e interacción social. Desde el análisis cualitativo, las y los participantes reportaron una mayor conciencia sobre su salud mental, fortalecimiento del sentido de pertenencia y compromiso con prácticas colectivas. Se concluye que las intervenciones socioeducativas con enfoque participativo representan una estrategia viable y replicable para la mejora del clima psicosocial laboral, y pueden contribuir a la integración de la salud mental en las políticas institucionales de salud ocupacional. Este trabajo presenta los resultados de la intervención socioeducativa desarrollada con el propósito de promover el bienestar psicosocial en el trabajo desde un enfoque preventivo y promocional. La estrategia utilizada se enfocó en fortalecer el autocuidado, el apoyo social y la corresponsabilidad colectiva.</p>
+      </abstract>
+      <kwd-group xml:lang="es">
+        <kwd>Bienestar psicosocial</kwd>
+        <kwd>intervención socioeducativa</kwd>
+        <kwd>enfoque participativo</kwd>
+      </kwd-group>
+      <trans-abstract xml:lang="en">
+        <p>This article presents the results of the socio-educational intervention “I Take Care of Myself, We Take Care of Each Other”, aimed at promoting psychosocial well-being in the workplace through a preventive and promotional approach. The strategy focused on strengthening self-care, social support, and collective co-responsibility as key components to address psychosocial occupational risks. The intervention was implemented with administrative personnel in the public sector through a participatory workshop consisting of 10 in-person sessions. The activities combined experiential dynamics, collective reflection, and educational content on emotional management, empathetic communication, mental health, and organizational culture. To assess the impact, the Psychosocial Risk Factors in the Workplace Questionnaire (adapted version by Aranda-Beltrán and Pando-Moreno, 2014) was applied pre- and post-intervention, complemented by a post-intervention focus group. Quantitative findings revealed a significant reduction in psychosocial risk levels in dimensions such as job demands, workplace conditions, workload, and social interaction. Qualitative results showed increased awareness of mental health, a stronger sense of belonging, and enhanced commitment to collective well-being practices among participants. It is concluded that participatory socio-educational interventions are a viable and replicable strategy for improving the psychosocial work climate and can contribute to the integration of mental health into institutional occupational health policies.</p>
+      </trans-abstract>
+      <kwd-group xml:lang="en">
+        <kwd>Psychosocial well-being</kwd>
+        <kwd>socio-educational intervention</kwd>
+        <kwd>participatory approach</kwd>
+      </kwd-group>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>08</month>
+          <year>2025</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>10</month>
+          <year>2025</year>
+        </date>
+      </history>
+      <permissions>
+        <license xlink:href="https://creativecommons.org/licenses/by-sa/4.0/">
+          <license-p>Esta obra está protegida bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.</license-p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introducción</title>
+      <p>El bienestar psicosocial en el trabajo constituye un componente fundamental para la salud integral de las personas, así como para la eficiencia y sostenibilidad de las organizaciones. En el contexto contemporáneo, caracterizado por dinámicas laborales complejas, aumento de estrés crónico y transformaciones en los entornos de trabajo, los factores psicosociales se han consolidado como determinantes clave en la salud mental y emocional de los trabajadores. Tal como lo advierten organismos internacionales como la Organización Mundial de la Salud (OMS) y la Organización Internacional del Trabajo (OIT), el abordaje de estos factores no solo debe centrarse en la prevención de riesgos, sino también en la promoción activa de ambientes laborales seguros, participativos y emocionalmente saludables.</p>
+      <p>En México, la relevancia del tema ha sido reconocida a través de la Norma Oficial Mexicana NOM-035-STPS-2018, la cual establece la obligación de identificar, analizar y prevenir los factores de riesgo psicosocial, así como promover un entorno organizacional favorable. Esta normativa plantea desafíos importantes para el sector público, donde las estructuras jerárquicas rígidas, la sobrecarga administrativa y la falta de reconocimiento pueden incidir negativamente en la calidad de vida laboral del personal administrativo.</p>
+      <p>De esta forma, se ha vuelto indispensable el diseño e implementación de estrategias integrales que, desde un enfoque educativo y participativo, permitan fortalecer las capacidades individuales y colectivas para el autocuidado, la gestión emocional y el desarrollo de redes de apoyo. La literatura ha documentado la efectividad de las intervenciones socioeducativas en contextos organizacionales, especialmente aquellas que promueven el empoderamiento, la corresponsabilidad y la transformación de la cultura institucional (Montano et al., 2014; Leka &amp; Jain, 2010). Asimismo, el modelo Demanda-Control de Karasek (1979) proporciona un marco teórico útil para comprender cómo la combinación de altas exigencias laborales con bajo control o autonomía inciden en la aparición de malestar psicosocial, lo cual justifica intervenciones que modifiquen dicha ecuación desde la base relacional y estructural del trabajo.</p>
+      <p>La presente investigación propone una intervención socioeducativa con enfoque preventivo-promocional, dirigida a personal administrativo del sector público, con el objetivo de fomentar el bienestar psicosocial en el entorno laboral mediante el fortalecimiento de autocuidado, el apoyo social y la corresponsabilidad colectiva. A través del diseño, aplicación y evaluación de un taller participativo, se busca generar evidencias sobre la viabilidad, pertinencia e impacto de este tipo de estrategias para integrar la salud mental como eje transversal en la gestión organizacional.</p>
+      <p>En los entornos laborales contemporáneos, los riesgos psicosociales se han convertido en uno de los principales desafíos para la salud ocupacional y el bienestar organizacional. Factores como la sobrecarga laboral, la falta de autonomía, las relaciones interpersonales débiles y el escaso reconocimiento generan no solo estrés y agotamiento emocional, sino también desgaste físico y cognitivo que afecta la productividad y la satisfacción laboral. De acuerdo con la Organización Mundial de la Salud (OMS, 2022) y la Organización Internacional del Trabajo (OIT, 2024), la salud mental debe considerarse un componente central de las políticas de seguridad y salud en el trabajo, lo cual exige estrategias integrales y preventivas que aborden tanto las causas como las consecuencias de los riesgos psicosociales en el ámbito laboral.</p>
+      <p>En este contexto, la intervención socioeducativa <italic>“Me cuido, Nos cuidamos”</italic> fue diseñada e implementada como una iniciativa innovadora para promover el bienestar psicosocial entre trabajadores administrativos del sector público. La intervención adopta un enfoque preventivo-promocional que pone énfasis en el autocuidado, el apoyo social y la corresponsabilidad colectiva como pilares fundamentales para la construcción de entornos laborales más saludables y colaborativos. Este enfoque se sustenta en los principios de la educación para la salud y en metodologías participativas que reconocen la importancia de la implicación activa de las personas trabajadoras en la identificación de problemas, la reflexión sobre sus experiencias y la co-construcción de soluciones orientadas a mejorar su ambiente de trabajo.</p>
+      <p>El programa se llevó a cabo mediante un taller participativo conformado por diez sesiones que integran actividades vivenciales, espacios de reflexión colectiva y contenidos teórico-prácticos sobre regulación emocional, comunicación empática y cultura organizacional. A través de este proceso, las y los participantes desarrollaron habilidades individuales y grupales que les permitieron reconocer los factores de riesgo psicosocial y adoptar estrategias más saludables de afrontamiento e interacción.</p>
+      <p>Asimismo, la intervención incorporó técnicas de evaluación cuantitativas y cualitativas que permitieron una comprensión integral de sus efectos. La aplicación pre y post del <italic>Cuestionario de Evaluación de Factores Psicosociales en el Trabajo</italic> (Aranda-Beltrán y Pando-Moreno, 2014), junto con el análisis cualitativo de un grupo focal posterior a la intervención, proporcionó evidencia valiosa sobre la evolución en la percepción del entorno laboral, los niveles de estrés y las relaciones sociales entre los participantes.</p>
+      <p>El presente documento expone los antecedentes, el marco metodológico y los principales resultados de la intervención <italic>“Me cuido, Nos cuidamos”</italic>, destacando su contribución al fortalecimiento del bienestar psicosocial del personal administrativo. Asimismo, se reflexiona sobre las implicaciones de integrar los enfoques socioeducativos en las políticas de salud ocupacional y sobre el potencial de replicar este tipo de modelos en otros contextos institucionales, subrayando la necesidad de estrategias organizacionales que promuevan la salud mental, la equidad y el bienestar participativo en los espacios de trabajo.</p>
+    </sec>
+    <sec>
+      <title>Marco Teórico</title>
+      <p>La salud ocupacional, entendida como el conjunto de actividades destinadas a promover y proteger la salud de las personas trabajadoras, ha evolucionado hacia un enfoque más integral que no solo contempla riesgos clásicos en el trabajo, cómo son los físico, químicos, biológicos, sino también los factores psicosociales que inciden en el bienestar emocional y social en los espacios laborales (OIT, 2022). En este marco, los riesgos psicosociales se refieren a aquellas condiciones del trabajo que afectan la salud a través de mecanismos de estrés crónico, tales como la carga excesiva, la ambigüedad de roles, la falta de autonomía, el escaso reconocimiento y la mala calidad de las relaciones laborales (Bakker &amp; Demerouti, 2017).</p>
+    </sec>
+    <sec>
+      <title>Factores Psicosociales en el Trabajo</title>
+      <p>En México, la NOM-035-STPS-2018 reconoce la necesidad de identificar, analizar y prevenir los riesgos psicosociales en el entorno laboral, incluyendo la sobrecarga, condiciones de trabajo, remuneración del rendimiento, relaciones interpersonales y liderazgo. Esta normativa promueve intervenciones institucionales que reconozcan el entorno organizacional, como un determinante en la salud integral de los trabajadores. Desde la teoría de demandas y control (Karasek, 1979), que postula que cuando se incrementan las demandas laborales y disminuye la posibilidad de control autónomo sobre este, las probabilidades de agotamiento laboral, disminución del compromiso laboral y la aparición de trastornos físicos o mentales.</p>
+    </sec>
+    <sec>
+      <title>Enfoques Socioeducativos y Promoción del Bienestar</title>
+      <p>La promoción del bienestar psicosocial requiere intervenciones estructuradas, sensibles al contexto y sostenidas por modelos participativos. La educación para la salud, se ha posicionado como una herramienta clave para fomentar y favorecer el emprendimiento, la corresponsabilidad y el desarrollo personal y colectivo para el autocuidado (OMS, 2022). Las intervenciones socioeducativas permiten construir entornos de diálogo, reflexión y aprendizaje colaborativo, que contribuyen a resignificar las prácticas laborales y generar transformaciones sostenibles en la cultura organizacional (Montano et al., 2014).</p>
+      <p>Desde una perspectiva participativa, Leka y Jain (2010) argumentan que las estrategias de intervención que involucran activamente a las y los trabajadores tienen mayor impacto y sostenibilidad, al fomentar el sentido de pertenencia y corresponsabilidad. Esto es relevante en los contextos laborales de índole público donde las limitaciones estructurales y jerárquicas dificultan la implementación de políticas organizacionales, desde el enfoque preventivo.</p>
+    </sec>
+    <sec>
+      <title>Modelos de Intervención en Salud Mental Laboral</title>
+      <p>Organismos internacionales como la Organización Mundial de la Salud (OMS) y la Organización Internacional del Trabajo (OIT), han planteado la necesidad de integrar la salud mental en políticas de seguridad y salud en el trabajo. En las directrices más recientes de estos dos organismos (OMS, 2022; OIT, 2024), se señala que los programas deben tener un enfoque integral: estructural (condiciones del entorno), relacional (interacciones laborales) e individual (capacidades personales). Este enfoque tripartita permite el abordaje de forma eficaz de las causas del malestar psicosocial y la promoción de entornos laborales saludables.</p>
+      <p>En concordancia con ello, la intervención “Me cuido, Nos cuidamos” se sitúa en la intersección entre el enfoque socioeducativo y la salud ocupacional, articulando proceso de sensibilización, desarrollo de habilidades y fortalecimiento del tejido social laboral, como uno de los elementos claves para transformar el entorno psicosocial. El objetivo general fue implementar y evaluar una intervención socioeducativa con enfoque preventivo-promocional para fortalecer el bienestar psicosocial en el entorno laboral, a través del desarrollo de capacidades de autocuidado, apoyo social y corresponsabilidad en la salud mental laboral.</p>
+    </sec>
+    <sec>
+      <title>Metodología</title>
+      <p>Este estudio adoptó un enfoque metodológico mixto, de tipo cuanti-cualitativo, con un alcance intervencionista y descriptivo, orientado a evaluar los efectos de una estrategia socioeducativa en el bienestar psicosocial del personal administrativo del sector público. El diseño de intervención se sustentó en los principios de salud ocupacional propuesta por la Organización Mundial de la Salud (OMS) y la Organización Internacional del Trabajo (OIT).</p>
+      <p>La población objetivo estuvo conformada por trabajadores administrativos de una institución del estado de Jalisco, México. Se utilizó un muestreo no probabilístico por conveniencia, seleccionando a 20 participantes con disposición voluntaria y consentimiento informado para formar parte de la intervención. El grupo mostró heterogeneidad en cuanto a edad, antigüedad laboral y funciones desempeñadas, lo cual enriqueció el análisis de resultados. Se aseguró la confidencialidad de los datos y el respeto a los principios éticos de participación.</p>
+      <p>La intervención se estructuró en un taller socioeducativo titulado “Me cuido, Nos cuidamos”, con una duración de 10 sesiones presenciales, desarrolladas semanalmente en un periodo de tres meses. Cada sesión tuvo una duración aproximada de 90 minutos y fue diseñada bajo una lógica progresiva e integradora, combinando contenido teórico con dinámicas vivenciales, ejercicios de reflexión colectiva y actividades de cierre.</p>
+      <p>En las sesiones se abordaron los siguientes ejes temáticos: Introducción al autocuidado y salud emocional, reconocimiento de emociones y gestión emocional, comunicación empática y manejo de conflictos, identificación de factores psicosociales laborales, construcción de redes de apoyo y corresponsabilidad, fortalecimiento del sentido de pertenencia, estrategias para afrontar el estrés laboral, cultura organizacional saludable, evaluación participativa del entorno de trabajo y cierre con compromiso de cuidado colectivo.</p>
+      <p>Las facilitadoras fueron profesionales de la salud ocupacional, medicina, psicología y trabajo social, con formación en metodologías participativas. Se utilizó una guía estructurada para cada sesión, con objetivos específicos, técnicas didácticas y materiales de apoyo.</p>
+      <p>El estudio adoptó un enfoque cuantitativo-cualitativo con alcance intervencionista y descriptivo. Se trabajó con un grupo de 20 trabajadores del sector público, personal administrativo, particularmente. Fueron seleccionados mediante muestreo no probabilístico por conveniencia. La intervención consistió en diez sesiones socioeducativas presenciales, diseñadas con base en el modelo de educación para la salud y los principios de la salud ocupacional con enfoque psicosocial.</p>
+      <p>Se aplicaron dos instrumentos:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>FPST (adaptado Aranda-Beltrán &amp; Pando-Moreno, 2014) para evaluar factores psicosociales pre y post intervención. Este instrumento permite valorar aspectos como condiciones del entorno físico, exigencias laborales, carga de trabajo, contenido de la tarea, interacción social, papel laboral, oportunidades de desarrollo y percepción de remuneración.</p>
+        </list-item>
+        <list-item>
+          <p>Entrevista grupal semiestructurada (grupo focal) aplicada al término de la intervención, con el fin de explorar las experiencias subjetivas de los participantes, con respecto a los cambios percibidos en su salud mental, clima laboral y sentido de corresponsabilidad colectiva. Las sesiones fueron grabadas, transcritas y analizadas con el consentimiento de los participantes.</p>
+        </list-item>
+      </list>
+      <p>El análisis cuantitativo se realizó mediante estadística descriptiva y análisis comparativo de medias, utilizando tablas de frecuencia para evidenciar los cambios en los niveles de riesgo psicosocial entre el pre y el post. La información fue procesada en el software Excel y revisada en conjunto con las facilitadoras para garantizar la consistencia.</p>
+      <p>Por otro lado, el análisis cualitativo se llevó a cabo mediante codificación temática, identificando categorías a partir de los relatos obtenidos en el grupo focal. Se establecieron tres etapas: pre análisis, codificación e interpretación. El enfoque permitió triangular la información y ofrecer una comprensión más amplia del impacto de la intervención.</p>
+    </sec>
+    <sec>
+      <title>Resultados</title>
+      <p>La intervención socioeducativa “Me cuido, Nos cuidamos” mostró efectos positivos en la percepción de los factores psicosociales del trabajo entre el personal administrativo participante. Esta intervención, desarrollada a través de diez sesiones presenciales, integró contenidos orientados al autocuidado, el fortalecimiento del apoyo social, la gestión emocional y la construcción de entornos organizacionales más saludables.</p>
+    </sec>
+    <sec>
+      <title>Resultados Cuantitativos</title>
+      <p>A través del Cuestionario de Evaluación de Factores Psicosociales en el Trabajo (adaptado de Aranda-Beltrán y Pando-Moreno, 2014), se identificaron variaciones significativas entre las mediciones pre y post intervención. Previamente, las dimensiones de condiciones del lugar de trabajo y exigencias laborales se encontraban en nivel de riesgo alto en el 83.3% de los casos. Posteriormente, estas disminuyeron a 38.8% y 50%, respectivamente, lo que indica una mejora sustancial en la percepción del entorno físico y de las demandas asociadas al puesto.</p>
+      <p>En la dimensión carga de trabajo, se observó una reducción en el nivel alto de riesgo de 16.6% a 5.5%, sugiriendo un impacto positivo en la percepción del volumen y ritmo de trabajo. Por su parte, la dimensión papel laboral y desarrollo de carrera pasó de 27.7% a 11.1% en el nivel alto de riesgo, lo que puede estar vinculado a una mayor claridad en funciones, reconocimiento y sentido de propósito experimentado durante la intervención.</p>
+      <p>Se reportó también una eliminación total de evaluaciones en nivel alto de riesgo en las dimensiones de contenido y características de la tarea e interacción social y aspectos organizacionales, lo que puede atribuirse al trabajo reflexivo realizado en torno a la cultura organizacional, la empatía y la comunicación efectiva durante las sesiones.</p>
+      <p>La única dimensión que no presentó variación fue la remuneración del rendimiento, manteniéndose en un 66.6% en riesgo medio. Esto evidencia una problemática estructural que excede el alcance del programa socioeducativo, relacionada con políticas salariales institucionales.</p>
+    </sec>
+    <sec>
+      <title>Resultados Cualitativos</title>
+      <p>El análisis temático del grupo focal posterior a la intervención permitió identificar categorías emergentes que complementan y enriquecen los datos cualitativos:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Conciencia emocional. Los participantes manifestaron un mayor reconocimiento de sus emociones, sus reacciones ante el estrés y la importancia de canalizarlo de forma saludable.</p>
+        </list-item>
+        <list-item>
+          <p>Apoyo social entre pares. Se fortalecieron los lazos laborales y la percepción de respaldo mutuo, generando un clima de mayor cohesión.</p>
+        </list-item>
+        <list-item>
+          <p>Sentido de pertenencia y agencia colectiva. Se evidenció una apropiación del espacio laboral como lugar compartido, donde el bienestar no es una responsabilidad individual sino colectiva.</p>
+        </list-item>
+        <list-item>
+          <p>Transformación de la cultura organizacional. Los participantes destacaron una mayor disposición para la escucha activa, la resolución colaborativa de conflictos y la apertura emocional en sus equipos.</p>
+        </list-item>
+      </list>
+      <p>Las sesiones vivenciales y participativas fueron particularmente valoradas por su impacto en la autopercepción y en la resignificación de las relaciones laborales.</p>
+    </sec>
+    <sec>
+      <title>Análisis Integral</title>
+      <p>La triangulación de resultados cuantitativos y cualitativos permite afirmar que la intervención logró incidir positivamente en dimensiones críticas del entorno laboral. La mejora en las condiciones percibidas del trabajo, la reducción del estrés y la activación de redes de apoyo, contribuyeron a fortalecer un clima organizacional más humano, reflexivo y corresponsable.</p>
+      <p>No obstante, los hallazgos también reflejan los límites de este tipo de estrategias cuando no se acompañan de acciones estructurales. La ausencia de avances en la dimensión de remuneración subraya la necesidad de que las intervenciones psicoeducativas se integren a políticas institucionales que contemplen justicia salarial, reconocimiento y mejora de las condiciones laborales.</p>
+      <p>En suma, los resultados de esta intervención validan la pertinencia de aplicar modelos participativos centrados en la salud mental y el bienestar emocional como parte de una política de salud ocupacional integral.</p>
+    </sec>
+    <sec>
+      <title>Discusión</title>
+      <p>La intervención socioeducativa “Me cuido, Nos cuidamos” evidenció mejoras significativas en la percepción de los factores psicosociales entre el personal administrativo participante. La disminución identificada en diversas dimensiones, sugieren que las estrategias implementadas fueron efectivas para mitigar los riesgos psicosociales y fortalecer el bienestar psicoemocional en el entorno laboral. La disminución de los niveles de riesgo en dimensiones como condiciones del entorno físico, exigencias, carga de trabajo y papel laboral, así como las mejoras en la interacción social y el contenido de la tarea, reflejan transformaciones sustanciales en la vivencia del trabajo diario.</p>
+      <p>Estos hallazgos se alinean con las recomendaciones de la Organización Mundial de la Salud (OMS) y la Organización Internacional del Trabajo (OIT), que subrayan la necesidad de integrar la salud mental en las políticas de seguridad y salud ocupacional. La OMS (2024) aboga por intervenciones organizacionales orientadas a mejorar las condiciones y entornos de trabajo, así como por capacitación de los directivos y trabajadores en lo relativo a salud mental para reconocer y gestionar factores estresantes en el trabajo. De igual forma, la Organización Internacional del Trabajo (OIT, 2024) enfatiza la importancia de entornos seguros, saludables y emocionalmente sostenibles, destacando la necesidad de adoptar enfoques estructurales, relacionales e individuales (OMS, 2022; OIT, 2022).</p>
+      <p>Además, se sustentan con el modelo Demanda-Control de Karasek (1979), el cual plantea que la combinación de altas demandas laborales y baja autonomía o control sobre el trabajo incrementa significativamente el estrés laboral, con implicaciones en la salud física y mental. Desde esta perspectiva, las intervenciones planteadas, que promueven el autocuidado, la gestión emocional y el fortalecimiento del apoyo social, contribuyen a ampliar los márgenes de control percibido y a mitigar el impacto de las demandas organizacionales sobre el bienestar.</p>
+      <p>Los resultados del programa también son coincidentes con la evidencia científica que respalda el impacto positivo de las estrategias socioeducativas en la mitigación de riesgos psicosociales laborales. Se constató una mejora significativa en dimensiones clave como condiciones del lugar de trabajo, exigencias laborales, interacción social y contenido de la tarea, lo que refleja una transformación favorable en el clima psicosocial percibido por los trabajadores.</p>
+      <p>Diversas investigaciones han documentado el efecto positivo de intervenciones basadas en la educación para la salud y el fortalecimiento de habilidades psicosociales en contextos laborales. Montano et al., (2014), en una revisión sistemática, concluyen que las intervenciones organizacionales, particularmente aquellas centradas en el fortalecimiento del apoyo social y la gestión del estrés, generan mejoras sostenidas en la salud mental y el bienestar de los trabajadores.</p>
+      <p>En contextos públicos y administrativos, donde la estructura organizacional suele ser rígida y las posibilidades de cambio estructural limitadas, las intervenciones participativas cobran especial relevancia. Un estudio realizado por Leka y Jain (2010), señalan que los programas de intervención diseñados con enfoque participativo tienden a lograr mayor apropiación por parte de los trabajadores, lo que se traduce en una mejora de los indicadores psicosociales y una mayor sostenibilidad de los efectos positivos.</p>
+      <p>El análisis cualitativo del presente estudio refuerza este planteamiento: las y los participantes reportaron una mayor conciencia sobre su salud mental, mejor comunicación interpersonal y un sentido renovado de corresponsabilidad colectiva, todos ellos elementos que reflejan un clima organizacional más saludable y colaborativo. Estos resultados ilustran la importancia de fomentar habilidades psicosociales, no solo como estrategia de autocuidado individual, sino como componente estructural del bienestar colectivo.</p>
+      <p>A pesar de los avances observados, una dimensión crítica que no presentó mejoras fue la percepción sobre la remuneración del rendimiento. Este hallazgo es consistente con la literatura que indica que los factores estructurales, como las políticas de pago, requieren intervenciones de tipo organizacional y no pueden modificarse únicamente a través de estrategias de empoderamiento individual o de grupo (Bakker &amp; Demerouti, 2017).</p>
+      <p>En suma, la intervención “Me cuido, Nos cuidamos” constituye una evidencia empírica del valor de las estrategias socioeducativas participativas para fortalecer el bienestar psicosocial en el trabajo. No obstante, su alcance debe complementarse con transformaciones organizacionales profundas que aborden las fuentes estructurales del malestar, como la inequidad salarial o la sobrecarga de tareas crónicas.</p>
+    </sec>
+    <sec>
+      <title>Limitaciones y Recomendaciones</title>
+      <p>Si bien esta investigación aporta evidencia relevante sobre la efectividad de una intervención socioeducativa para la mejora del bienestar psicosocial en entornos laborales administrativos, es necesario considerar algunas limitaciones que condicionan el alcance y la generalización de los resultados, así como proponer recomendaciones derivadas de dichas restricciones.</p>
+      <p>Una de las limitaciones es que se llevó a cabo con una muestra reducida, (n=20) y mediante muestreo no probabilístico por conveniencia, lo cual limita la representatividad de los hallazgos. Para investigaciones futuras, se recomienda trabajar con muestras más amplias y diversas que incluyan distintos niveles jerárquicos y áreas funcionales dentro de las organizaciones, a fin de enriquecer el análisis comparativo y favorecer la extrapolación de los resultados.</p>
+      <p>Así mismo, la ausencia de un grupo de control impide establecer relaciones causales firmes entre la intervención y los cambios observados. Se sugiere que para investigaciones futuras se utilicen diseños cuasi-experimentales que incluyan grupos comparación y evaluaciones en diferentes momentos del tiempo (longitudinal), con el fin de valorar la sostenibilidad de los efectos alcanzados.</p>
+      <p>En suma, se recomienda que las estrategias de intervención para promover la salud integral en contextos laborales, se aborden desde una perspectiva sistémica, que combine acciones formativas, participativas y pedagógicas con decisiones estructurales que garanticen condiciones de trabajo justas, equitativas y sostenibles.</p>
+    </sec>
+    <sec>
+      <title>Conclusiones</title>
+      <p>La intervención socioeducativa <italic>“Me cuido, Nos cuidamos”</italic> evidenció ser una estrategia efectiva y replicable para la mejora de los factores psicosociales en contextos laborales administrativos. A través de un enfoque preventivo-promocional centrado en el autocuidado, la corresponsabilidad colectiva y la salud mental, fue posible generar cambios significativos en la percepción del ambiente laboral por parte de las y los trabajadores participantes.</p>
+      <p>Los hallazgos cuantitativos mostraron una disminución considerable en los niveles de riesgo en dimensiones críticas como las condiciones del lugar de trabajo, las exigencias laborales, la carga de trabajo y el papel laboral, así como mejoras en la interacción social y el contenido de la tarea. Estos resultados fueron reforzados por evidencia cualitativa que apuntó a un fortalecimiento del sentido de pertenencia, la conciencia sobre la salud emocional y el compromiso con prácticas colectivas de bienestar.</p>
+      <p>Sin embargo, la dimensión de remuneración del rendimiento no mostró variación, lo que sugiere que los factores estructurales requieren intervenciones organizacionales específicas que excedan el alcance de programas socioeducativos. Esto subraya la importancia de que estas intervenciones sean complementadas con acciones institucionales orientadas a la equidad, el reconocimiento y la mejora de las condiciones contractuales.</p>
+      <p>En suma, se concluye que las intervenciones socioeducativas participativas, como la propuesta en este estudio, pueden contribuir significativamente al fortalecimiento del bienestar psicosocial en el trabajo, siempre que formen parte de una política integral de salud ocupacional. Su implementación resulta especialmente pertinente en sectores públicos y contextos organizacionales donde las limitaciones estructurales requieren soluciones creativas, sostenidas y colaborativas.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>Referencias</title>
+      <ref id="ref1">
+        <mixed-citation>Álvarez-Hernández, G., Espinosa, M. E., &amp; López, A. M. (2020). Riesgos psicosociales y salud cardiovascular en empleados administrativos. Revista Médica del IMSS, 58(6), 12-19. <ext-link xlink:href="https://doi.org/10.24875/RMIMSS.M20000056" ext-link-type="uri">https://doi.org/10.24875/RMIMSS.M20000056</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>Aranda Beltrán, C., &amp; Pando Moreno, M. (2014). Confiabilidad y validez de una guía de identificación sobre factores psicosociales en trabajadores mexicanos de diversos giros laborales. Revista Iberoamericana de Psicología, 7(1), 25–32. <ext-link xlink:href="https://doi.org/10.33881/2027-1786.rip.7103" ext-link-type="uri">https://doi.org/10.33881/2027-1786.rip.7103</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>Bakker, A. B., &amp; Demerouti, E. (2017). Job demands–resources theory: Taking stock and looking forward. Burnout Research, 3(4), 1–12. <ext-link xlink:href="https://doi.org/10.1016/j.burn.2017.07.001" ext-link-type="uri">https://doi.org/10.1016/j.burn.2017.07.001</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>Karasek, R. A. (1979). Job demands, job decision latitude and mental strain: Implications for job redesign. <italic>Administrative Science Quarterly</italic>, 24(2), 285-308.</mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>Leka, S., &amp; Jain, A. (2010). Health impact of psychosocial hazards at work: An overview. World Health Organization. <ext-link xlink:href="https://doi.org/10.1080/14778211.2010.488654" ext-link-type="uri">https://doi.org/10.1080/14778211.2010.488654</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>Montano, D., Hoven, H., &amp; Siegrist, J. (2014). Effects of organizational-level interventions at work on employees’ health: a systematic review. BMC Public Health, 14(1), 135. <ext-link xlink:href="https://doi.org/10.1093/occmed/kqu191" ext-link-type="uri">https://doi.org/10.1093/occmed/kqu191</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>Organización Mundial de la Salud (OMS). (2022). World Mental Health Report: Transforming mental health for all. The Lancet, 400(10361), 1438–1439. <ext-link xlink:href="https://doi.org/10.1016/S0140-6736(22)01511-6" ext-link-type="uri">https://doi.org/10.1016/S0140-6736(22)01511-6</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>Organización Internacional del Trabajo (OIT). (2022). La salud mental en el trabajo. <ext-link xlink:href="https://www.ilo.org/es/temas/seguridad-y-salud-en-el-trabajo/la-salud-mental-en-el-trabajo" ext-link-type="uri">https://www.ilo.org/es/temas/seguridad-y-salud-en-el-trabajo/la-salud-mental-en-el-trabajo</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>Organización Mundial de la Salud (OMS). (2022). Directrices sobre la salud mental en el trabajo. Ginebra: OMS. <ext-link xlink:href="https://www.who.int/publications/i/item/9789240053052" ext-link-type="uri">https://www.who.int/publications/i/item/9789240053052</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>Organización Internacional del Trabajo (OIT). (2024). Garantizar la seguridad y la salud en el trabajo en un clima cambiante. <ext-link xlink:href="https://www.ilo.org/sites/default/files/2024-07/ILO_SafeDay24_Report_r13_ES.pdf" ext-link-type="uri">https://www.ilo.org/sites/default/files/2024-07/ILO_SafeDay24_Report_r13_ES.pdf</ext-link></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
