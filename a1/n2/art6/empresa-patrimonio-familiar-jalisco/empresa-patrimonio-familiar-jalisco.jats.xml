@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="es" dtd-version="1.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">gespye</journal-id>
+      <journal-title-group>
+        <journal-title>GESPYE Gestión Pública y Empresarial</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">3061-8630</issn>
+      <publisher>
+        <publisher-name></publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.32870/gespye.vi2.6</article-id>
+      <title-group>
+        <article-title>Análisis de la empresa y el patrimonio familiar en Jalisco</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5397-4066</contrib-id>
+          <name>
+            <surname>Rivera Lima</surname>
+            <given-names>Lizette</given-names>
+          </name>
+          <email>lizette.lima@cucea.udg.mx</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">Profesora del Departamento de Administración, Centro Universitario de Ciencias Económico Administrativas, Universidad de Guadalajara, Correo Electrónico: lizette.lima@cucea.udg.mx Orcid: https://orcid.org/0000-0002-5397-4066</aff>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>30</day>
+        <month>11</month>
+        <year>2024</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>2</issue>
+      <fpage>68</fpage>
+      <lpage>77</lpage>
+      <self-uri xlink:href="https://articulos.gespye.mx/a1/n2/art6/empresa-patrimonio-familiar-jalisco/"/>
+      <self-uri content-type="pdf" xlink:href="https://articulos.gespye.mx/a1/n2/art6/empresa-patrimonio-familiar-jalisco/empresa-patrimonio-familiar-jalisco.pdf"/>
+      <abstract xml:lang="es">
+        <p>Este artículo tiene como objetivo presentar el patrimonio de familia en Jalisco, México como una alternativa de separación y protección de los bienes de la empresa familiar. Metodológicamente se emplearon los métodos analítico-sintético, comparativo y deductivo bajo la técnica de investigación documental. El tipo de estudio fue cualitativo de alcance descriptivo. La importancia del estudio radica dividir el patrimonio familiar de la empresa del patrimonio familiar de los miembros de esta lo cual es el problema más frecuente en este tipo de organizaciones. La aportación del trabajo fue incorporar a la óptica organizacional del régimen de empresa familiar un método eficiente para separar los activos y pasivos empresariales de los bienes personales de los miembros de la familia, las limitaciones del estudio incluyen la naturaleza local de las normas que rigen el patrimonio de familia en México.</p>
+      </abstract>
+      <kwd-group xml:lang="es">
+        <kwd>empresa familiar</kwd>
+        <kwd>patrimonio de familiar</kwd>
+        <kwd>economía familiar</kwd>
+      </kwd-group>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>07</month>
+          <year>2024</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>09</month>
+          <year>2024</year>
+        </date>
+      </history>
+      <permissions>
+        <license xlink:href="https://creativecommons.org/licenses/by-sa/4.0/">
+          <license-p>Esta obra está protegida bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.</license-p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introducción</title>
+      <p>La empresa familiar en México tiene una alta importancia para la sociedad, pues no solo aportan el 85% del Producto Interno Bruto del país; sino que también 9 de cada 10 unidades de negocios en México son empresas familiares (Leyva, 2022). En el caso de Jalisco, conforme al censo realizado a 935 empresas realizado en 2022, 41.5% de empresas se clasifican como empresas familiares; de estas, la mayoría (56%) se autoperciben como empresas familiares (Instituto de Información Estadística y Geografía de Jalisco [IIEG] 2022).</p>
+      <p>Así, se debe tomar en cuenta que cuando se trata de una empresa familiar, las barreras entre el patrimonio de la familia y el patrimonio de la empresa son tenues; ya que, cuando se conforma una empresa apoyada en los vínculos de parentesco, se busca el apoyo del núcleo familiar, además de la obtención de un lucro por tratarse de un negocio; por lo cual, la constitución del patrimonio de familia puede ayudar a salvaguardar los intereses de sus miembros a la vez que coadyuva a fijar una diferencia entre ambos patrimonios. De esta forma, este artículo tiene como objetivo presentar el patrimonio de familia en Jalisco, México como una alternativa de separación y protección de los bienes de la empresa familiar.</p>
+      <p>En este contexto, se debe notar que la empresa familiar se ha estudiado a partir de la organización comercial, puestos y remuneraciones, así como de su sucesión (Rizo, 2013; Soto, 2013; Durán, 2014; Armijo, 2016) mientras que el patrimonio de familia se ha abordado desde la óptica legal y de derecho familiar (López, 2005; Flores, 2006; Torres, 2009; Baqueiro y Buenrostro, 2010; Galindo, 2010; Lepin, 2014; Treviño, 2017).</p>
+      <p>En este orden de ideas, Aguilar y Briozzo (2019) resaltan la necesidad de encontrar mecanismos más allá de la visión clásica de la administración financiera entre la estructura de capital y la riqueza socioemocional de las empresas familiares; así, la pertinencia de esta investigación radica en presentar un enfoque mixto entre la postura administrativa y la postura jurídica del patrimonio de la empresa para buscar el fortalecimiento y continuidad de esta.</p>
+      <p>Conforme a esta lógica, el trabajo se desarrolla a partir del apartado introductivo, seguido del apartado metodológico, en el cual se incluye de forma resumida los métodos y técnicas empleados, así como las preguntas de investigación; posteriormente se desarrollan los puntos de análisis con los cuales se busca dar respuesta a las preguntas de investigación, finalizando con las conclusiones que subrayan las aportaciones del trabajo.</p>
+    </sec>
+    <sec>
+      <title>Metodología</title>
+      <p>El objeto de estudio fue el patrimonio de la empresa familiar, la investigación se delimitó territorialmente por la normativa del Estado de Jalisco, México y temporalmente, se estudiaron las normas vigentes en 2023.</p>
+      <p>El enfoque de investigación fue empírico-cualitativo (Villabella, 2015) ya que el diseño de investigación fue flexible para responder a las preguntas de investigación. Se tomó un criterio explicativo a partir del abordaje de López (2021), para lo cual se usó el método teórico-deductivo conforme al razonamiento y la deducción.</p>
+      <p>De esta forma, las preguntas de investigación fueron las siguientes:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>¿Qué es una empresa familiar en México?</p>
+        </list-item>
+        <list-item>
+          <p>¿Cuáles son los elementos del patrimonio de la empresa familiar y del patrimonio de familia en Jalisco?</p>
+        </list-item>
+        <list-item>
+          <p>¿Cuáles son las disposiciones que norman el patrimonio de familia en Jalisco?</p>
+        </list-item>
+        <list-item>
+          <p>¿Qué consecuencias tiene la creación del patrimonio familiar para la empresa familiar?</p>
+        </list-item>
+      </list>
+      <p>Asimismo, se utilizó la técnica de investigación documental puesto que se consultó el marco jurídico relativo al objeto de estudio, literatura relevante, así como libros y artículos relacionados sobre el tema.</p>
+    </sec>
+    <sec>
+      <title>Desarrollo</title>
+      <sec>
+        <title>La empresa familiar en México</title>
+        <p>La empresa no tiene una definición en el derecho mercantil mexicano; aunque, como explica Dávalos (2010), la Ley Federal del Trabajo y el Código Fiscal de la Federación hacen referencia a esta. La legislación laboral por su parte, explica en su artículo 16 que se trata de una unidad económica la cual puede producir o distribuir bienes o servicios (Ley Federal del Trabajo, 1970); mientras que la legislación fiscal alude a actividades específicas que pueden desarrollar una persona física o moral (Código Fiscal de la Federación, 1981); en consecuencia, la empresa, vista desde la óptica jurídica, puede tratarse de una persona física o bien, una persona moral, generalmente una sociedad mercantil que conforman una unidad económica que realiza actividades empresariales.</p>
+        <p>Las organizaciones pueden identificarse debido a las características propias de cada una en la cual se encuentra un grupo de personas de forma estructurada (Omaña y Briceño, 2013), de esta forma, en la literatura existen múltiples definiciones de empresa familiar, entre las cuales Burgoa, Herrera y Treviño (2013) conceptualizan la empresa familiar como “una forma de organización que se encuentra rodeada de una cultura que tiene como características ser trascedente y compleja y a su vez, es diferente a otras formas de organización tanto por su filosofía, como su propiedad, la forma de hacer negocios y su tipo de financiamiento; así, los autores resaltan la organización como elemento diferenciador de otro tipo de negocios.</p>
+        <p>Por su parte, Soto (2013) realiza una revisión más exhaustiva de la literatura en México respecto al término y advierte que las definiciones siguen el modelo de tres círculos, en el cual se explica la empresa familiar conforme a la familia como base, la empresa como actividad y la propiedad como activo; sin embargo, la autora advierte también la divergencia en las opiniones respecto al factor sucesorio y organizacional de la misma.</p>
+        <p>A su vez, San Martín y Durán (2017) explican la dicotomía entre las definiciones que dan los autores respecto al término y concluyen que la empresa familiar se refiere a las actividades de índole empresarial que realiza una familia e incluyen la propiedad, la dirección y el control, pero también el objetivo de legar esta continuidad a las futuras generaciones; lo cual añade el elemento de continuidad familiar en la propiedad y gestión de la entidad de negocios.</p>
+        <p>En el caso de Jalisco, de acuerdo con el IIEG (2022), se considera la empresa familiar como una unidad económica en la cual los dueños o socios, así como los empleados, tienen parentesco en sí; y adicionalmente, la toma decisiones se realiza de forma estratégica por parte de los familiares que la componen.</p>
+        <p>Díaz (2011) expone que la empresa familiar puede constituirse jurídicamente como una sociedad mercantil, sobresaliendo entre estas la sociedad anónima y la sociedad de responsabilidad limitada; a lo cual, se puede añadir la Sociedad por Acciones Simplificada (Favier y Spagnolo, 2018) en el caso mexicano; aunque, se debe notar que también puede tratarse de una persona física que emplea a los miembros de su familia para llevar a cabo actividades empresariales.</p>
+        <p>Bajo este orden de ideas, se pueden identificar los siguientes elementos como características de la empresa familiar:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>En el plano jurídico, puede tratarse de una persona física o jurídica.</p>
+          </list-item>
+          <list-item>
+            <p>Tiene una base familiar, lo cual implica que los miembros de esta entidad deben compartir vínculos de parentesco, ya sea como dueños, socios o empleados de esta.</p>
+          </list-item>
+          <list-item>
+            <p>Realizan actividades comerciales o industriales con fines de lucro.</p>
+          </list-item>
+          <list-item>
+            <p>Posee patrimonio, gestión y organización de tipo familiar; es decir, se destinan bienes específicos para la operación de la empresa, al mismo tiempo, el control y la toma de decisiones se realizan entre miembros que comparten vínculos de parentesco.</p>
+          </list-item>
+          <list-item>
+            <p>Existe una intención de continuidad y sucesión de esta para las futuras generaciones; esto conlleva a observar que el elemento patrimonial es por un lado el elemento físico de la empresa familiar y por otro, es un constituyente elemental para que la empresa exista.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec>
+        <title>Composición del patrimonio de la empresa familiar</title>
+        <p>El Instituto de Investigaciones Jurídicas (2016) refiere en una primera acepción que el patrimonio “parece indicar los bienes que el hijo tiene, heredados de su padre y abuelos” (p. 2794) lo cual conlleva la transmisión de los bienes entre padres e hijos.</p>
+        <p>Así, Casillas (2020) explica que, en el caso del patrimonio y la empresa, el patrimonio familiar pertenece a los integrantes de una familia y se forma a través del tiempo producto de la actividad que realiza la empresa, lo cual atañe a activos y no pasivos que son generados a partir de la actividad empresarial y que es propiedad del núcleo familiar.</p>
+        <p>Igualmente, el patrimonio de familia va más allá del aspecto financiero o la riqueza económica pues además contiene el patrimonio intangible o no económico relativo a los recursos que se generan de tipo humano, intelectual, organizacional, social y emocional, complementándose ambos patrimonios para promover el desarrollo de la empresa (Casillas, 2020).</p>
+        <p>Se debe recordar que el patrimonio bajo la óptica jurídica comprende dos elementos, uno activo integrado por bienes y derechos y otro pasivo conformado por cargas y obligaciones (Instituto de Investigaciones Jurídicas, 2016) debido a lo cual, el patrimonio de la empresa también debe considerar las cargas y obligaciones subyacentes de la empresa pues esta es propiamente esta pasiva que incide y disminuye la parte activa del mismo.</p>
+        <p>La confusión entre el patrimonio de la empresa y el patrimonio familiar es un problema cotidiano en la vida de estas empresas; al respecto, Barroso y Barriuso (2014) señalan que, si bien la convergencia de ambos patrimonios puede resultar ventajosa, también constituye un reto en la gestión de la empresa.</p>
+        <p>Para solucionar esta fusión entre patrimonios, Leach (2002) citado en Barroso y Barriuso (2014) sugiere separar la vida familiar de la vida laboral o desarrollar estrategias que coadyuven a diferenciar los problemas familiares de los problemas empresariales de forma tal que se logre un equilibrio por medio de la profesionalización de los miembros familiares. Otra solución viable y poco estudiada en la literatura es la separación de ambos caudales patrimoniales por medio de la constitución del patrimonio de familia como se trata a continuación.</p>
+        <p>Se debe tener presente que cuando la empresa familiar opte por constituirse como una sociedad mercantil, esta dispondrá de un patrimonio y personalidad propios diferente al de los socios que la constituyen (Mantilla, 2021), presentándose el problema de la división de los patrimonios familiar y de la empresa familiar sólo cuando se trate de una persona física que realiza actividades empresariales.</p>
+      </sec>
+      <sec>
+        <title>El patrimonio de familia en México</title>
+        <p>El patrimonio de familia se define desde el ámbito jurídico como “un bien o un conjunto de bienes que la ley señala como temporalmente inalienable o inembargables para que respondan a la seguridad de los acreedores alimentarios familiares” (Instituto de Investigaciones Jurídicas, 2016, p. 2804), el derecho representa entonces el patrimonio familiar como la parte positiva del patrimonio que busca asegurar los alimentos de sus miembros mediante la protección de los bienes que lo conforman.</p>
+        <p>Cárdenas (1998) comparte esta visión del patrimonio y agrega que este régimen busca proteger a la familia de la incertidumbre. Sin embargo, De la Mata Pizaña y Garzón Jiménez (2008) no concuerdan con esta postura pues consideran que “no es un patrimonio… ni pertenece, estrictamente, a una familia, pues ésta no tiene personalidad jurídica” (p. 355) lo cual se explica porque no confluyen los elementos activos y pasivos del mismo ni se incorpora como un atributo de la personalidad a una persona física o jurídica.</p>
+        <p>Los autores en comento añaden se trata de una modalidad de los derechos de propiedad que recaen sobre los bienes que emplea una familia para satisfacer sus necesidades y de los cuales son titulares de ahí que, el patrimonio familiar se refiera a un derecho y no a un acervo de bienes, derechos, obligaciones y cargas.</p>
+      </sec>
+      <sec>
+        <title>El patrimonio de familia en Jalisco</title>
+        <p>Independientemente de la postura que se siga sobre la naturaleza de este patrimonio, su constitución, composición y regulación en México se guía por el derecho civil estatal (Cárdenas, 1998) por lo cual, en el caso del Estado de Jalisco, se encuentra regulado en el título decimoprimero del Código Civil para el Estado de Jalisco (CCEJ), en los artículos 777 a 795.</p>
+        <p>La composición del patrimonio familiar se encuentra en el artículo 777 del CCEJ el cual establece como objetos del patrimonio de familia, los siguientes:</p>
+        <list list-type="order">
+          <list-item>
+            <p>I. La casa que ésta habita, incluyendo el mobiliario y equipo de la vivienda;</p>
+          </list-item>
+          <list-item>
+            <p>II. Un vehículo automotor;</p>
+          </list-item>
+          <list-item>
+            <p>III. El equipo y herramientas de la micro o pequeña industria que sirva de sustento económico a la familia;</p>
+          </list-item>
+          <list-item>
+            <p>IV. La parcela cultivable de dominio pleno; y</p>
+          </list-item>
+          <list-item>
+            <p>V. La pequeña propiedad en los términos de la Ley Agraria; y</p>
+          </list-item>
+          <list-item>
+            <p>VI. El lote destinado a la construcción de casa-habitación para la familia (CCEJ, 1995).</p>
+          </list-item>
+        </list>
+        <p>De esta forma, el patrimonio familiar intenta proteger bienes directamente relacionados con la vida familiar como la casa habitación y el automotor, así como la fuente de sostenimiento de la familia como lo son el equipo y las herramientas necesarias para el negocio familiar a condición de que este sea una micro o pequeña; de ahí que haya una interrelación directa con la operación y continuación de la empresa familiar.</p>
+        <p>Se debe observar que la legislación estatal no prevé un límite mínimo o máximo en términos de cuantía para la constitución del patrimonio familiar; sino que su constitución está limitada a los bienes señalados en el artículo 777 antes citado, observando que tampoco es necesario que se cumplan con todas las fracciones para constituirlo, quedando a voluntad de los constituyentes elegir qué bienes deben integrar el patrimonio familiar.</p>
+        <p>Por otro lado, el artículo 778 dispone que este tipo de patrimonio puede ser constituido por cualquier miembro de la familia, definida esta por el propio numeral como “todo grupo de personas que habitan en una casa, se encuentren unidos por vínculo de matrimonio con concubinato o lazos de parentesco sanguíneo y que por la ley o voluntariamente tengan unidad en la administración del hogar” (CCEJ, 1995), lo cual atañe a lo que socialmente se considera familia, y que es discutible cuando establece al concubinato como una relación entre hombre y mujer, por lo que, se podría discutir considerando la evolución del concepto de familia como lo señalan De la Fuente (2012) y Benítez (2017).</p>
+        <p>En el mismo sentido, Pérez (2010) opina que el patrimonio de familia podría ser constituido por cualquier miembro de la familia o bien, por cualquier persona que quisiera proteger a su familia, lo cual en el Estado de Jalisco está limitado a solo a aquellas personas que residan en un mismo inmueble y compartan vínculos de parentesco.</p>
+      </sec>
+      <sec>
+        <title>Efectos y límites del patrimonio de familia ante terceros</title>
+        <p>Para constituir el patrimonio familiar, se estará a lo señalado en el artículo 784 (CCEJ, 1995). Los efectos de la creación del patrimonio de familia están contenidos en los artículos 779 y 780 que establecen que los miembros de la familia continúan siendo los dueños de las propiedades, aunque los bienes al estar protegidos por este régimen se convierten en intransferibles e inembargables; es decir, no pueden utilizarse como garantía o hipotecarse, no pueden venderse, cederse o transmitirse y tampoco pueden ser objeto de un embargo.</p>
+        <p>Por otra parte, únicamente se permite la existencia de un patrimonio familiar por cada familia; así, en caso de que se haya constituido un patrimonio y se busque constituir un segundo patrimonio otro aun cuando el primero persista, la segunda constitución del patrimonio no tendrá efectos jurídicos, como dispone el artículo 783 (CCEJ, 1995).</p>
+        <p>Es posible sustituir bienes del patrimonio familiar cuando se desgasten, siendo necesario que un Juez autorice dicha sustitución, según lo expuesto en el artículo 789 (CCEJ, 1995). Igualmente, es posible establecer la sucesión del patrimonio familiar, para lo cual será necesario indicar el nombre de las personas sucesoras en caso de fallecimiento de los constituyentes de conformidad al artículo 787 (CCEJ, 1995).</p>
+        <p>La extinción del patrimonio familiar requiere la intervención del Juez debido en gran parte a los avisos que tienen que darse a las autoridades estatales sobre el mismo como se establece en el artículo 792 (CCEJ, 1995). Por otro lado, para llevar a cabo su extinción, es necesario que los beneficiarios así lo soliciten ya sea porque es su voluntad o bien porque sobrevenga una causa justificada que no permita su continuidad según lo expuesto en el numeral 791 (CCEJ, 1995).</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Conclusiones</title>
+      <p>A pesar de que existen muchas definiciones respecto a la empresa familiar, se debe tener presente que la legislación no define la empresa familiar, sino son los autores los cuales a través de sus interpretaciones, han dado características y cualidades a esta forma de organización; así, en el presente trabajo se concluye que la empresa familiar es una unidad económica en la cual se pueden identificar tres elementos que distinguen esta estructura, a saber, una familia, un patrimonio y una organización lo cual contesta a la primera pregunta de investigación.</p>
+      <p>Al estudiar el elemento patrimonial de esta empresa, se advierte que la literatura toma en cuenta solo la parte activa del patrimonio pues incluye bienes y capital sin considerar que la concepción clásica del patrimonio incluye a su vez obligaciones y cargas, lo cual responde a la segunda pregunta de investigación.</p>
+      <p>Un problema constante en este tipo de organizaciones es la división entre los bienes de la familia y los bienes de la empresa, la cual se suscita en el caso mexicano, cuando la empresa familiar toma forma en el ámbito jurídico de una persona física que lleva a cabo actividades empresariales; puesto que, si la familia decide constituir una sociedad mercantil para realizar actividades empresariales, el patrimonio de la sociedad no formará parte del patrimonio familiar pues se tratará de una persona diferente a los familiares que la conforman.</p>
+      <p>Empero, cuando se presente la disyuntiva de la empresa familiar y el patrimonio, la constitución de un patrimonio familiar considerado desde el punto de vista jurídico, es una solución viable y factible que por un lado permitir a la micro y mini empresa continuar ante la adversidad y por otro lado, asegurar a los miembros de la familia su supervivencia a través de la protección de los bienes bajo este régimen jurídico y por último, separar los bienes de la empresa de los bienes familiares.</p>
+      <p>Así, el patrimonio familiar en México está regulado por los códigos civiles de las entidades federativas por lo cual las reglas para su constitución y elementos que lo integran dependerán de cada Estado. En el caso de Jalisco su Marco regulatorio se encuentra en los artículos 777 a 795 del CCEJ. Al analizar su composición se advierte que es un régimen de protección a la propiedad que toma sólo en cuenta los activos identificados con miembros de una familia y considera también las herramientas y utensilios básicos para el funcionamiento la empresa familiar, aunque, lo anterior responde a la tercera pregunta de investigación planteada.</p>
+      <p>Las consecuencias de la creación de este régimen ante terceros son que no pueden gravarse sus bienes, asimismo, no pueden transmitirse o embargarse; dichas acciones buscan entonces preservar los bienes necesarios para el sostenimiento del núcleo familiar, respondiendo de esta forma la cuarta y última pregunta de investigación.</p>
+      <p>Por último, las limitaciones del estudio incluyen la naturaleza local de las normas que rigen el patrimonio de familia en México, asimismo, las futuras líneas de investigación versan sobre el protocolo familiar, la sucesión en la empresa familiar y los modos de organización de la empresa familiar sobre el patrimonio y la administración gerencial de la misma.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>Referencias</title>
+      <ref id="ref1">
+        <mixed-citation>Aguilar, V. G., y Briozzo, A. (2020). Empresas familiares: estructura de capital y riqueza socioemocional. Investigación administrativa, 49(125), 12507. Fecha de consulta: 23 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://doi.org/10.35426/iav49n125.07" ext-link-type="uri">https://doi.org/10.35426/iav49n125.07</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>Armijo, A. M. (2016). Economía familiar y gestión del patrimonio familiar por las mujeres santiaguinas (Chile), 1580-1650. HiSTOReLo. Revista de Historia Regional y Local, 8(16), 14-51. Fecha de consulta: 23 de diciembre de 2023.</mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>Consultado en: <ext-link xlink:href="https://doi.org/10.15446/historelo.v8n16.52213" ext-link-type="uri">https://doi.org/10.15446/historelo.v8n16.52213</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>Baqueiro, E. y Buenrostro, R. (2010). Derecho civil. Introducción y personas. Distrito Federal, México: Oxford.</mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>Barroso, A. y Barriuso, C. (2014). Las empresas familiares. Escuela de Ingenierías Agrarias. En Fundación Caja de Badajoz (Ed.), La agricultura y la ganadería extremeñas, (pp. 75-94). Extremadura, España: Universidad de Extremadura.</mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>Benítez, M. E. (2017). La familia: Desde lo tradicional a lo discutible. Revista Novedades en Población, 13(26), 58-68. Fecha de consulta: 23 de diciembre de 2023. Consultado en: <ext-link xlink:href="http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S1817-40782017000200005&amp;lng=es&amp;tlng=es" ext-link-type="uri">http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S1817-40782017000200005&amp;lng=es&amp;tlng=es</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>Burgoa, T.; Herrera, E. y Treviño, J. (2013). Estudio sobre la Administración de Empresas Familiares en México: Principales Problemas y Retos que Enfrentan. Daena: International Journal of Good Conscience. 8(2). Fecha de consulta: 23 de diciembre de 2023. Consultado en: <ext-link xlink:href="http://www.spentamexico.org/v8-n2/A1.8(2)1-22.pdf" ext-link-type="uri">http://www.spentamexico.org/v8-n2/A1.8(2)1-22.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>Cárdenas, F. A. (1998). El patrimonio de familia su constitución, modificación y extinción ante notario. Revista de Derecho Notarial Mexicano, 11. Fecha de consulta: 23 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://revistas-colaboracion.juridicas.unam.mx/index.php/derecho-notarial/article/download/6753/6060" ext-link-type="uri">https://revistas-colaboracion.juridicas.unam.mx/index.php/derecho-notarial/article/download/6753/6060</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>Casillas, J. C. (2020). Patrimonio y empresa familiar. Cátedra de Empresa Familiar, Universidad de Sevilla. Fecha de consulta: 23 de diciembre de 2023. Consultado en: <ext-link xlink:href="http://institucionales.us.es/empresafamiliar/blog/patrimonio-empresa-familiar/" ext-link-type="uri">http://institucionales.us.es/empresafamiliar/blog/patrimonio-empresa-familiar/</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>Código Civil del Estado de Jalisco. (1995). Última reforma publicada en el Periódico Oficial el 12 de diciembre de 2023.</mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>Código Fiscal de la Federación. (1981). Última reforma publicada en el Diario Oficial de la Federación el 12 de noviembre de 2021.</mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>De la Fuente, J. C. (2012). La protección constitucional de la familia en América Latina. Revista IUS, 6(29), 60-76. Fecha de consulta: 23 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://doi.org/10.35487/rius.v6i29.2012.55" ext-link-type="uri">https://doi.org/10.35487/rius.v6i29.2012.55</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>De la Mata, F. y Garzón, R. (2008). Derecho familiar y sus reformas más recientes en la legislación del Distrito Federal. Distrito Federal, México: Porrúa.</mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>Díaz, M. A. (2011). La empresa familiar y su organización en forma de sociedad mercantil, con especial referencia a la sociedad de responsabilidad limitada. Pecvnia: Revista De La Facultad De Ciencias Económicas Y Empresariales, Universidad De León, (12), 1–70. Fecha de consulta: 23 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://doi.org/10.18002/pec.v0i12.615" ext-link-type="uri">https://doi.org/10.18002/pec.v0i12.615</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>Durán, J. A. (2014). Estudio comparativo de la empresa familiar en México en el Contexto Mundial. Revista de Estudios en Contaduría, Administración e Informática, 5. Fecha de consulta: 23 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://www.udlap.mx/empresasfamiliares/assets/files/articulosempresas/EstudioComparativoDeLaEmpresaFamiliarMx.pdf" ext-link-type="uri">https://www.udlap.mx/empresasfamiliares/assets/files/articulosempresas/EstudioComparativoDeLaEmpresaFamiliarMx.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>Favier, E. M. y Spagnolo, L. (2018). La sociedad por acciones simplificada como «tipo ideal» para las empresas familiares. Revista del notariado. Fecha de consulta: 27 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://www.revista-notariado.org.ar/index.php/2018/07/la-sociedad-por-acciones-simplificada-como-tipo-ideal-para-las-empresas-familiares/" ext-link-type="uri">https://www.revista-notariado.org.ar/index.php/2018/07/la-sociedad-por-acciones-simplificada-como-tipo-ideal-para-las-empresas-familiares/</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>Flores, M. J. (2006). La importancia del patrimonio de la familia. Revista Tohil, 20. Fecha de consulta: 28 de diciembre de 2023. Consultado en: <ext-link xlink:href="http://www.derecho.uady.mx/tohil/rev20/La%20importancia%20del%20patrimonio%20de%20la%20familia.pdf" ext-link-type="uri">http://www.derecho.uady.mx/tohil/rev20/La%20importancia%20del%20patrimonio%20de%20la%20familia.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>Galindo, I. (2010). Derecho Civil. Distrito Federal, México: Porrúa.</mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>Instituto de Información Estadística Económica y Financiera. (2022). Afectaciones económicas a dos años de la pandemia: Negocios. Fecha de consulta: 28 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://iieg.gob.mx/ns/wp-content/uploads/2022/06/Afectaciones_economicas_a_2a_de_la_pandemia_Negocios_20220620.pdf" ext-link-type="uri">https://iieg.gob.mx/ns/wp-content/uploads/2022/06/Afectaciones_economicas_a_2a_de_la_pandemia_Negocios_20220620.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>Instituto de Investigaciones Jurídicas. (2016). Diccionario Jurídico Mexicano P-Z. Distrito Federal, México: Porrúa y Universidad Nacional Autónoma de México.</mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>Lepin, C. (2014). Los nuevos principios del derecho de familia. Revista chilena de derecho privado, (23), 9-55. Fecha de consulta: 28 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://dx.doi.org/10.4067/S0718-80722014000200001" ext-link-type="uri">https://dx.doi.org/10.4067/S0718-80722014000200001</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>Ley Federal del Trabajo. (1970). Última reforma publicada en el Diario Oficial de la Federación el 29 de noviembre de 2023.</mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>Leyva, J. (2022, febrero 10). Empresas familiares representan el 90% de las unidades de negocio de México. El financiero. Fecha de consulta: 28 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://www.elfinanciero.com.mx/economia/2022/02/10/empresas-familiares-representan-el-90-de-las-unidades-de-negocio-de-mexico/" ext-link-type="uri">https://www.elfinanciero.com.mx/economia/2022/02/10/empresas-familiares-representan-el-90-de-las-unidades-de-negocio-de-mexico/</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>López, C. (2005). Derecho de familia y tribunales de familia I. Santiago de Chile, Chile: Librotecnia.</mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>López, E. (2021). La investigación jurídica. En W. A. Godínez (Coordinadora), Técnicas de investigación jurídica (pp. 61-108). Ciudad de México, México: Tirant Lo Blanch.</mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>Mantilla Molina, R. (2021). Derecho mercantil. Ciudad de México, México: Porrúa.</mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>Omaña, L. M. &amp; Briceño, M. A. (2013). Gerencia de las empresas familiares y no familiares: análisis comparativo. Estudios Gerenciales, 29(128), 293-302. Fecha de consulta: 28 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://www.redalyc.org/articulo.oa?id=21229786003" ext-link-type="uri">https://www.redalyc.org/articulo.oa?id=21229786003</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>Pérez, M. M. (2010). Derecho de familia y sucesiones. Distrito Federal, México: Universidad Nacional Autónoma de México.</mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>Rizo, J. M. (2013). El Sucesor: el reto de entregar tu empresa familiar a nuevas generaciones. Revista enciclopédica tributaria opciones legales-fiscales, 30. Fecha de consulta: 28 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://vlex.com.mx/vid/493691171" ext-link-type="uri">https://vlex.com.mx/vid/493691171</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>San Martín, J. M. &amp; Durán, J. A. (2017). Radiografía de la empresa familiar en México. Puebla, México: Fundación Universidad de las Américas.</mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>Soto, A. (2013). La empresa familiar en México: Situación actual de la investigación. Contaduría y administración, 58(2), 135-171. Fecha de consulta: 28 de diciembre de 2023. Consultado en: <ext-link xlink:href="https://dx.doi.org/10.1016/S0186-1042(13)71213-0" ext-link-type="uri">http://dx.doi.org/10.1016/S0186-1042(13)71213-0</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>Torres, M. (2009). ¡Viva la familia! Un panorama de la legislación vigente en México. Alteridades, 19(38), 41-54. Fecha de consulta: 28 de diciembre de 2023. Consultado en: <ext-link xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0188-70172009000200004&amp;lng=es&amp;tlng=es" ext-link-type="uri">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0188-70172009000200004&amp;lng=es&amp;tlng=es</ext-link> .</mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>Treviño, M. C. (2017). Derecho familiar. Ciudad de México, México: Iure editores.</mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>Villabella, C. M. (2015). Los métodos en la investigación jurídica. Algunas precisiones. En W. A. Godínez y J. H. García, (Coordinadores). Metodologías: Enseñanza e investigación jurídicas (pp. 921-953). Distrito Federal, México: Instituto de Investigaciones Jurídica.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
